@@ -1,0 +1,5959 @@
+dog_breed,confidence_rate,is_dog
+Orange,9.7,False
+Bagel,8.59,False
+Banana,7.61,False
+Chihuahua,32.36,True
+Pekinese,9.06,True
+Papillon,6.9,True
+Chihuahua,71.6,True
+Malamute,7.83,True
+Kelpie,3.14,True
+Paper Towel,17.03,False
+Labrador Retriever,16.81,True
+Spatula,4.08,False
+Basset,55.57,True
+English Springer,22.58,True
+German Short-Haired Pointer,17.52,True
+Chesapeake Bay Retriever,42.56,True
+Irish Terrier,11.63,True
+Indian Elephant,7.69,False
+Appenzeller,34.17,True
+Border Collie,19.93,True
+Ice Lolly,19.35,False
+Pomeranian,56.61,True
+Eskimo Dog,17.84,True
+Pembroke,7.65,True
+Irish Terrier,48.76,True
+Irish Setter,19.31,True
+Chesapeake Bay Retriever,11.82,True
+Pembroke,51.13,True
+Cardigan,45.1,True
+Chihuahua,2.92,True
+Samoyed,95.8,True
+Pomeranian,1.39,True
+Chow,0.82,True
+French Bulldog,37.74,True
+Labrador Retriever,15.13,True
+Muzzle,8.3,False
+Pembroke,96.63,True
+Cardigan,2.74,True
+Basenji,0.46,True
+French Bulldog,99.17,True
+Boxer,0.21,True
+Staffordshire Bullterrier,0.15,True
+Golden Retriever,95.34,True
+Labrador Retriever,1.38,True
+Redbone,0.8,True
+Whippet,62.62,True
+Borzoi,19.47,True
+Saluki,2.74,True
+Golden Retriever,71.47,True
+Tibetan Mastiff,12.02,True
+Labrador Retriever,10.55,True
+Golden Retriever,46.98,True
+Labrador Retriever,18.42,True
+English Setter,7.35,True
+Siberian Husky,70.04,True
+Eskimo Dog,16.65,True
+Malamute,11.14,True
+French Bulldog,99.5,True
+Pug,0.09,True
+Bull Mastiff,0.09,True
+Basset,82.17,True
+Redbone,8.76,True
+Weimaraner,2.62,True
+Limousine,13.04,False
+Tow Truck,2.92,False
+Shopping Cart,2.63,False
+Pembroke,80.92,True
+Rhodesian Ridgeback,5.5,True
+Beagle,3.89,True
+Mexican Hairless,33.07,True
+Sea Lion,27.56,False
+Weimaraner,13.42,True
+Samoyed,73.39,True
+Eskimo Dog,3.5,True
+Staffordshire Bullterrier,2.97,True
+Chihuahua,79.35,True
+Toy Terrier,14.35,True
+Can Opener,3.23,False
+Kuvasz,30.97,True
+Great Pyrenees,18.61,True
+Dandie Dinmont,8.63,True
+Convertible,73.9,False
+Sports Car,14.0,False
+Car Wheel,4.42,False
+French Bulldog,99.92,True
+Chihuahua,0.04,True
+Boston Bull,0.01,True
+Pug,94.36,True
+Shower Cap,2.53,False
+Siamese Cat,0.28,False
+Blenheim Spaniel,97.25,True
+Shih-Tzu,0.66,True
+Bernese Mountain Dog,0.62,True
+Pug,36.93,True
+Labrador Retriever,26.58,True
+Kuvasz,13.47,True
+Malamute,81.25,True
+Siberian Husky,7.17,True
+Eskimo Dog,5.58,True
+Italian Greyhound,25.99,True
+American Staffordshire Terrier,19.85,True
+Staffordshire Bullterrier,12.77,True
+Chow,82.21,True
+Norwich Terrier,10.61,True
+Norfolk Terrier,3.73,True
+Pug,54.64,True
+French Bulldog,40.43,True
+Brabancon Griffon,4.4,True
+Pembroke,99.32,True
+Cardigan,0.32,True
+Chihuahua,0.21,True
+German Shepherd,70.7,True
+Malinois,19.94,True
+Norwegian Elkhound,4.91,True
+Doberman,61.09,True
+Miniature Pinscher,29.96,True
+Kelpie,6.3,True
+Golden Retriever,94.31,True
+Labrador Retriever,3.24,True
+Kuvasz,0.55,True
+Chow,98.8,True
+Tibetan Mastiff,0.71,True
+Newfoundland,0.21,True
+Golden Retriever,94.96,True
+Labrador Retriever,4.59,True
+Kuvasz,0.25,True
+Eskimo Dog,46.68,True
+Siberian Husky,40.6,True
+Dingo,7.34,False
+Labrador Retriever,85.0,True
+Chesapeake Bay Retriever,7.43,True
+Flat-Coated Retriever,1.56,True
+Pembroke,54.3,True
+Chihuahua,25.2,True
+Cardigan,10.77,True
+Golden Retriever,76.22,True
+Labrador Retriever,9.9,True
+Cocker Spaniel,1.72,True
+Web Site,94.96,False
+Dhole,1.73,False
+Golden Retriever,0.69,True
+Weimaraner,29.15,True
+Chesapeake Bay Retriever,27.9,True
+Koala,12.7,False
+Saluki,52.9,True
+Afghan Hound,25.0,True
+Golden Retriever,16.07,True
+Samoyed,28.15,True
+Angora,27.21,False
+Persian Cat,11.49,False
+Tusker,47.33,False
+Indian Elephant,24.56,False
+Ibex,5.57,False
+Street Sign,25.18,False
+Umbrella,11.51,False
+Traffic Light,6.95,False
+Pembroke,79.14,True
+Norwich Terrier,6.14,True
+Chihuahua,3.37,True
+Golden Retriever,91.33,True
+Labrador Retriever,2.63,True
+Cocker Spaniel,0.94,True
+Chihuahua,23.85,True
+Meerkat,10.43,False
+Clumber,5.26,True
+Miniature Pinscher,12.03,True
+Rhodesian Ridgeback,10.64,True
+Beagle,10.61,True
+Basset,81.35,True
+Beagle,14.67,True
+Cocker Spaniel,0.95,True
+German Short-Haired Pointer,47.99,True
+Vizsla,12.44,True
+Bath Towel,7.33,False
+English Springer,38.34,True
+Boston Bull,13.5,True
+Cardigan,11.05,True
+Tricycle,66.36,False
+Labrador Retriever,3.35,True
+Pembroke,1.88,True
+Tabby,31.19,False
+Window Screen,16.91,False
+Egyptian Cat,13.29,False
+Vizsla,96.05,True
+Miniature Pinscher,0.94,True
+American Staffordshire Terrier,0.87,True
+Italian Greyhound,73.47,True
+Whippet,15.05,True
+Ibizan Hound,3.97,True
+Basset,32.04,True
+Collie,21.6,True
+Appenzeller,12.85,True
+French Bulldog,83.91,True
+Boston Bull,7.88,True
+Toy Terrier,1.52,True
+Chesapeake Bay Retriever,83.8,True
+Labrador Retriever,6.2,True
+Weimaraner,4.06,True
+Basset,99.54,True
+Welsh Springer Spaniel,0.19,True
+Bathtub,0.05,False
+Saluki,51.0,True
+Italian Greyhound,9.05,True
+Golden Retriever,7.94,True
+Pembroke,93.11,True
+Cardigan,6.87,True
+Basenji,0.01,True
+Bloodhound,57.58,True
+Redbone,24.1,True
+Tibetan Mastiff,8.89,True
+Golden Retriever,87.46,True
+Irish Terrier,3.74,True
+Chow,1.67,True
+Bernese Mountain Dog,53.43,True
+Saint Bernard,34.63,True
+Greater Swiss Mountain Dog,9.49,True
+Labrador Retriever,79.96,True
+Chesapeake Bay Retriever,18.0,True
+Vizsla,0.46,True
+Siberian Husky,24.5,True
+Pembroke,22.37,True
+Dingo,16.08,False
+West Highland White Terrier,71.43,True
+Siberian Husky,9.19,True
+Great Pyrenees,4.6,True
+Labrador Retriever,83.61,True
+Staffordshire Bullterrier,4.71,True
+Beagle,3.6,True
+Cocker Spaniel,43.72,True
+Miniature Poodle,27.72,True
+Toy Poodle,15.74,True
+Flat-Coated Retriever,83.22,True
+Black-And-Tan Coonhound,4.04,True
+Newfoundland,2.82,True
+Cardigan,80.67,True
+Pembroke,11.66,True
+Kelpie,4.92,True
+Newfoundland,67.85,True
+Tibetan Mastiff,24.4,True
+Chow,4.85,True
+Vizsla,61.98,True
+Bloodhound,33.81,True
+Chesapeake Bay Retriever,1.27,True
+Labrador Retriever,47.69,True
+Chesapeake Bay Retriever,17.41,True
+German Short-Haired Pointer,9.29,True
+Pug,99.91,True
+French Bulldog,0.06,True
+Bull Mastiff,0.01,True
+Cocker Spaniel,51.32,True
+Sussex Spaniel,15.91,True
+Standard Poodle,14.95,True
+Pembroke,93.19,True
+Cardigan,3.77,True
+Chihuahua,1.2,True
+Basketball,80.84,False
+Pug,6.67,True
+Dalmatian,5.46,True
+Shetland Sheepdog,96.92,True
+Collie,1.83,True
+Pomeranian,0.85,True
+Labrador Retriever,92.14,True
+Golden Retriever,6.46,True
+Bloodhound,0.34,True
+Komondor,97.48,True
+Briard,2.0,True
+Swab,0.32,False
+Kelpie,39.81,True
+Macaque,6.9,False
+Dingo,5.06,False
+Home Theater,16.83,False
+Sandbar,9.8,False
+Television,7.97,False
+Pembroke,94.55,True
+Cardigan,4.59,True
+Beagle,0.43,True
+Golden Retriever,84.1,True
+Great Pyrenees,9.93,True
+Labrador Retriever,3.26,True
+Greater Swiss Mountain Dog,62.28,True
+Appenzeller,15.85,True
+Entlebucher,14.81,True
+Comic Book,53.44,False
+Envelope,28.07,False
+Book Jacket,4.38,False
+Pembroke,98.01,True
+Cardigan,1.93,True
+Malamute,0.01,True
+Pembroke,99.34,True
+Cardigan,0.63,True
+Chihuahua,0.02,True
+Chihuahua,95.52,True
+Toy Terrier,0.81,True
+Muzzle,0.63,False
+Pembroke,66.42,True
+Chihuahua,16.92,True
+Cardigan,13.27,True
+Laptop,15.37,False
+French Bulldog,10.0,True
+Printer,7.71,False
+Labrador Retriever,86.81,True
+Great Pyrenees,6.1,True
+Saint Bernard,3.35,True
+Whippet,37.82,True
+Italian Greyhound,27.59,True
+American Staffordshire Terrier,9.5,True
+Labrador Retriever,52.26,True
+Kuvasz,33.25,True
+Dalmatian,3.2,True
+Border Collie,66.2,True
+Cardigan,17.57,True
+Collie,8.71,True
+Eskimo Dog,61.65,True
+Siberian Husky,38.13,True
+Malamute,0.17,True
+Samoyed,47.14,True
+Pekinese,30.22,True
+Pomeranian,15.66,True
+Flat-Coated Retriever,51.47,True
+Groenendael,30.64,True
+Curly-Coated Retriever,6.13,True
+French Bulldog,90.53,True
+Boston Bull,7.81,True
+Pug,0.18,True
+Samoyed,98.41,True
+Pomeranian,0.79,True
+Keeshond,0.33,True
+Golden Retriever,67.37,True
+Kuvasz,15.75,True
+Labrador Retriever,12.61,True
+Chesapeake Bay Retriever,83.24,True
+Labrador Retriever,16.36,True
+Weimaraner,0.28,True
+Pembroke,98.99,True
+Cardigan,0.99,True
+Basenji,0.01,True
+Pole,47.86,False
+Lakeside,11.42,False
+Wreck,5.59,False
+Bull Mastiff,66.86,True
+French Bulldog,18.06,True
+Staffordshire Bullterrier,5.22,True
+Golden Retriever,94.59,True
+Labrador Retriever,2.13,True
+Tibetan Mastiff,2.05,True
+Marmot,35.88,False
+Meerkat,17.47,False
+Weasel,12.35,False
+Eskimo Dog,41.33,True
+Malamute,34.76,True
+Siberian Husky,14.95,True
+Staffordshire Bullterrier,69.05,True
+French Bulldog,10.34,True
+Beagle,7.95,True
+Lakeland Terrier,27.52,True
+Airedale,19.06,True
+Teddy,10.26,False
+French Bulldog,93.58,True
+Pug,5.96,True
+Boxer,0.14,True
+Australian Terrier,20.73,True
+Irish Terrier,15.63,True
+German Shepherd,12.35,True
+Basset,39.33,True
+Beagle,24.2,True
+Boxer,7.77,True
+Home Theater,49.63,False
+Studio Couch,16.73,False
+Barber Chair,5.26,False
+Chow,67.76,True
+Pomeranian,27.06,True
+Pekinese,3.81,True
+Cardigan,77.1,True
+Pembroke,13.72,True
+French Bulldog,6.33,True
+Syringe,14.47,False
+Oxygen Mask,10.67,False
+Bouvier Des Flandres,8.26,True
+German Shepherd,50.8,True
+Pembroke,13.61,True
+Muzzle,7.58,False
+Cardigan,58.39,True
+Pembroke,5.6,True
+Beagle,4.59,True
+Bedlington Terrier,28.66,True
+Toy Poodle,23.52,True
+Lakeland Terrier,8.8,True
+Lakeside,31.23,False
+Dock,15.98,False
+Canoe,7.08,False
+Chimpanzee,26.76,False
+Gorilla,10.43,False
+Orangutan,5.99,False
+French Bulldog,25.46,True
+Staffordshire Bullterrier,19.26,True
+Hog,10.03,False
+Labrador Retriever,89.91,True
+Golden Retriever,4.71,True
+Kuvasz,2.32,True
+Golden Retriever,89.55,True
+Irish Setter,2.41,True
+Labrador Retriever,1.93,True
+Angora,22.42,False
+Malamute,21.62,True
+Persian Cat,12.84,False
+Revolver,19.03,False
+Projectile,14.91,False
+Fountain,6.6,False
+Golden Retriever,57.81,True
+Labrador Retriever,28.61,True
+Bloodhound,2.69,True
+Pembroke,98.74,True
+Cardigan,0.87,True
+Basenji,0.34,True
+Golden Retriever,86.39,True
+Labrador Retriever,1.59,True
+Doormat,1.06,False
+French Bulldog,43.26,True
+English Springer,32.59,True
+Lakeland Terrier,4.26,True
+Labrador Retriever,91.98,True
+Beagle,4.35,True
+Golden Retriever,2.34,True
+Malamute,84.16,True
+Siberian Husky,7.36,True
+Eskimo Dog,7.21,True
+Samoyed,99.8,True
+Pomeranian,0.09,True
+Keeshond,0.03,True
+Golden Retriever,96.86,True
+Labrador Retriever,1.03,True
+Saluki,0.41,True
+Boston Bull,30.69,True
+Siamese Cat,19.12,False
+Chihuahua,18.93,True
+Old English Sheepdog,79.85,True
+Tibetan Terrier,6.06,True
+Standard Poodle,4.07,True
+Chihuahua,87.65,True
+Italian Greyhound,3.3,True
+Cardigan,2.08,True
+Flat-Coated Retriever,32.17,True
+Labrador Retriever,11.51,True
+Groenendael,9.61,True
+Blenheim Spaniel,38.95,True
+Pekinese,18.82,True
+Japanese Spaniel,8.26,True
+Pembroke,69.55,True
+Cardigan,5.89,True
+Chow,2.84,True
+Chihuahua,26.02,True
+Toy Poodle,18.92,True
+Labrador Retriever,14.42,True
+Pembroke,90.71,True
+Cardigan,8.63,True
+Chihuahua,0.14,True
+Black-And-Tan Coonhound,85.49,True
+Doberman,5.08,True
+Bluetick,2.18,True
+English Springer,35.47,True
+Collie,17.75,True
+Border Collie,13.17,True
+Miniature Pinscher,29.25,True
+Chihuahua,12.09,True
+Rottweiler,11.95,True
+German Shepherd,50.99,True
+Malinois,23.73,True
+Kelpie,4.69,True
+Grille,65.23,False
+Beach Wagon,11.28,False
+Convertible,8.63,False
+Great Dane,78.38,True
+Rhodesian Ridgeback,11.41,True
+English Foxhound,4.64,True
+Golden Retriever,71.12,True
+Otterhound,6.82,True
+Sussex Spaniel,4.66,True
+Bloodhound,18.65,True
+Brabancon Griffon,13.9,True
+Rottweiler,12.59,True
+Barbell,97.16,False
+Dumbbell,2.84,False
+Go-Kart,0.0,False
+Prison,35.28,False
+Dishwasher,11.07,False
+File,9.41,False
+Barrow,42.32,False
+Bernese Mountain Dog,41.54,True
+Entlebucher,6.73,True
+Cardigan,39.45,True
+Chihuahua,7.73,True
+French Bulldog,7.66,True
+Web Site,91.96,False
+Menu,2.63,False
+Crossword Puzzle,0.35,False
+Car Mirror,97.15,False
+Seat Belt,0.71,False
+Standard Poodle,0.57,True
+Pug,99.7,True
+Bull Mastiff,0.1,True
+French Bulldog,0.09,True
+Yorkshire Terrier,24.9,True
+Maltese Dog,16.64,True
+Shih-Tzu,14.23,True
+Tennis Ball,71.48,False
+Kelpie,10.54,True
+Malinois,5.86,True
+Shetland Sheepdog,75.99,True
+Collie,10.74,True
+Pembroke,5.23,True
+Chihuahua,29.21,True
+Toy Terrier,13.69,True
+Bonnet,10.31,False
+Schipperke,90.76,True
+Crossword Puzzle,1.79,False
+Chihuahua,1.62,True
+Patio,52.18,False
+Prison,14.95,False
+Restaurant,2.72,False
+Fountain,99.75,False
+American Black Bear,0.14,False
+Sundial,0.07,False
+Flat-Coated Retriever,82.36,True
+Newfoundland,10.06,True
+Groenendael,3.83,True
+Malamute,54.46,True
+Siberian Husky,29.03,True
+Eskimo Dog,15.44,True
+Bedlington Terrier,33.35,True
+Ibizan Hound,24.58,True
+Wallaby,13.16,False
+Sea Lion,88.27,False
+Mink,6.69,False
+Otter,2.57,False
+Bernese Mountain Dog,95.13,True
+Greater Swiss Mountain Dog,1.68,True
+Appenzeller,1.08,True
+Cardigan,41.37,True
+Boston Bull,38.18,True
+Doormat,6.59,False
+Airedale,49.54,True
+Irish Terrier,31.65,True
+Lakeland Terrier,15.85,True
+Staffordshire Bullterrier,21.96,True
+American Staffordshire Terrier,17.87,True
+Pug,12.33,True
+White Wolf,12.89,False
+American Staffordshire Terrier,11.34,True
+Dingo,8.12,False
+Shetland Sheepdog,45.05,True
+Papillon,18.79,True
+Collie,14.01,True
+Golden Retriever,65.0,True
+Leonberg,6.52,True
+Norfolk Terrier,5.3,True
+Giant Schnauzer,34.65,True
+Flat-Coated Retriever,21.85,True
+Labrador Retriever,10.8,True
+Golden Retriever,96.11,True
+Labrador Retriever,1.67,True
+Tibetan Mastiff,0.91,True
+Samoyed,97.98,True
+Chow,1.59,True
+White Wolf,0.13,False
+Chow,80.87,True
+Groenendael,12.31,True
+Newfoundland,2.21,True
+Dandie Dinmont,39.44,True
+Maltese Dog,18.65,True
+West Highland White Terrier,18.2,True
+Irish Water Spaniel,56.75,True
+Labrador Retriever,16.95,True
+Curly-Coated Retriever,10.15,True
+Tennis Ball,99.93,False
+Racket,0.04,False
+Shetland Sheepdog,0.01,True
+Labrador Retriever,74.24,True
+Golden Retriever,19.52,True
+Chihuahua,1.73,True
+Washer,90.31,False
+Dishwasher,3.25,False
+Printer,1.65,False
+Labrador Retriever,71.95,True
+Chesapeake Bay Retriever,12.2,True
+Newfoundland,3.88,True
+Labrador Retriever,92.25,True
+Golden Retriever,7.44,True
+Great Pyrenees,0.23,True
+Labrador Retriever,43.06,True
+Golden Retriever,26.36,True
+Great Pyrenees,17.94,True
+Pembroke,95.85,True
+Cardigan,2.38,True
+Chihuahua,0.53,True
+Labrador Retriever,46.11,True
+Golden Retriever,15.49,True
+Chihuahua,11.02,True
+Tub,66.52,False
+Bucket,10.52,False
+Labrador Retriever,2.93,True
+Pembroke,68.51,True
+Cardigan,31.46,True
+Basenji,0.02,True
+French Bulldog,89.12,True
+Soccer Ball,2.28,False
+Bull Mastiff,1.29,True
+Chow,29.35,True
+Newfoundland,18.13,True
+Schipperke,12.52,True
+Chihuahua,54.74,True
+Bow Tie,19.84,False
+Pembroke,5.85,True
+Military Uniform,85.37,False
+Labrador Retriever,4.82,True
+Groenendael,1.54,True
+Afghan Hound,90.37,True
+Saluki,3.52,True
+Bloodhound,2.66,True
+Brittany Spaniel,96.3,True
+Blenheim Spaniel,1.48,True
+Clumber,0.96,True
+Web Site,84.18,False
+Rule,0.71,False
+Envelope,0.68,False
+Golden Retriever,71.11,True
+Cocker Spaniel,15.79,True
+Labrador Retriever,5.96,True
+Teapot,98.18,False
+Cup,1.4,False
+Coffeepot,0.24,False
+Chesapeake Bay Retriever,86.4,True
+Labrador Retriever,5.26,True
+Kelpie,3.26,True
+Staffordshire Bullterrier,60.49,True
+American Staffordshire Terrier,31.15,True
+Boston Bull,3.72,True
+Swing,39.35,False
+Norwich Terrier,5.25,True
+Pembroke,4.99,True
+Leonberg,92.7,True
+Newfoundland,5.0,True
+Saint Bernard,1.07,True
+Border Terrier,66.45,True
+Brabancon Griffon,17.05,True
+Yorkshire Terrier,8.78,True
+Kelpie,21.66,True
+Doormat,14.0,False
+Dalmatian,13.28,True
+Great Pyrenees,99.77,True
+Kuvasz,0.1,True
+Newfoundland,0.04,True
+Chow,80.1,True
+Seat Belt,16.41,False
+Pomeranian,1.8,True
+Golden Retriever,88.76,True
+Labrador Retriever,6.87,True
+Kuvasz,3.04,True
+Birdhouse,54.12,False
+Can Opener,12.11,False
+Carton,5.61,False
+Norwegian Elkhound,97.63,True
+Keeshond,1.4,True
+Seat Belt,0.21,False
+Siberian Husky,76.77,True
+Eskimo Dog,21.71,True
+Malamute,1.17,True
+Shopping Cart,57.24,False
+Shopping Basket,41.4,False
+Toy Poodle,0.59,True
+Mortarboard,93.69,False
+Academic Gown,2.08,False
+Schipperke,1.16,True
+Leopard,79.74,False
+Jaguar,9.55,False
+Snow Leopard,7.97,False
+Wooden Spoon,8.25,False
+Sliding Door,6.1,False
+Grand Piano,5.51,False
+Borzoi,56.47,True
+Ice Bear,7.83,False
+Pembroke,5.79,True
+Samoyed,96.36,True
+White Wolf,1.98,False
+Malamute,0.59,True
+Staffordshire Bullterrier,61.07,True
+Muzzle,13.21,False
+American Staffordshire Terrier,10.95,True
+Rottweiler,34.13,True
+Border Terrier,33.62,True
+Gordon Setter,4.54,True
+Hyena,73.69,False
+Chesapeake Bay Retriever,8.75,True
+Meerkat,4.21,False
+Border Collie,66.31,True
+Collie,15.25,True
+Cardigan,3.55,True
+Swing,96.71,False
+American Staffordshire Terrier,1.27,True
+Staffordshire Bullterrier,0.7,True
+Ice Bear,33.06,False
+Soft-Coated Wheaten Terrier,19.65,True
+Irish Terrier,7.31,True
+Border Terrier,15.63,True
+Norwegian Elkhound,12.59,True
+Boston Bull,9.66,True
+Toilet Tissue,26.29,False
+Golden Retriever,22.66,True
+Bathtub,7.89,False
+Rhodesian Ridgeback,46.86,True
+Whippet,17.75,True
+Redbone,10.66,True
+Golden Retriever,75.48,True
+Pekinese,19.79,True
+Labrador Retriever,0.87,True
+Ox,99.17,False
+Bison,0.53,False
+Water Buffalo,0.11,False
+Bath Towel,73.68,False
+Sleeping Bag,6.3,False
+Labrador Retriever,4.53,True
+Kuvasz,49.5,True
+Great Pyrenees,31.26,True
+Golden Retriever,14.17,True
+Chihuahua,43.81,True
+Kelpie,14.97,True
+Pembroke,9.65,True
+West Highland White Terrier,91.81,True
+Maltese Dog,2.57,True
+Lakeland Terrier,2.02,True
+Golden Retriever,72.7,True
+Cocker Spaniel,7.11,True
+Tibetan Mastiff,4.87,True
+Cardigan,71.05,True
+Kelpie,10.61,True
+Shopping Cart,5.55,False
+Boxer,53.9,True
+French Bulldog,31.76,True
+Bull Mastiff,9.39,True
+Cardigan,16.09,True
+Staffordshire Bullterrier,15.94,True
+Boston Bull,15.44,True
+Eskimo Dog,52.5,True
+Siberian Husky,25.22,True
+Malamute,21.68,True
+Pekinese,98.89,True
+Brabancon Griffon,0.17,True
+Siamese Cat,0.11,False
+Kelpie,50.47,True
+German Short-Haired Pointer,10.52,True
+Staffordshire Bullterrier,5.43,True
+Pembroke,13.41,True
+Ice Bear,5.19,False
+Pug,4.43,True
+Whippet,60.17,True
+Ibizan Hound,15.27,True
+Italian Greyhound,13.51,True
+Pomeranian,15.39,True
+Marmot,9.12,False
+Grey Fox,9.06,False
+Bloodhound,77.76,True
+Great Dane,4.74,True
+Leonberg,1.79,True
+Pembroke,62.48,True
+Cardigan,36.29,True
+Appenzeller,0.39,True
+Eskimo Dog,53.04,True
+Siberian Husky,18.03,True
+Norwegian Elkhound,10.43,True
+Chihuahua,25.74,True
+Pembroke,16.14,True
+French Bulldog,9.21,True
+Old English Sheepdog,99.97,True
+Tibetan Terrier,0.0,True
+Guinea Pig,0.0,False
+Briard,98.28,True
+Soft-Coated Wheaten Terrier,0.91,True
+Bouvier Des Flandres,0.47,True
+Doberman,36.94,True
+Kelpie,13.24,True
+Labrador Retriever,7.47,True
+Cocker Spaniel,26.33,True
+Brittany Spaniel,20.05,True
+Doormat,19.34,False
+Kuvasz,45.15,True
+Golden Retriever,31.72,True
+English Setter,13.28,True
+Labrador Retriever,90.87,True
+Seat Belt,5.71,False
+Pug,1.19,True
+Toy Poodle,44.27,True
+Pomeranian,14.21,True
+Pekinese,12.57,True
+Border Terrier,39.45,True
+Staffordshire Bullterrier,37.66,True
+American Staffordshire Terrier,3.13,True
+French Bulldog,95.09,True
+Pekinese,1.52,True
+Pug,1.11,True
+Labrador Retriever,31.52,True
+Golden Retriever,15.32,True
+Pekinese,13.28,True
+Golden Retriever,57.31,True
+Cocker Spaniel,11.12,True
+Gibbon,9.41,False
+Boxer,31.22,True
+Dalmatian,24.4,True
+Conch,13.03,False
+Seat Belt,76.6,False
+Chesapeake Bay Retriever,3.39,True
+Polecat,2.73,False
+Hippopotamus,94.29,False
+Mexican Hairless,0.84,True
+Ice Lolly,0.62,False
+Golden Retriever,64.92,True
+Chesapeake Bay Retriever,19.86,True
+Vizsla,5.62,True
+Teddy,90.85,False
+Toy Poodle,1.8,True
+Standard Poodle,1.27,True
+Weimaraner,13.3,True
+Chesapeake Bay Retriever,9.22,True
+American Staffordshire Terrier,6.51,True
+Bedlington Terrier,39.25,True
+Labrador Retriever,8.9,True
+Clumber,8.18,True
+American Staffordshire Terrier,52.31,True
+Staffordshire Bullterrier,18.62,True
+Chihuahua,4.21,True
+Malamute,66.3,True
+Eskimo Dog,20.78,True
+Tibetan Mastiff,4.09,True
+Patio,27.3,False
+Window Screen,13.13,False
+Boathouse,4.64,False
+American Staffordshire Terrier,93.67,True
+Staffordshire Bullterrier,3.3,True
+Bull Mastiff,1.72,True
+German Shepherd,80.61,True
+Tibetan Mastiff,10.48,True
+Kelpie,3.81,True
+Collie,28.56,True
+Border Collie,21.73,True
+Saint Bernard,14.32,True
+Pembroke,32.56,True
+Golden Retriever,31.72,True
+Labrador Retriever,11.61,True
+Golden Retriever,35.25,True
+Toy Poodle,17.89,True
+Labrador Retriever,8.42,True
+Great Dane,86.97,True
+American Staffordshire Terrier,2.67,True
+Boxer,1.99,True
+Golden Retriever,61.74,True
+Labrador Retriever,33.71,True
+Tennis Ball,0.86,False
+Great Pyrenees,85.88,True
+Golden Retriever,2.35,True
+Pekinese,1.71,True
+French Bulldog,62.81,True
+Siamese Cat,11.74,False
+Cougar,8.28,False
+German Shepherd,74.19,True
+Tibetan Mastiff,12.28,True
+Kelpie,10.05,True
+French Bulldog,90.3,True
+Pug,9.62,True
+Boston Bull,0.02,True
+Labrador Retriever,78.21,True
+Golden Retriever,15.66,True
+Soft-Coated Wheaten Terrier,0.73,True
+Tennis Ball,99.71,False
+Golden Retriever,0.23,True
+Kuvasz,0.03,True
+Shopping Cart,99.59,False
+Shopping Basket,0.41,False
+Mousetrap,0.0,False
+Great Pyrenees,85.34,True
+Golden Retriever,5.35,True
+English Setter,4.58,True
+Rottweiler,68.15,True
+Tibetan Mastiff,14.79,True
+Black-And-Tan Coonhound,2.45,True
+Pekinese,35.48,True
+Pomeranian,24.54,True
+Toy Poodle,13.65,True
+Eskimo Dog,52.45,True
+Siberian Husky,46.77,True
+Malamute,0.5,True
+Border Terrier,61.05,True
+Malinois,9.03,True
+Airedale,6.86,True
+English Setter,52.65,True
+Golden Retriever,40.28,True
+Irish Setter,3.44,True
+Pembroke,99.08,True
+Cardigan,0.89,True
+Basenji,0.03,True
+Teddy,58.82,False
+Jigsaw Puzzle,2.89,False
+Doormat,2.23,False
+Schipperke,23.41,True
+Curly-Coated Retriever,19.31,True
+Labrador Retriever,9.52,True
+Cairn,20.4,True
+Snorkel,17.19,False
+Norfolk Terrier,10.75,True
+Dingo,28.09,False
+German Shepherd,19.4,True
+Pembroke,12.01,True
+Cowboy Boot,99.03,False
+Chihuahua,0.18,True
+Papillon,0.13,True
+Bathtub,33.11,False
+Tub,24.89,False
+Pembroke,23.32,True
+Lakeland Terrier,19.6,True
+Labrador Retriever,16.03,True
+Irish Terrier,6.91,True
+Malinois,33.29,True
+Chihuahua,10.41,True
+Staffordshire Bullterrier,4.77,True
+Cocker Spaniel,66.45,True
+Norfolk Terrier,7.51,True
+Norwich Terrier,5.96,True
+Samoyed,41.68,True
+Malamute,25.27,True
+Kuvasz,15.7,True
+Pomeranian,96.02,True
+Samoyed,2.31,True
+Maltese Dog,0.89,True
+Samoyed,58.54,True
+Pomeranian,19.37,True
+Arctic Fox,7.16,False
+Golden Retriever,26.62,True
+Cocker Spaniel,22.33,True
+Irish Setter,15.16,True
+Golden Retriever,98.01,True
+Labrador Retriever,0.88,True
+Saluki,0.18,True
+Doberman,76.35,True
+Black-And-Tan Coonhound,13.66,True
+Miniature Pinscher,8.77,True
+Irish Setter,50.55,True
+Vizsla,16.87,True
+Chesapeake Bay Retriever,11.13,True
+German Shepherd,51.59,True
+Malinois,20.37,True
+Irish Setter,9.11,True
+Pomeranian,85.66,True
+Papillon,3.85,True
+Yorkshire Terrier,3.31,True
+Old English Sheepdog,14.8,True
+Airedale,13.35,True
+Tibetan Mastiff,12.09,True
+Golden Retriever,83.8,True
+Pekinese,5.67,True
+Labrador Retriever,2.39,True
+West Highland White Terrier,87.21,True
+Kuvasz,5.95,True
+Samoyed,3.74,True
+Gordon Setter,94.07,True
+Black-And-Tan Coonhound,4.2,True
+Rottweiler,0.94,True
+School Bus,99.98,False
+Cab,0.02,False
+Crane,0.0,False
+American Staffordshire Terrier,92.55,True
+Staffordshire Bullterrier,3.62,True
+Italian Greyhound,2.04,True
+Bathtub,10.09,False
+Shower Curtain,9.19,False
+Tub,4.92,False
+Acorn Squash,84.87,False
+Toilet Seat,4.43,False
+Toy Poodle,2.2,True
+Cardigan,54.79,True
+Basenji,11.64,True
+Shetland Sheepdog,10.17,True
+Rottweiler,90.91,True
+Black-And-Tan Coonhound,4.41,True
+Doberman,3.18,True
+Border Terrier,48.25,True
+German Shepherd,18.11,True
+Norwegian Elkhound,6.53,True
+Prison,90.71,False
+Palace,2.01,False
+Umbrella,0.78,False
+Standard Poodle,35.13,True
+Toy Poodle,27.19,True
+Tibetan Terrier,9.48,True
+Labrador Retriever,38.42,True
+Beagle,25.59,True
+Grocery Store,7.98,False
+Chihuahua,45.07,True
+Border Terrier,20.42,True
+Beagle,9.28,True
+Swing,99.94,False
+Welsh Springer Spaniel,0.01,True
+Bow,0.0,False
+Miniature Schnauzer,36.74,True
+Toy Poodle,11.25,True
+Standard Schnauzer,9.54,True
+Golden Retriever,62.19,True
+Labrador Retriever,36.5,True
+Redbone,0.4,True
+Cocker Spaniel,38.76,True
+Golden Retriever,26.48,True
+Pekinese,12.21,True
+Curly-Coated Retriever,73.33,True
+Flat-Coated Retriever,21.41,True
+Irish Water Spaniel,2.98,True
+Pug,97.14,True
+French Bulldog,2.85,True
+Boston Bull,0.01,True
+Ice Bear,33.62,False
+Samoyed,20.14,True
+Eskimo Dog,18.68,True
+Doberman,80.62,True
+Black-And-Tan Coonhound,9.74,True
+Miniature Pinscher,8.6,True
+Golden Retriever,29.55,True
+Irish Setter,14.44,True
+Chesapeake Bay Retriever,7.79,True
+Saluki,56.88,True
+Afghan Hound,22.94,True
+Golden Retriever,15.71,True
+Kelpie,86.44,True
+French Bulldog,9.75,True
+German Shepherd,0.85,True
+Malamute,66.82,True
+Pembroke,10.5,True
+Siberian Husky,7.79,True
+Chihuahua,75.7,True
+Pomeranian,5.28,True
+Maltese Dog,4.76,True
+Web Site,35.29,False
+Envelope,6.01,False
+Nail,3.13,False
+Labrador Retriever,91.93,True
+Kuvasz,4.95,True
+Golden Retriever,1.19,True
+Pomeranian,96.73,True
+Samoyed,0.74,True
+Papillon,0.6,True
+Chihuahua,42.88,True
+Miniature Pinscher,10.39,True
+Staffordshire Bullterrier,8.9,True
+Tibetan Mastiff,50.63,True
+Tibetan Terrier,29.57,True
+Otterhound,3.63,True
+Border Collie,54.89,True
+Cardigan,17.85,True
+Collie,14.64,True
+German Shepherd,81.8,True
+Norwegian Elkhound,14.0,True
+Malinois,2.48,True
+Restaurant,27.98,False
+Toyshop,9.14,False
+Paper Towel,4.61,False
+Dalmatian,99.98,True
+Boxer,0.01,True
+American Staffordshire Terrier,0.0,True
+Golden Retriever,65.08,True
+Kuvasz,5.33,True
+Cocker Spaniel,3.54,True
+Miniature Poodle,62.69,True
+Toy Poodle,26.56,True
+Soft-Coated Wheaten Terrier,4.16,True
+Golden Retriever,49.01,True
+Labrador Retriever,29.2,True
+Chow,7.25,True
+Siberian Husky,69.94,True
+Eskimo Dog,25.64,True
+Norwegian Elkhound,1.32,True
+French Bulldog,70.91,True
+Boston Bull,24.76,True
+Boxer,1.89,True
+Malamute,50.12,True
+Siberian Husky,22.88,True
+Eskimo Dog,20.04,True
+Samoyed,90.6,True
+Pomeranian,4.8,True
+West Highland White Terrier,3.57,True
+Cocker Spaniel,70.19,True
+Golden Retriever,12.03,True
+Labrador Retriever,3.63,True
+Golden Retriever,88.82,True
+Labrador Retriever,4.23,True
+Saluki,0.97,True
+Doormat,95.48,False
+Golden Retriever,2.62,True
+Cocker Spaniel,0.44,True
+Siamese Cat,84.39,False
+Pembroke,7.06,True
+Cardigan,4.19,True
+Beagle,84.87,True
+Ibizan Hound,4.46,True
+Italian Greyhound,1.86,True
+Norwegian Elkhound,43.24,True
+Whippet,37.42,True
+Siberian Husky,3.25,True
+Dingo,28.74,False
+Pembroke,14.07,True
+Basenji,9.08,True
+Great Dane,12.81,True
+Boston Bull,11.7,True
+Kelpie,8.7,True
+Doberman,91.0,True
+Kelpie,4.26,True
+Miniature Pinscher,2.3,True
+Toy Terrier,77.64,True
+Pembroke,11.5,True
+Basenji,4.89,True
+Golden Retriever,91.48,True
+Labrador Retriever,8.36,True
+Kuvasz,0.05,True
+Bull Mastiff,98.93,True
+Boxer,0.7,True
+French Bulldog,0.17,True
+Irish Setter,32.69,True
+Golden Retriever,18.26,True
+Leonberg,15.69,True
+Loupe,54.69,False
+Web Site,34.53,False
+Bubble,1.05,False
+Bath Towel,9.98,False
+Pillow,9.23,False
+Great Dane,7.82,True
+Golden Retriever,78.49,True
+Cocker Spaniel,8.78,True
+Labrador Retriever,8.33,True
+Staffordshire Bullterrier,61.06,True
+French Bulldog,15.99,True
+Doormat,5.87,False
+Pekinese,38.61,True
+Labrador Retriever,20.29,True
+Golden Retriever,17.05,True
+Beagle,39.63,True
+Pembroke,4.96,True
+Wire-Haired Fox Terrier,4.63,True
+Pembroke,80.42,True
+Cardigan,18.99,True
+Beagle,0.2,True
+Golden Retriever,87.13,True
+Tibetan Mastiff,3.67,True
+Labrador Retriever,2.58,True
+Flat-Coated Retriever,82.08,True
+Labrador Retriever,8.23,True
+Curly-Coated Retriever,6.75,True
+Malamute,75.35,True
+Siberian Husky,16.62,True
+Eskimo Dog,6.98,True
+Malamute,62.08,True
+Eskimo Dog,15.84,True
+Tibetan Mastiff,2.9,True
+Staffordshire Bullterrier,29.26,True
+American Staffordshire Terrier,26.12,True
+Border Terrier,6.24,True
+Norwich Terrier,39.72,True
+Toy Poodle,27.45,True
+Miniature Poodle,13.47,True
+Greater Swiss Mountain Dog,37.54,True
+Cardigan,13.43,True
+English Springer,7.37,True
+Pomeranian,81.95,True
+Samoyed,14.12,True
+Pembroke,1.35,True
+Vizsla,91.14,True
+Bloodhound,1.71,True
+Labrador Retriever,1.18,True
+Rottweiler,36.95,True
+Miniature Pinscher,19.49,True
+Kelpie,16.01,True
+Seat Belt,77.91,False
+Toy Poodle,3.69,True
+Golden Retriever,1.7,True
+Airedale,45.42,True
+Cocker Spaniel,21.93,True
+Irish Terrier,9.32,True
+Golden Retriever,42.62,True
+Labrador Retriever,25.74,True
+Great Pyrenees,12.65,True
+Labrador Retriever,73.1,True
+Staffordshire Bullterrier,13.07,True
+American Staffordshire Terrier,2.89,True
+Golden Retriever,87.32,True
+Cocker Spaniel,3.37,True
+Chow,2.04,True
+Chihuahua,50.54,True
+Pomeranian,12.04,True
+Toy Terrier,7.7,True
+Golden Retriever,61.08,True
+Irish Setter,21.36,True
+Welsh Springer Spaniel,3.19,True
+Arabian Camel,36.62,False
+House Finch,20.99,False
+Cocker Spaniel,4.64,True
+Vizsla,93.86,True
+Brittany Spaniel,3.67,True
+Chesapeake Bay Retriever,0.4,True
+Chow,83.51,True
+Pomeranian,4.08,True
+Eskimo Dog,2.13,True
+Norwegian Elkhound,65.8,True
+Keeshond,31.91,True
+Leonberg,0.79,True
+Siberian Husky,24.89,True
+American Staffordshire Terrier,9.83,True
+Eskimo Dog,8.02,True
+Malinois,64.31,True
+German Shepherd,18.66,True
+Border Terrier,10.93,True
+Shield,58.78,False
+Barrel,9.02,False
+Sundial,6.92,False
+Pembroke,24.47,True
+Rhodesian Ridgeback,18.05,True
+Cardigan,9.47,True
+Tibetan Mastiff,91.58,True
+German Shepherd,6.25,True
+Leonberg,0.83,True
+Web Site,49.27,False
+Envelope,5.06,False
+Guillotine,1.53,False
+Miniature Pinscher,81.71,True
+Redbone,5.97,True
+Irish Terrier,3.42,True
+Labrador Retriever,37.28,True
+Golden Retriever,34.37,True
+Great Pyrenees,6.72,True
+Bookcase,89.06,False
+Entertainment Center,1.93,False
+File,0.95,False
+Pembroke,45.71,True
+Chow,30.78,True
+Golden Retriever,5.0,True
+Chow,94.4,True
+Golden Retriever,1.72,True
+Pomeranian,1.21,True
+Golden Retriever,61.02,True
+Labrador Retriever,17.33,True
+Cocker Spaniel,16.33,True
+Home Theater,76.51,False
+Television,20.36,False
+Entertainment Center,1.86,False
+Labrador Retriever,89.72,True
+Beagle,1.69,True
+Rhodesian Ridgeback,1.21,True
+Eskimo Dog,48.25,True
+Siberian Husky,33.58,True
+Malamute,13.46,True
+Staffordshire Bullterrier,32.79,True
+American Staffordshire Terrier,27.19,True
+Labrador Retriever,24.76,True
+Pembroke,55.05,True
+Cardigan,30.66,True
+Shetland Sheepdog,5.42,True
+Minivan,78.94,False
+Beach Wagon,8.11,False
+Convertible,6.45,False
+Cocker Spaniel,74.02,True
+Dandie Dinmont,6.16,True
+English Setter,4.13,True
+Dalmatian,82.34,True
+English Setter,9.46,True
+Bluetick,2.2,True
+Cocker Spaniel,77.2,True
+Miniature Poodle,7.67,True
+Toy Poodle,3.96,True
+Pembroke,82.89,True
+Cardigan,16.74,True
+Chihuahua,0.08,True
+Teddy,31.19,False
+Ice Bear,18.47,False
+Christmas Stocking,17.32,False
+Golden Retriever,35.99,True
+Pembroke,19.42,True
+Collie,15.46,True
+Golden Retriever,93.8,True
+Kuvasz,2.51,True
+Labrador Retriever,2.3,True
+Vacuum,28.95,False
+Punching Bag,24.33,False
+Barbell,14.36,False
+Border Collie,44.25,True
+Collie,28.87,True
+Shetland Sheepdog,19.64,True
+Miniature Pinscher,58.36,True
+Redbone,27.61,True
+Toy Terrier,1.86,True
+Malamute,98.5,True
+Siberian Husky,0.58,True
+Eskimo Dog,0.54,True
+Norfolk Terrier,33.44,True
+Norwich Terrier,23.16,True
+Australian Terrier,21.42,True
+Siberian Husky,70.32,True
+Eskimo Dog,22.94,True
+Malamute,4.44,True
+West Highland White Terrier,53.95,True
+Cairn,18.49,True
+Norfolk Terrier,16.3,True
+Pekinese,52.46,True
+Shih-Tzu,10.29,True
+Pomeranian,9.79,True
+American Staffordshire Terrier,48.98,True
+Chihuahua,30.58,True
+Staffordshire Bullterrier,7.28,True
+Pembroke,95.41,True
+Cardigan,3.36,True
+Papillon,0.97,True
+Collie,76.7,True
+Border Collie,10.08,True
+Kelpie,4.84,True
+Cardigan,83.91,True
+Boston Bull,8.07,True
+Pembroke,3.45,True
+American Staffordshire Terrier,46.4,True
+Staffordshire Bullterrier,15.56,True
+Weimaraner,13.76,True
+Cocker Spaniel,11.69,True
+Seat Belt,10.75,False
+Australian Terrier,9.98,True
+Pekinese,46.12,True
+Pomeranian,28.87,True
+Siamese Cat,5.24,False
+Golden Retriever,60.03,True
+Labrador Retriever,14.08,True
+Seat Belt,8.74,False
+Cardigan,70.02,True
+Pembroke,26.07,True
+Papillon,1.71,True
+Chow,97.38,True
+Tibetan Mastiff,1.41,True
+Gibbon,0.24,False
+Golden Retriever,89.38,True
+Labrador Retriever,7.01,True
+Doormat,0.84,False
+Golden Retriever,19.31,True
+Chesapeake Bay Retriever,15.79,True
+Soft-Coated Wheaten Terrier,12.47,True
+Golden Retriever,92.55,True
+Labrador Retriever,5.92,True
+Tennis Ball,0.45,False
+Gas Pump,67.64,False
+Harvester,5.0,False
+Swing,4.47,False
+Teddy,56.96,False
+Bath Towel,17.37,False
+Toy Poodle,3.77,True
+Samoyed,98.83,True
+Malamute,0.49,True
+Great Pyrenees,0.29,True
+Pedestal,66.27,False
+Fountain,29.48,False
+Brass,2.04,False
+Labrador Retriever,86.17,True
+Golden Retriever,4.45,True
+Staffordshire Bullterrier,1.65,True
+Old English Sheepdog,76.53,True
+Bedlington Terrier,11.28,True
+Kerry Blue Terrier,4.77,True
+Miniature Pinscher,53.9,True
+Chihuahua,21.78,True
+Toy Terrier,8.91,True
+Golden Retriever,32.61,True
+Labrador Retriever,21.99,True
+Chesapeake Bay Retriever,16.34,True
+Afghan Hound,27.46,True
+Borzoi,14.22,True
+Doormat,10.97,False
+Siberian Husky,23.17,True
+Eskimo Dog,20.67,True
+Pembroke,7.01,True
+Basset,20.76,True
+Walker Hound,6.06,True
+Beagle,4.12,True
+Golden Retriever,55.93,True
+Labrador Retriever,39.02,True
+Cocker Spaniel,3.63,True
+Wire-Haired Fox Terrier,45.6,True
+Lakeland Terrier,27.34,True
+English Springer,8.36,True
+Doormat,87.44,False
+French Bulldog,1.88,True
+Boston Bull,1.51,True
+Labrador Retriever,65.48,True
+Golden Retriever,7.41,True
+Chihuahua,4.23,True
+Lakeland Terrier,26.68,True
+Irish Terrier,21.88,True
+Airedale,13.3,True
+Golden Retriever,94.62,True
+Labrador Retriever,3.65,True
+Doormat,0.24,False
+Italian Greyhound,19.39,True
+Bluetick,16.04,True
+Standard Poodle,12.6,True
+Bakery,73.7,False
+Saltshaker,5.24,False
+Teddy,4.66,False
+Labrador Retriever,72.49,True
+Golden Retriever,16.97,True
+Kuvasz,3.55,True
+Web Site,22.67,False
+Lighter,8.19,False
+Switch,3.9,False
+Jack-O'-Lantern,99.93,False
+Basketball,0.01,False
+Standard Poodle,0.01,True
+Yorkshire Terrier,91.28,True
+Silky Terrier,6.78,True
+Australian Terrier,0.45,True
+Cocker Spaniel,74.64,True
+Irish Setter,9.16,True
+Miniature Poodle,6.11,True
+Komondor,94.29,True
+Swab,5.27,False
+Tibetan Terrier,0.27,True
+Golden Retriever,70.51,True
+Labrador Retriever,21.97,True
+Kuvasz,1.6,True
+Pembroke,97.26,True
+Cardigan,2.7,True
+Basenji,0.02,True
+Miniature Pinscher,89.29,True
+Toy Terrier,9.55,True
+Doberman,0.35,True
+Cocker Spaniel,34.92,True
+Flat-Coated Retriever,30.95,True
+Newfoundland,10.48,True
+Dishwasher,70.05,False
+Golden Retriever,24.58,True
+Chow,3.9,True
+Bernese Mountain Dog,99.65,True
+Entlebucher,0.11,True
+Appenzeller,0.1,True
+Refrigerator,99.89,False
+Malinois,0.02,True
+Kelpie,0.01,True
+Pembroke,65.88,True
+Cardigan,15.31,True
+Toy Terrier,10.23,True
+Labrador Retriever,42.77,True
+Great Dane,19.05,True
+Curly-Coated Retriever,14.64,True
+Tub,47.95,False
+Bathtub,32.51,False
+Golden Retriever,7.85,True
+Chow,26.07,True
+Cougar,8.81,False
+Pomeranian,7.99,True
+Chesapeake Bay Retriever,87.88,True
+Beagle,1.86,True
+Labrador Retriever,1.75,True
+Schipperke,36.33,True
+Kelpie,19.7,True
+Norwegian Elkhound,15.1,True
+Malamute,81.29,True
+Siberian Husky,12.09,True
+Eskimo Dog,2.43,True
+Chihuahua,74.61,True
+Pekinese,7.04,True
+Pembroke,4.92,True
+Remote Control,88.15,False
+Oscilloscope,3.55,False
+Golden Retriever,3.41,True
+Cocker Spaniel,50.05,True
+Golden Retriever,27.27,True
+Jigsaw Puzzle,4.15,False
+Golden Retriever,80.52,True
+Labrador Retriever,11.38,True
+Brittany Spaniel,3.86,True
+Samoyed,73.55,True
+Pomeranian,7.51,True
+Arctic Fox,3.61,False
+Chow,81.41,True
+Pomeranian,11.27,True
+Chihuahua,1.59,True
+Beach Wagon,36.29,False
+Minivan,30.48,False
+Limousine,10.17,False
+Pug,36.28,True
+French Bulldog,22.19,True
+English Setter,8.04,True
+German Shepherd,99.23,True
+Malinois,0.49,True
+Kelpie,0.09,True
+Chihuahua,90.05,True
+Toy Terrier,2.11,True
+Miniature Pinscher,1.95,True
+Seat Belt,74.77,False
+Golden Retriever,10.57,True
+Dingo,1.73,False
+Golden Retriever,91.53,True
+Saluki,4.62,True
+Labrador Retriever,3.75,True
+Pomeranian,46.73,True
+Persian Cat,12.3,False
+Chow,10.27,True
+Leonberg,51.2,True
+Keeshond,46.48,True
+Pomeranian,0.78,True
+Pembroke,70.95,True
+Cardigan,28.72,True
+Chow,0.06,True
+Golden Retriever,92.93,True
+Labrador Retriever,6.29,True
+Saluki,0.22,True
+Labrador Retriever,47.82,True
+Schipperke,22.48,True
+Staffordshire Bullterrier,7.74,True
+Teddy,97.21,False
+Toy Poodle,0.85,True
+Chow,0.29,True
+Great Pyrenees,39.21,True
+Golden Retriever,19.84,True
+Pekinese,14.33,True
+Porcupine,97.8,False
+Sea Urchin,0.61,False
+Echidna,0.54,False
+Miniature Pinscher,43.6,True
+Black-And-Tan Coonhound,25.8,True
+Rottweiler,14.52,True
+Teddy,67.49,False
+Cradle,5.67,False
+Chow,5.61,True
+Seat Belt,89.12,False
+Eskimo Dog,2.75,True
+Samoyed,1.95,True
+Chow,9.03,True
+Binoculars,8.35,False
+Irish Setter,7.75,True
+Malamute,75.78,True
+Eskimo Dog,15.12,True
+Siberian Husky,8.48,True
+Miniature Poodle,74.48,True
+Toy Poodle,24.32,True
+Standard Poodle,1.09,True
+Quilt,33.37,False
+Siamese Cat,13.62,False
+Three-Toed Sloth,11.75,False
+Lakeland Terrier,26.57,True
+Golden Retriever,19.64,True
+Standard Poodle,13.35,True
+Chow,31.43,True
+Golden Retriever,30.04,True
+Australian Terrier,4.95,True
+Chihuahua,78.9,True
+Miniature Pinscher,11.59,True
+Toy Terrier,3.63,True
+Norwegian Elkhound,87.71,True
+Cairn,8.62,True
+Keeshond,1.1,True
+Cardigan,59.39,True
+Shetland Sheepdog,13.06,True
+Pembroke,10.08,True
+Chesapeake Bay Retriever,24.06,True
+Airedale,16.41,True
+Boxer,13.45,True
+Seat Belt,47.43,False
+Golden Retriever,17.14,True
+Labrador Retriever,11.06,True
+Golden Retriever,56.07,True
+Otterhound,19.95,True
+Clumber,4.07,True
+Irish Setter,57.46,True
+Golden Retriever,33.93,True
+Seat Belt,4.61,False
+Malamute,84.09,True
+Tibetan Mastiff,14.05,True
+Eskimo Dog,1.2,True
+Briard,50.44,True
+Soft-Coated Wheaten Terrier,39.07,True
+Lhasa,3.46,True
+Pool Table,17.96,False
+Dining Table,15.44,False
+Microwave,3.37,False
+Pembroke,43.81,True
+Golden Retriever,22.7,True
+Collie,7.07,True
+Tennis Ball,99.47,False
+Chesapeake Bay Retriever,0.35,True
+Labrador Retriever,0.09,True
+Mexican Hairless,88.78,True
+Italian Greyhound,3.07,True
+Seat Belt,2.67,False
+Shetland Sheepdog,97.38,True
+Collie,2.52,True
+Border Collie,0.03,True
+Padlock,73.16,False
+Necklace,6.55,False
+Chain,3.65,False
+Chesapeake Bay Retriever,48.86,True
+Sussex Spaniel,27.17,True
+Kelpie,10.69,True
+Siberian Husky,95.2,True
+Eskimo Dog,3.53,True
+Pembroke,0.89,True
+Saint Bernard,99.51,True
+Cardigan,0.3,True
+English Springer,0.1,True
+Golden Retriever,62.83,True
+Labrador Retriever,31.74,True
+Tibetan Mastiff,1.23,True
+Great Dane,38.25,True
+German Shepherd,31.2,True
+Bull Mastiff,3.33,True
+Vizsla,14.4,True
+Mongoose,9.15,False
+Hatchet,7.35,False
+Golden Retriever,99.38,True
+Cocker Spaniel,0.31,True
+Great Pyrenees,0.09,True
+Sundial,17.09,False
+Cash Machine,6.04,False
+Maze,5.5,False
+Chihuahua,72.12,True
+Toy Terrier,11.29,True
+Kelpie,5.34,True
+Cocker Spaniel,71.54,True
+Labrador Retriever,20.71,True
+Chihuahua,2.85,True
+Staffordshire Bullterrier,35.14,True
+Boxer,20.15,True
+American Staffordshire Terrier,14.28,True
+German Shepherd,51.57,True
+Malinois,30.03,True
+Kelpie,8.7,True
+Airedale,78.61,True
+Irish Terrier,12.15,True
+Lakeland Terrier,1.46,True
+Pembroke,84.84,True
+Cardigan,10.81,True
+Beagle,1.19,True
+Collie,34.53,True
+Borzoi,31.28,True
+Border Collie,21.3,True
+Boston Bull,32.21,True
+Pug,22.99,True
+Muzzle,10.14,False
+German Shepherd,71.78,True
+Malinois,11.12,True
+Norwegian Elkhound,5.88,True
+Clumber,94.67,True
+Cocker Spaniel,1.59,True
+Lhasa,0.65,True
+Afghan Hound,12.35,True
+Basset,11.97,True
+Siberian Husky,10.87,True
+Cocker Spaniel,25.34,True
+Golden Retriever,16.29,True
+Otterhound,11.09,True
+Chow,99.98,True
+Norwich Terrier,0.01,True
+Pomeranian,0.0,True
+Chihuahua,98.84,True
+Mexican Hairless,0.42,True
+Hog,0.15,False
+Toy Poodle,51.66,True
+Miniature Poodle,25.5,True
+Standard Poodle,16.9,True
+Labrador Retriever,88.48,True
+Chesapeake Bay Retriever,5.76,True
+Paintbrush,0.58,False
+Samoyed,94.03,True
+Pomeranian,5.55,True
+Keeshond,0.22,True
+Rottweiler,50.22,True
+Black-And-Tan Coonhound,15.46,True
+Bloodhound,13.52,True
+Mousetrap,77.75,False
+Black Widow,9.39,False
+Paddlewheel,1.75,False
+Web Site,99.99,False
+Pug,0.01,True
+Menu,0.0,False
+Chow,52.0,True
+Bath Towel,2.88,False
+French Bulldog,2.6,True
+Long-Horned Beetle,61.39,False
+Ox,2.95,False
+Rhinoceros Beetle,2.78,False
+Web Site,98.94,False
+Hand-Held Computer,0.21,False
+Menu,0.21,False
+Beagle,57.12,True
+Chihuahua,17.53,True
+Pembroke,3.43,True
+Chow,31.66,True
+Golden Retriever,24.19,True
+Pomeranian,15.75,True
+Toy Poodle,71.99,True
+Miniature Poodle,25.15,True
+Lakeland Terrier,0.7,True
+Walker Hound,62.76,True
+Basenji,12.87,True
+Ibizan Hound,12.63,True
+Eskimo Dog,59.6,True
+Siberian Husky,22.31,True
+Saluki,3.63,True
+Giant Panda,45.11,False
+Fur Coat,14.8,False
+Pug,10.96,True
+Pomeranian,55.43,True
+Samoyed,43.22,True
+Chow,0.32,True
+Silky Terrier,32.43,True
+Yorkshire Terrier,18.12,True
+Airedale,13.34,True
+Old English Sheepdog,96.93,True
+Maltese Dog,1.32,True
+Soft-Coated Wheaten Terrier,0.49,True
+Norwegian Elkhound,37.22,True
+Chesapeake Bay Retriever,13.72,True
+Malamute,7.14,True
+Shopping Cart,57.23,False
+Labrador Retriever,15.14,True
+Shopping Basket,10.71,False
+Seat Belt,71.36,False
+Miniature Pinscher,8.34,True
+Brabancon Griffon,7.57,True
+Blenheim Spaniel,42.78,True
+Shih-Tzu,21.93,True
+Welsh Springer Spaniel,14.46,True
+Tabby,21.83,False
+Norwegian Elkhound,13.85,True
+Wombat,7.42,False
+Basset,91.54,True
+Walker Hound,7.24,True
+Beagle,0.82,True
+Newfoundland,57.43,True
+Border Collie,12.84,True
+Saint Bernard,5.95,True
+Pembroke,36.79,True
+Chihuahua,22.35,True
+Pekinese,16.49,True
+Golden Retriever,27.53,True
+Irish Setter,10.1,True
+Vizsla,7.35,True
+Labrador Retriever,21.78,True
+Beagle,15.77,True
+Golden Retriever,12.77,True
+Chihuahua,80.33,True
+Toy Terrier,5.3,True
+Italian Greyhound,3.72,True
+Pembroke,54.18,True
+Cardigan,26.05,True
+Shetland Sheepdog,6.37,True
+Papillon,53.32,True
+Collie,19.2,True
+Border Collie,12.16,True
+Labrador Retriever,83.4,True
+Golden Retriever,10.32,True
+Soccer Ball,1.21,False
+Collie,50.37,True
+Border Collie,45.09,True
+English Springer,1.27,True
+Bathtub,36.87,False
+Golden Retriever,29.74,True
+Tub,20.17,False
+Labrador Retriever,56.88,True
+Pug,17.99,True
+Staffordshire Bullterrier,3.44,True
+Meerkat,20.23,False
+Doormat,11.18,False
+Macaque,8.89,False
+Bernese Mountain Dog,78.78,True
+Greater Swiss Mountain Dog,16.39,True
+Entlebucher,2.03,True
+Chow,97.95,True
+Golden Retriever,1.02,True
+Pomeranian,0.46,True
+Madagascar Cat,49.48,False
+Skunk,16.12,False
+Paper Towel,9.16,False
+Maillot,58.05,False
+Maillot,8.14,False
+Golden Retriever,5.36,True
+Italian Greyhound,93.17,True
+Mexican Hairless,3.89,True
+Whippet,1.32,True
+Boston Bull,41.5,True
+American Staffordshire Terrier,28.7,True
+Staffordshire Bullterrier,11.5,True
+Miniature Pinscher,79.63,True
+Chihuahua,15.54,True
+Staffordshire Bullterrier,3.09,True
+Pug,40.71,True
+Muzzle,16.56,False
+Kuvasz,4.58,True
+Golden Retriever,16.65,True
+Pekinese,14.82,True
+Cocker Spaniel,8.27,True
+Pomeranian,18.24,True
+Golden Retriever,11.07,True
+Mousetrap,8.64,False
+Chow,72.02,True
+Brabancon Griffon,5.84,True
+Rottweiler,5.51,True
+Basenji,18.33,True
+Italian Greyhound,13.6,True
+Whippet,6.01,True
+Great Pyrenees,72.97,True
+Golden Retriever,23.8,True
+Labrador Retriever,2.09,True
+Labrador Retriever,73.92,True
+Chesapeake Bay Retriever,24.65,True
+Kelpie,0.69,True
+Lion,39.7,False
+Ram,30.09,False
+Cheetah,9.45,False
+Coral Reef,32.77,False
+Cliff,15.72,False
+Lakeside,4.88,False
+Vizsla,30.78,True
+Fountain,14.22,False
+Chesapeake Bay Retriever,11.39,True
+Chow,48.32,True
+Golden Retriever,16.51,True
+Norfolk Terrier,6.02,True
+Patio,70.87,False
+Boathouse,11.01,False
+Pier,3.95,False
+Toy Poodle,87.38,True
+Miniature Poodle,5.92,True
+Irish Terrier,3.53,True
+Beagle,45.17,True
+Basset,19.75,True
+Bloodhound,7.27,True
+Doberman,94.84,True
+Vizsla,1.5,True
+Rhodesian Ridgeback,0.96,True
+Keeshond,99.58,True
+Pomeranian,0.39,True
+Norwegian Elkhound,0.03,True
+Toy Poodle,96.69,True
+Miniature Poodle,1.64,True
+Cocker Spaniel,1.02,True
+Redbone,48.49,True
+Beagle,43.75,True
+Basset,1.06,True
+Welsh Springer Spaniel,72.82,True
+Basset,10.38,True
+Brittany Spaniel,6.24,True
+Golden Retriever,96.95,True
+Labrador Retriever,2.17,True
+Border Terrier,0.21,True
+Beagle,99.33,True
+Walker Hound,0.29,True
+Basset,0.24,True
+Pembroke,50.95,True
+Cardigan,33.04,True
+Shetland Sheepdog,3.89,True
+Golden Retriever,82.95,True
+Labrador Retriever,8.94,True
+Kuvasz,1.7,True
+Dalmatian,55.66,True
+Whippet,15.1,True
+American Staffordshire Terrier,9.64,True
+Bernese Mountain Dog,79.21,True
+Appenzeller,15.5,True
+Entlebucher,3.84,True
+German Shepherd,97.37,True
+Malinois,2.59,True
+Kelpie,0.02,True
+Malamute,37.51,True
+Jean,6.94,False
+Keeshond,5.05,True
+Miniature Poodle,35.47,True
+Toy Poodle,33.86,True
+Teddy,15.58,False
+Seat Belt,68.58,False
+Ice Bear,8.16,False
+Chow,3.91,True
+Kelpie,51.9,True
+German Shepherd,29.61,True
+Dingo,6.1,False
+Samoyed,54.03,True
+Standard Poodle,27.98,True
+Toy Poodle,10.21,True
+Chow,100.0,True
+Tibetan Mastiff,0.0,True
+Dhole,0.0,False
+African Grey,27.05,False
+Madagascar Cat,7.62,False
+Television,3.33,False
+Home Theater,6.32,False
+Cash Machine,4.67,False
+Theater Curtain,4.63,False
+Labrador Retriever,47.56,True
+Chesapeake Bay Retriever,8.29,True
+Staffordshire Bullterrier,4.85,True
+Paddle,39.31,False
+Canoe,17.81,False
+Lakeside,9.97,False
+Gondola,31.89,False
+Sea Lion,30.65,False
+Pool Table,11.16,False
+Gordon Setter,24.04,True
+Saluki,22.43,True
+Doberman,12.97,True
+Norwegian Elkhound,82.29,True
+Malinois,8.62,True
+German Shepherd,6.33,True
+Standard Poodle,66.09,True
+Samoyed,31.49,True
+Miniature Poodle,0.88,True
+Cougar,30.65,False
+French Bulldog,28.08,True
+Boxer,5.45,True
+Golden Retriever,73.52,True
+Sussex Spaniel,6.49,True
+Labrador Retriever,4.77,True
+Blenheim Spaniel,11.4,True
+Cocker Spaniel,10.58,True
+Borzoi,7.39,True
+Golden Retriever,76.05,True
+Labrador Retriever,23.21,True
+Redbone,0.29,True
+Axolotl,13.27,False
+Killer Whale,13.11,False
+Sea Lion,6.97,False
+Samoyed,98.8,True
+Malamute,0.45,True
+West Highland White Terrier,0.12,True
+Old English Sheepdog,30.22,True
+Lhasa,25.88,True
+Briard,17.92,True
+Radio Telescope,15.53,False
+Dam,15.45,False
+Crane,9.8,False
+Balloon,91.75,False
+Confectionery,4.93,False
+Maraca,1.76,False
+Labrador Retriever,32.46,True
+Seat Belt,10.92,False
+Pug,10.25,True
+Sussex Spaniel,35.54,True
+Vizsla,14.11,True
+Otterhound,9.22,True
+Golden Retriever,98.59,True
+Labrador Retriever,0.19,True
+Kuvasz,0.18,True
+Golden Retriever,76.33,True
+Chesapeake Bay Retriever,19.43,True
+Labrador Retriever,1.22,True
+Kuvasz,22.31,True
+Bedlington Terrier,22.07,True
+Teddy,18.13,False
+Kuvasz,51.13,True
+Golden Retriever,7.69,True
+White Wolf,6.33,False
+Shetland Sheepdog,12.9,True
+Kelpie,11.75,True
+Siberian Husky,10.67,True
+Labrador Retriever,77.85,True
+Bathing Cap,15.43,False
+Golden Retriever,2.5,True
+Barrow,97.4,False
+Old English Sheepdog,2.38,True
+Komondor,0.12,True
+Chesapeake Bay Retriever,48.0,True
+Vizsla,26.45,True
+Weimaraner,12.18,True
+Chesapeake Bay Retriever,84.85,True
+Labrador Retriever,11.01,True
+Curly-Coated Retriever,2.52,True
+Pembroke,54.61,True
+Cardigan,24.42,True
+German Shepherd,10.04,True
+Labrador Retriever,43.64,True
+Chihuahua,11.4,True
+American Staffordshire Terrier,9.97,True
+Chesapeake Bay Retriever,70.3,True
+Laptop,9.23,False
+Notebook,3.27,False
+Pembroke,98.76,True
+Cardigan,1.21,True
+Siamese Cat,0.01,False
+Bookshop,79.43,False
+Cardigan,5.13,True
+Bernese Mountain Dog,2.66,True
+Skunk,60.97,False
+Old English Sheepdog,12.89,True
+Siberian Husky,1.91,True
+Seat Belt,42.52,False
+Labrador Retriever,12.81,True
+Siamese Cat,9.12,False
+Bluetick,82.93,True
+Beagle,14.54,True
+Walker Hound,1.96,True
+Doormat,84.53,False
+Wallet,9.57,False
+Wool,2.61,False
+Seat Belt,52.39,False
+Golden Retriever,8.78,True
+Tibetan Mastiff,7.51,True
+Labrador Retriever,78.71,True
+Chesapeake Bay Retriever,11.27,True
+Rottweiler,4.8,True
+Italian Greyhound,91.47,True
+Whippet,4.78,True
+Ice Lolly,1.55,False
+Golden Retriever,67.86,True
+Labrador Retriever,7.26,True
+Border Terrier,4.9,True
+Golden Retriever,79.04,True
+Cocker Spaniel,13.03,True
+Labrador Retriever,6.46,True
+Pembroke,29.48,True
+Kelpie,28.23,True
+Cardigan,11.26,True
+Geyser,99.13,False
+Volcano,0.47,False
+Fountain,0.12,False
+Golden Retriever,98.17,True
+Cocker Spaniel,0.68,True
+Labrador Retriever,0.43,True
+Conch,92.56,False
+French Bulldog,3.25,True
+Tiger Cat,0.67,False
+Airedale,60.3,True
+Irish Terrier,8.7,True
+Bloodhound,8.63,True
+Pekinese,59.69,True
+Maltese Dog,17.65,True
+Great Pyrenees,2.68,True
+Web Site,90.67,False
+Printer,0.86,False
+Carton,0.45,False
+Labrador Retriever,70.9,True
+Golden Retriever,11.43,True
+Great Pyrenees,6.58,True
+Golden Retriever,87.24,True
+Labrador Retriever,10.0,True
+Cocker Spaniel,0.61,True
+Rotisserie,47.15,False
+Cash Machine,25.08,False
+Sliding Door,11.79,False
+Tub,59.68,False
+Bathtub,38.11,False
+Shower Curtain,1.76,False
+Beagle,85.85,True
+Basset,7.6,True
+English Foxhound,1.62,True
+Chow,16.89,True
+Norfolk Terrier,12.91,True
+Pomeranian,12.08,True
+Miniature Pinscher,45.61,True
+Toy Terrier,15.31,True
+Italian Greyhound,14.41,True
+Balloon,26.8,False
+Lakeside,8.58,False
+Rapeseed,4.08,False
+Whippet,16.38,True
+Italian Greyhound,15.72,True
+English Foxhound,14.3,True
+Bluetick,36.01,True
+Crutch,13.48,False
+Tripod,9.82,False
+Chow,19.48,True
+Monitor,10.23,False
+Siberian Husky,8.69,True
+Pembroke,86.85,True
+Cardigan,10.37,True
+Shetland Sheepdog,1.81,True
+German Shepherd,60.93,True
+Malinois,35.25,True
+Kelpie,1.61,True
+German Shepherd,30.0,True
+Eskimo Dog,27.84,True
+Siberian Husky,17.85,True
+Goose,33.93,False
+English Setter,5.05,True
+Basset,4.91,True
+Swing,100.0,False
+Labrador Retriever,0.0,True
+Eskimo Dog,0.0,True
+Bedlington Terrier,39.92,True
+Standard Poodle,8.64,True
+Wire-Haired Fox Terrier,7.52,True
+Labrador Retriever,52.77,True
+German Shepherd,17.48,True
+Chihuahua,4.55,True
+Lakeland Terrier,42.42,True
+Teddy,26.06,False
+Golden Retriever,12.74,True
+Chow,70.36,True
+Pomeranian,7.66,True
+Siamese Cat,4.6,False
+Toy Poodle,75.78,True
+Miniature Poodle,3.51,True
+Scottish Deerhound,2.77,True
+Dalmatian,86.83,True
+Studio Couch,5.96,False
+Snow Leopard,1.39,False
+Labrador Retriever,51.63,True
+Golden Retriever,21.08,True
+Dingo,16.2,False
+Golden Retriever,71.44,True
+Afghan Hound,6.62,True
+Chow,2.84,True
+Walker Hound,17.89,True
+German Short-Haired Pointer,11.58,True
+English Foxhound,11.38,True
+Labrador Retriever,94.72,True
+Chesapeake Bay Retriever,2.06,True
+Golden Retriever,1.66,True
+Labrador Retriever,92.94,True
+Chesapeake Bay Retriever,3.83,True
+Golden Retriever,0.76,True
+Toy Poodle,91.26,True
+Miniature Poodle,3.51,True
+Seat Belt,2.64,False
+Pembroke,97.26,True
+Cardigan,1.48,True
+Basenji,0.58,True
+American Black Bear,21.92,False
+Lesser Panda,21.47,False
+Titi,9.17,False
+Golden Retriever,96.49,True
+Labrador Retriever,1.16,True
+Refrigerator,0.75,False
+Border Collie,67.28,True
+Collie,27.02,True
+Papillon,3.45,True
+Pug,97.78,True
+Boston Bull,0.48,True
+French Bulldog,0.46,True
+Toy Poodle,47.8,True
+Miniature Poodle,20.75,True
+Croquet Ball,8.59,False
+Shih-Tzu,81.44,True
+Lhasa,17.52,True
+Pekinese,0.81,True
+Golden Retriever,31.67,True
+Llama,17.43,False
+Labrador Retriever,14.74,True
+Pug,97.83,True
+Teddy,0.31,False
+Brabancon Griffon,0.31,True
+Redbone,38.21,True
+Malinois,24.99,True
+Miniature Pinscher,7.09,True
+Saluki,48.44,True
+Borzoi,26.36,True
+Labrador Retriever,7.7,True
+Labrador Retriever,25.2,True
+Maltese Dog,18.81,True
+Golden Retriever,13.3,True
+Standard Poodle,25.87,True
+Teddy,13.08,False
+Toy Poodle,7.17,True
+Muzzle,23.76,False
+Boston Bull,8.71,True
+Sombrero,6.85,False
+Old English Sheepdog,51.53,True
+West Highland White Terrier,15.1,True
+Soft-Coated Wheaten Terrier,5.64,True
+Bow Tie,53.39,False
+Sunglasses,8.08,False
+Sunglass,5.08,False
+Pekinese,87.9,True
+Chihuahua,5.49,True
+Blenheim Spaniel,2.1,True
+Papillon,77.29,True
+Shetland Sheepdog,4.24,True
+Collie,4.23,True
+Chesapeake Bay Retriever,69.45,True
+Curly-Coated Retriever,7.63,True
+Irish Water Spaniel,4.85,True
+Pomeranian,97.37,True
+Chow,2.08,True
+Keeshond,0.38,True
+Wire-Haired Fox Terrier,15.51,True
+Lakeland Terrier,10.84,True
+Buckeye,7.46,False
+Pug,98.52,True
+Brabancon Griffon,0.33,True
+Pekinese,0.3,True
+Sulphur-Crested Cockatoo,96.03,False
+West Highland White Terrier,1.95,True
+Samoyed,0.64,True
+German Short-Haired Pointer,74.22,True
+Bluetick,15.28,True
+English Setter,5.18,True
+Borzoi,74.29,True
+Wire-Haired Fox Terrier,20.41,True
+English Setter,2.1,True
+Tiger Shark,54.85,False
+Great White Shark,13.03,False
+Scuba Diver,12.19,False
+Pembroke,84.9,True
+Cardigan,8.36,True
+Kelpie,2.44,True
+Ox,33.79,False
+Plow,26.93,False
+Oxcart,24.57,False
+Muzzle,17.62,False
+Seat Belt,16.1,False
+Soft-Coated Wheaten Terrier,8.65,True
+Tibetan Terrier,32.82,True
+Toy Poodle,30.48,True
+Miniature Poodle,7.09,True
+Borzoi,59.65,True
+Whippet,23.14,True
+Saluki,5.83,True
+Shetland Sheepdog,88.05,True
+Collie,10.79,True
+Pembroke,0.36,True
+Paddle,58.91,False
+Shovel,3.81,False
+Mountain Tent,2.92,False
+Kelpie,30.77,True
+Irish Terrier,19.75,True
+Dingo,10.55,False
+Samoyed,99.82,True
+Eskimo Dog,0.08,True
+Great Pyrenees,0.03,True
+Kuvasz,40.84,True
+Samoyed,14.13,True
+Pug,8.3,True
+Pembroke,36.04,True
+Papillon,26.31,True
+Chihuahua,13.12,True
+Pembroke,76.89,True
+Chihuahua,2.91,True
+Shetland Sheepdog,2.9,True
+Chesapeake Bay Retriever,80.44,True
+Weimaraner,5.44,True
+Labrador Retriever,4.33,True
+Basenji,38.91,True
+Dingo,27.02,False
+Chihuahua,9.89,True
+Cardigan,11.15,True
+Malinois,9.51,True
+German Shepherd,8.01,True
+Binoculars,19.27,False
+Barbershop,8.58,False
+Ballplayer,8.47,False
+Shetland Sheepdog,54.8,True
+Marmot,16.55,False
+Collie,4.3,True
+Coil,53.37,False
+Dugong,8.8,False
+Rain Barrel,3.92,False
+Labrador Retriever,99.2,True
+Golden Retriever,0.22,True
+Doormat,0.14,False
+Traffic Light,47.07,False
+Fountain,19.98,False
+Space Shuttle,6.48,False
+Pembroke,54.02,True
+Beagle,20.78,True
+Italian Greyhound,4.36,True
+Dingo,17.55,False
+Timber Wolf,13.36,False
+Ibizan Hound,10.15,True
+Boston Bull,93.62,True
+Guinea Pig,1.01,False
+Cardigan,1.01,True
+Golden Retriever,25.65,True
+Labrador Retriever,25.24,True
+Seat Belt,20.32,False
+Toy Poodle,50.83,True
+Lakeland Terrier,23.45,True
+Affenpinscher,8.46,True
+German Shepherd,62.3,True
+Malinois,33.89,True
+Wallaby,2.42,False
+Chow,57.56,True
+Pomeranian,19.6,True
+Norwich Terrier,14.12,True
+Shetland Sheepdog,43.33,True
+Collie,33.6,True
+Borzoi,17.72,True
+Pekinese,98.43,True
+Shih-Tzu,0.89,True
+Cocker Spaniel,0.19,True
+Seat Belt,37.91,False
+Chow,6.28,True
+Minibus,5.24,False
+Barrow,100.0,False
+Basset,0.0,True
+Wok,0.0,False
+Labrador Retriever,66.38,True
+Golden Retriever,30.83,True
+Ice Bear,0.43,False
+Ice Bear,80.78,False
+Great White Shark,2.7,False
+Fountain,2.21,False
+Shetland Sheepdog,96.4,True
+Collie,2.62,True
+Border Collie,0.45,True
+Old English Sheepdog,42.75,True
+Shih-Tzu,14.63,True
+Tibetan Terrier,13.43,True
+Toy Poodle,49.78,True
+Golden Retriever,28.2,True
+Miniature Poodle,9.0,True
+Shetland Sheepdog,23.44,True
+Samoyed,11.49,True
+Collie,8.66,True
+Samoyed,96.05,True
+Pomeranian,1.22,True
+White Wolf,0.48,False
+Labrador Retriever,82.53,True
+Ice Bear,4.47,False
+Whippet,1.84,True
+Bull Mastiff,97.57,True
+Rhodesian Ridgeback,0.81,True
+Pug,0.56,True
+Dalmatian,56.23,True
+Great Dane,41.65,True
+German Short-Haired Pointer,0.86,True
+Weimaraner,98.28,True
+American Staffordshire Terrier,0.48,True
+Great Dane,0.34,True
+Hippopotamus,50.57,False
+Hog,37.07,False
+Warthog,1.88,False
+Rapeseed,87.69,False
+Standard Poodle,6.06,True
+Great Pyrenees,3.3,True
+Sea Lion,85.9,False
+Tub,2.04,False
+Hippopotamus,1.31,False
+Malamute,44.26,True
+Siberian Husky,36.81,True
+Eskimo Dog,17.78,True
+Kuvasz,35.06,True
+Soft-Coated Wheaten Terrier,18.28,True
+Golden Retriever,8.77,True
+Golden Retriever,93.07,True
+Chesapeake Bay Retriever,2.59,True
+Labrador Retriever,0.75,True
+Sunglasses,90.09,False
+Sunglass,4.03,False
+Snorkel,0.93,False
+Web Site,99.72,False
+Comic Book,0.04,False
+Desktop Computer,0.03,False
+Pug,99.73,True
+Brabancon Griffon,0.12,True
+French Bulldog,0.04,True
+Cardigan,56.69,True
+Border Collie,11.76,True
+Appenzeller,4.77,True
+Balloon,99.07,False
+Punching Bag,0.48,False
+Parachute,0.04,False
+Siamese Cat,11.24,False
+French Bulldog,7.14,True
+Hog,6.25,False
+Kuvasz,31.13,True
+French Bulldog,11.53,True
+Labrador Retriever,6.85,True
+Labrador Retriever,78.61,True
+Flat-Coated Retriever,4.87,True
+Chesapeake Bay Retriever,3.47,True
+Chesapeake Bay Retriever,29.27,True
+Redbone,19.79,True
+Vizsla,15.03,True
+Chihuahua,76.82,True
+Pug,1.49,True
+Pekinese,1.28,True
+Golden Retriever,84.38,True
+Labrador Retriever,5.3,True
+Kelpie,3.57,True
+Malamute,45.44,True
+Samoyed,21.6,True
+Siberian Husky,7.75,True
+Toy Poodle,38.83,True
+Angora,18.03,False
+Persian Cat,4.97,False
+Lawn Mower,87.89,False
+Swing,2.45,False
+Barrow,1.96,False
+Wombat,46.3,False
+Norwegian Elkhound,27.52,True
+Siamese Cat,4.36,False
+Golden Retriever,80.76,True
+Kuvasz,10.13,True
+Labrador Retriever,2.38,True
+Bow Tie,24.63,False
+Windsor Tie,17.24,False
+Mushroom,13.75,False
+Golden Retriever,86.37,True
+Kuvasz,4.86,True
+Labrador Retriever,4.74,True
+Chesapeake Bay Retriever,58.64,True
+Labrador Retriever,18.98,True
+Vizsla,6.76,True
+Irish Water Spaniel,28.58,True
+Wig,24.07,False
+Toy Poodle,7.49,True
+Redbone,24.39,True
+Beagle,21.1,True
+Vizsla,7.64,True
+Toy Poodle,34.24,True
+Table Lamp,10.45,False
+Miniature Poodle,7.99,True
+Blenheim Spaniel,93.38,True
+Cocker Spaniel,4.17,True
+Brittany Spaniel,0.67,True
+Labrador Retriever,96.74,True
+Golden Retriever,1.66,True
+Ice Bear,1.49,False
+Walker Hound,64.03,True
+English Foxhound,22.98,True
+Beagle,3.78,True
+Eskimo Dog,50.34,True
+Siberian Husky,39.04,True
+Malamute,8.09,True
+Bath Towel,87.83,False
+Swab,2.06,False
+American Staffordshire Terrier,1.55,True
+Labrador Retriever,69.11,True
+Golden Retriever,19.56,True
+Chesapeake Bay Retriever,1.96,True
+Chow,80.87,True
+Gibbon,2.89,False
+Pembroke,2.65,True
+Cocker Spaniel,34.67,True
+Blenheim Spaniel,19.39,True
+Chihuahua,7.8,True
+Bedlington Terrier,28.95,True
+Standard Poodle,17.37,True
+Great Pyrenees,15.71,True
+Keeshond,87.89,True
+Norwegian Elkhound,8.67,True
+Malamute,2.13,True
+Pug,75.18,True
+Tub,11.07,False
+Bathtub,10.41,False
+Vizsla,99.04,True
+Rhodesian Ridgeback,0.56,True
+Chesapeake Bay Retriever,0.29,True
+Malamute,37.47,True
+Norwegian Elkhound,33.49,True
+Limousine,6.82,False
+Pembroke,93.53,True
+Cardigan,4.99,True
+Chihuahua,1.16,True
+Samoyed,40.06,True
+Pomeranian,33.13,True
+Maltese Dog,4.54,True
+Guinea Pig,14.85,False
+Solar Dish,9.72,False
+Park Bench,5.93,False
+Cliff,43.91,False
+Lakeside,6.29,False
+Valley,3.98,False
+Schipperke,54.55,True
+Groenendael,29.86,True
+Labrador Retriever,3.1,True
+Cup,47.36,False
+Toy Poodle,8.26,True
+Consomme,4.83,False
+Labrador Retriever,39.92,True
+West Highland White Terrier,13.77,True
+Cocker Spaniel,6.2,True
+Golden Retriever,55.39,True
+Labrador Retriever,11.95,True
+Bluetick,7.75,True
+Cocker Spaniel,96.16,True
+Toy Poodle,1.15,True
+Soft-Coated Wheaten Terrier,0.49,True
+Pembroke,46.26,True
+Seat Belt,26.19,False
+Cardigan,15.17,True
+Pug,89.19,True
+Goose,1.44,False
+Fur Coat,0.85,False
+Studio Couch,94.47,False
+Four-Poster,0.79,False
+Quilt,0.63,False
+Staffordshire Bullterrier,52.32,True
+French Bulldog,35.11,True
+Doormat,2.81,False
+Walker Hound,41.35,True
+Beagle,23.39,True
+English Foxhound,16.49,True
+Maltese Dog,84.73,True
+Feather Boa,5.94,False
+Old English Sheepdog,5.28,True
+Golden Retriever,88.4,True
+Chow,2.35,True
+Labrador Retriever,1.61,True
+Siberian Husky,30.49,True
+Eskimo Dog,15.51,True
+Malamute,5.09,True
+Beagle,47.23,True
+Walker Hound,12.18,True
+Saint Bernard,11.46,True
+Lhasa,45.74,True
+Shih-Tzu,37.13,True
+Tibetan Terrier,4.84,True
+French Bulldog,61.94,True
+Computer Keyboard,14.23,False
+Mouse,5.85,False
+Chow,93.13,True
+Beaver,2.88,False
+Dhole,1.74,False
+Golden Retriever,94.55,True
+Labrador Retriever,4.23,True
+Doormat,0.4,False
+Koala,16.29,False
+Staffordshire Bullterrier,12.8,True
+Mongoose,9.64,False
+Pomeranian,96.19,True
+Samoyed,2.43,True
+Chow,0.58,True
+Staffordshire Bullterrier,84.34,True
+American Staffordshire Terrier,2.83,True
+Miniature Pinscher,1.68,True
+Tennis Ball,99.87,False
+Basset,0.05,True
+Golden Retriever,0.04,True
+English Setter,67.74,True
+Border Collie,5.27,True
+Cocker Spaniel,4.86,True
+Pembroke,96.71,True
+Cardigan,2.11,True
+Chihuahua,0.22,True
+Lakeside,50.18,False
+Breakwater,5.14,False
+King Penguin,4.94,False
+Polecat,18.54,False
+Mink,10.53,False
+Newfoundland,8.62,True
+American Staffordshire Terrier,81.02,True
+Labrador Retriever,5.82,True
+Weimaraner,2.79,True
+Eskimo Dog,68.21,True
+Siberian Husky,28.93,True
+Staffordshire Bullterrier,0.88,True
+Pug,34.17,True
+Norwegian Elkhound,17.12,True
+German Shepherd,12.47,True
+Hand Blower,29.61,False
+Chain Mail,26.23,False
+Toilet Seat,14.95,False
+Doormat,35.96,False
+China Cabinet,5.39,False
+Passenger Car,5.27,False
+Stone Wall,75.82,False
+Patio,7.42,False
+Prison,1.38,False
+Kelpie,21.84,True
+Arabian Camel,11.44,False
+Coyote,9.64,False
+German Shepherd,82.93,True
+Doberman,2.25,True
+Basenji,2.12,True
+Stone Wall,60.62,False
+Prison,6.48,False
+Bannister,4.8,False
+Maltese Dog,95.21,True
+Toy Poodle,2.73,True
+Miniature Poodle,0.49,True
+Pembroke,93.91,True
+Cardigan,5.43,True
+Chihuahua,0.56,True
+Saint Bernard,48.2,True
+Collie,20.27,True
+Borzoi,3.8,True
+Window Shade,59.43,False
+Studio Couch,5.35,False
+Rotisserie,4.12,False
+Siamese Cat,47.83,False
+Saint Bernard,9.42,True
+King Penguin,8.22,False
+Collie,26.64,True
+Great Pyrenees,13.85,True
+Keeshond,10.9,True
+Newfoundland,25.6,True
+Groenendael,17.56,True
+German Shepherd,16.41,True
+Handkerchief,30.3,False
+Pomeranian,24.87,True
+Shih-Tzu,11.1,True
+Cocker Spaniel,38.46,True
+Golden Retriever,9.17,True
+Sandbar,8.18,False
+Border Collie,46.24,True
+Collie,21.46,True
+Eskimo Dog,3.56,True
+Great Pyrenees,45.72,True
+Kuvasz,39.17,True
+Labrador Retriever,9.45,True
+Pomeranian,95.88,True
+Chihuahua,2.41,True
+Chow,0.39,True
+Toy Poodle,82.75,True
+Miniature Poodle,16.08,True
+Tibetan Terrier,0.17,True
+Bonnet,14.64,False
+Sock,8.31,False
+Chihuahua,7.06,True
+Flat-Coated Retriever,65.65,True
+Great Dane,8.48,True
+Labrador Retriever,5.89,True
+Teddy,82.16,False
+Toy Poodle,8.37,True
+Lakeland Terrier,3.33,True
+Soft-Coated Wheaten Terrier,51.59,True
+Irish Terrier,16.27,True
+Chesapeake Bay Retriever,12.52,True
+Miniature Pinscher,25.53,True
+Border Terrier,18.13,True
+Labrador Retriever,12.52,True
+Standard Poodle,26.11,True
+Cocker Spaniel,9.48,True
+Bucket,6.99,False
+Toy Poodle,42.05,True
+Miniature Poodle,13.26,True
+Chesapeake Bay Retriever,12.15,True
+Chow,33.58,True
+Samoyed,16.72,True
+Kuvasz,14.57,True
+Boxer,59.91,True
+Bull Mastiff,17.73,True
+French Bulldog,14.15,True
+Golden Retriever,67.58,True
+Great Pyrenees,9.52,True
+Cocker Spaniel,7.6,True
+German Short-Haired Pointer,83.55,True
+Bluetick,5.88,True
+English Setter,3.72,True
+Golden Retriever,24.07,True
+Cocker Spaniel,20.24,True
+Feather Boa,15.93,False
+Border Collie,58.18,True
+Collie,34.46,True
+Shetland Sheepdog,4.36,True
+Boxer,82.63,True
+Bull Mastiff,15.86,True
+Great Dane,1.19,True
+Siamese Cat,95.05,False
+Pug,1.89,True
+Quilt,0.76,False
+Samoyed,99.18,True
+Pomeranian,0.36,True
+Chow,0.22,True
+Teddy,26.33,False
+Chow,8.9,True
+Irish Terrier,6.53,True
+Golden Retriever,83.94,True
+Labrador Retriever,6.57,True
+Hand Blower,1.29,False
+Tennis Ball,17.65,False
+Badger,5.99,False
+Norwegian Elkhound,5.69,True
+Great Dane,24.68,True
+Greater Swiss Mountain Dog,12.61,True
+Weimaraner,8.53,True
+Labrador Retriever,53.09,True
+Golden Retriever,28.82,True
+Chow,4.49,True
+Pomeranian,99.78,True
+Chihuahua,0.12,True
+Pekinese,0.08,True
+Samoyed,95.01,True
+Washbasin,0.63,False
+Tub,0.62,False
+Chihuahua,89.64,True
+Dingo,2.79,False
+Kelpie,1.79,True
+Newfoundland,49.0,True
+Groenendael,17.45,True
+Giant Schnauzer,7.91,True
+Rottweiler,99.03,True
+Black-And-Tan Coonhound,0.25,True
+American Black Bear,0.17,False
+Pembroke,87.4,True
+Cardigan,4.33,True
+Eskimo Dog,1.92,True
+Alp,32.01,False
+Lawn Mower,8.08,False
+Viaduct,6.53,False
+Mexican Hairless,45.19,True
+Redbone,25.49,True
+Italian Greyhound,9.48,True
+Samoyed,95.45,True
+Eskimo Dog,2.91,True
+White Wolf,0.45,False
+Golden Retriever,60.53,True
+Cocker Spaniel,13.09,True
+Labrador Retriever,9.47,True
+Home Theater,5.9,False
+Window Shade,3.83,False
+Bathtub,3.55,False
+Malamute,87.32,True
+Siberian Husky,7.64,True
+Eskimo Dog,3.57,True
+Swing,17.15,False
+Soft-Coated Wheaten Terrier,5.1,True
+Tibetan Terrier,4.78,True
+Golden Retriever,76.58,True
+Borzoi,7.11,True
+Leonberg,7.04,True
+Dandie Dinmont,22.44,True
+Miniature Poodle,20.49,True
+Norfolk Terrier,9.06,True
+Golden Retriever,14.04,True
+Saint Bernard,11.88,True
+Labrador Retriever,7.55,True
+Pembroke,76.63,True
+Cardigan,22.21,True
+Toilet Tissue,0.68,False
+Pomeranian,99.37,True
+Pekinese,0.36,True
+Persian Cat,0.05,False
+Labrador Retriever,58.46,True
+German Short-Haired Pointer,34.07,True
+Chesapeake Bay Retriever,3.2,True
+Maltese Dog,63.23,True
+West Highland White Terrier,18.71,True
+Cairn,4.44,True
+Badger,35.69,False
+Boston Bull,25.28,True
+Kelpie,11.34,True
+Hammer,16.99,False
+Hatchet,11.57,False
+Chime,6.81,False
+Chihuahua,35.45,True
+Carton,15.97,False
+Siberian Husky,5.75,True
+Malamute,37.02,True
+Siberian Husky,35.64,True
+Eskimo Dog,27.1,True
+Brittany Spaniel,92.29,True
+English Springer,7.01,True
+Bath Towel,0.26,False
+Car Mirror,81.91,False
+Minibus,10.74,False
+Cab,3.48,False
+Golden Retriever,77.94,True
+Labrador Retriever,5.25,True
+Kuvasz,4.98,True
+Miniature Pinscher,28.65,True
+Italian Greyhound,8.41,True
+Beagle,6.47,True
+Golden Retriever,98.35,True
+Labrador Retriever,1.22,True
+Cocker Spaniel,0.24,True
+Siberian Husky,50.62,True
+Eskimo Dog,26.97,True
+Malamute,6.07,True
+Malinois,61.96,True
+Leonberg,11.81,True
+Bull Mastiff,6.65,True
+Pomeranian,46.88,True
+Seat Belt,15.47,False
+Golden Retriever,12.5,True
+Siberian Husky,39.65,True
+Malamute,31.71,True
+Eskimo Dog,27.34,True
+Yorkshire Terrier,43.04,True
+Silky Terrier,19.68,True
+Cairn,7.27,True
+Golden Retriever,63.86,True
+Chow,25.47,True
+Tibetan Mastiff,7.17,True
+Pug,97.67,True
+French Bulldog,1.97,True
+Bull Mastiff,0.23,True
+Dandie Dinmont,74.02,True
+Miniature Poodle,8.19,True
+Toy Poodle,6.37,True
+Staffordshire Bullterrier,42.78,True
+Pug,22.14,True
+French Bulldog,13.21,True
+Golden Retriever,99.07,True
+Labrador Retriever,0.22,True
+Chow,0.12,True
+Nail,85.56,False
+Screw,7.33,False
+Padlock,2.4,False
+West Highland White Terrier,59.71,True
+Soft-Coated Wheaten Terrier,14.3,True
+Lakeland Terrier,13.67,True
+Chihuahua,58.4,True
+Italian Greyhound,37.71,True
+Boston Bull,1.74,True
+Chihuahua,95.68,True
+Beagle,0.84,True
+Labrador Retriever,0.83,True
+Dingo,31.09,False
+Chihuahua,14.23,True
+Cardigan,10.39,True
+Brittany Spaniel,94.44,True
+Beagle,2.54,True
+Ibizan Hound,1.0,True
+Great Pyrenees,25.15,True
+Samoyed,13.93,True
+Kuvasz,12.9,True
+Meerkat,14.35,False
+Weasel,11.74,False
+Black-Footed Ferret,9.99,False
+Norfolk Terrier,29.3,True
+Labrador Retriever,25.62,True
+Golden Retriever,12.96,True
+Collie,17.68,True
+Chesapeake Bay Retriever,10.18,True
+Beagle,10.13,True
+Soft-Coated Wheaten Terrier,75.2,True
+Bedlington Terrier,17.57,True
+Great Pyrenees,1.15,True
+Pug,53.4,True
+Bloodhound,16.48,True
+German Shepherd,4.65,True
+Labrador Retriever,58.7,True
+Golden Retriever,37.88,True
+Redbone,0.36,True
+Siberian Husky,46.32,True
+Eskimo Dog,39.0,True
+Malamute,9.8,True
+Golden Retriever,37.18,True
+Cocker Spaniel,17.74,True
+Irish Setter,9.27,True
+Brittany Spaniel,79.79,True
+English Springer,4.47,True
+Welsh Springer Spaniel,3.79,True
+Great Pyrenees,72.03,True
+Samoyed,12.95,True
+Kuvasz,12.25,True
+Whippet,73.42,True
+Basenji,2.59,True
+Great Dane,2.59,True
+Timber Wolf,50.38,False
+Malamute,43.06,True
+Siberian Husky,2.85,True
+Labrador Retriever,86.87,True
+Carton,9.51,False
+Pug,0.77,True
+Great Pyrenees,73.2,True
+Kuvasz,12.14,True
+Irish Wolfhound,4.95,True
+Labrador Retriever,82.91,True
+Golden Retriever,3.87,True
+Chihuahua,2.62,True
+Ice Bear,86.95,False
+Great Pyrenees,6.95,True
+Labrador Retriever,2.47,True
+Labrador Retriever,72.05,True
+Whippet,4.8,True
+Chesapeake Bay Retriever,4.5,True
+Triceratops,23.54,False
+Llama,15.31,False
+Three-Toed Sloth,11.18,False
+Shih-Tzu,62.51,True
+Tibetan Terrier,12.69,True
+Lhasa,11.97,True
+Goose,21.43,False
+Gibbon,8.43,False
+Pizza,8.02,False
+Espresso,43.01,False
+Coffee Mug,41.85,False
+Cup,8.84,False
+Lakeland Terrier,45.95,True
+Miniature Poodle,21.97,True
+Standard Poodle,13.02,True
+Dingo,36.69,False
+Ibizan Hound,33.49,True
+Eskimo Dog,7.39,True
+Brown Bear,71.33,False
+Indian Elephant,17.28,False
+Water Buffalo,3.89,False
+Llama,85.68,False
+Arabian Camel,9.87,False
+Neck Brace,1.64,False
+Pembroke,75.09,True
+Cardigan,24.12,True
+Basenji,0.26,True
+Leatherback Turtle,28.08,False
+Loggerhead,12.33,False
+Dandie Dinmont,8.68,True
+French Bulldog,73.14,True
+Boston Bull,15.07,True
+Pug,2.18,True
+Malamute,28.13,True
+Eskimo Dog,23.26,True
+Pembroke,9.16,True
+Dingo,53.66,False
+Pembroke,20.04,True
+Basenji,6.07,True
+Pembroke,80.37,True
+Cardigan,18.97,True
+German Shepherd,0.17,True
+Soft-Coated Wheaten Terrier,94.86,True
+Dandie Dinmont,1.87,True
+Cairn,1.59,True
+Pembroke,98.2,True
+Cardigan,0.89,True
+Malamute,0.75,True
+Shih-Tzu,93.24,True
+Lhasa,3.08,True
+Tibetan Terrier,0.9,True
+Old English Sheepdog,58.63,True
+Wire-Haired Fox Terrier,11.86,True
+Lakeland Terrier,10.68,True
+Pug,41.55,True
+German Shepherd,17.82,True
+Labrador Retriever,10.02,True
+Cowboy Hat,97.91,False
+Sombrero,1.07,False
+Cocker Spaniel,0.27,True
+Pekinese,95.32,True
+Papillon,1.95,True
+Japanese Spaniel,0.58,True
+Toy Poodle,80.21,True
+Miniature Poodle,11.16,True
+Cocker Spaniel,6.29,True
+Pembroke,95.62,True
+Cardigan,2.07,True
+Chihuahua,0.79,True
+Bib,99.88,False
+Handkerchief,0.05,False
+Umbrella,0.02,False
+Chihuahua,94.56,True
+Pomeranian,1.92,True
+West Highland White Terrier,1.01,True
+Chow,99.98,True
+Tibetan Mastiff,0.01,True
+Australian Terrier,0.0,True
+Golden Retriever,79.0,True
+Kuvasz,10.5,True
+Labrador Retriever,8.71,True
+Cocker Spaniel,41.5,True
+Newfoundland,22.55,True
+Flat-Coated Retriever,19.68,True
+Maltese Dog,78.02,True
+Dandie Dinmont,7.44,True
+Norfolk Terrier,3.38,True
+Shetland Sheepdog,79.75,True
+Collie,5.41,True
+Keeshond,3.17,True
+Labrador Retriever,27.11,True
+Pomeranian,15.05,True
+Golden Retriever,14.56,True
+Chihuahua,94.83,True
+Italian Greyhound,1.77,True
+Quilt,1.67,False
+Borzoi,49.08,True
+Wire-Haired Fox Terrier,8.35,True
+English Setter,8.32,True
+Siberian Husky,21.3,True
+Eskimo Dog,17.89,True
+Labrador Retriever,17.42,True
+Hotdog,82.66,False
+Rottweiler,6.82,True
+Labrador Retriever,4.92,True
+Schipperke,74.56,True
+Kelpie,16.79,True
+Boston Bull,1.48,True
+Eskimo Dog,28.39,True
+Giant Panda,21.83,False
+Malamute,18.04,True
+Golden Retriever,97.61,True
+Labrador Retriever,1.63,True
+Norfolk Terrier,0.19,True
+Pomeranian,93.35,True
+Samoyed,5.72,True
+West Highland White Terrier,0.09,True
+Tennis Ball,91.3,False
+German Short-Haired Pointer,5.27,True
+Labrador Retriever,1.85,True
+Shih-Tzu,21.85,True
+Lhasa,20.2,True
+Norfolk Terrier,16.52,True
+Chihuahua,74.82,True
+Toy Terrier,12.77,True
+Pembroke,4.21,True
+Pug,87.13,True
+French Bulldog,4.18,True
+Bath Towel,1.52,False
+Muzzle,24.39,False
+Basenji,18.72,True
+Boston Bull,9.27,True
+Cardigan,35.1,True
+Basset,16.46,True
+Toy Terrier,8.05,True
+French Bulldog,71.04,True
+Chihuahua,26.23,True
+Cardigan,0.69,True
+Norwich Terrier,26.45,True
+Norfolk Terrier,25.88,True
+Chow,9.69,True
+Staffordshire Bullterrier,51.61,True
+American Staffordshire Terrier,23.61,True
+Kelpie,6.97,True
+Malinois,78.65,True
+Chesapeake Bay Retriever,6.9,True
+Siamese Cat,2.93,False
+Agama,17.21,False
+Gila Monster,12.7,False
+Lumbermill,5.04,False
+Toy Poodle,90.85,True
+Miniature Poodle,8.27,True
+Teddy,0.58,False
+Miniature Pinscher,89.04,True
+Toy Terrier,5.13,True
+Chihuahua,1.8,True
+Whippet,73.84,True
+Italian Greyhound,19.18,True
+American Staffordshire Terrier,2.01,True
+Bathtub,49.95,False
+Tub,48.8,False
+Washbasin,0.93,False
+Golden Retriever,38.32,True
+Cocker Spaniel,16.59,True
+Chesapeake Bay Retriever,11.82,True
+Ram,51.82,False
+Kuvasz,14.94,True
+Great Pyrenees,10.6,True
+Lakeland Terrier,73.83,True
+Airedale,2.85,True
+Giant Schnauzer,2.49,True
+Chihuahua,88.85,True
+Italian Greyhound,8.86,True
+Toy Terrier,1.59,True
+Golden Retriever,63.72,True
+Bloodhound,9.45,True
+Cocker Spaniel,6.98,True
+Bernese Mountain Dog,97.92,True
+Shetland Sheepdog,1.1,True
+Appenzeller,0.4,True
+Blenheim Spaniel,37.07,True
+Shih-Tzu,20.16,True
+Black-Footed Ferret,10.16,False
+Samoyed,89.73,True
+Great Pyrenees,3.92,True
+Kuvasz,1.95,True
+Pug,64.24,True
+Llama,5.73,False
+French Bulldog,5.42,True
+Cocker Spaniel,55.97,True
+Golden Retriever,31.47,True
+Pekinese,6.67,True
+Chihuahua,58.38,True
+Italian Greyhound,12.97,True
+Toy Terrier,8.92,True
+Wild Boar,85.95,False
+Hog,12.9,False
+Warthog,1.13,False
+Toy Poodle,71.76,True
+Miniature Poodle,15.14,True
+Norwich Terrier,4.71,True
+Space Heater,13.79,False
+Chihuahua,13.29,True
+Cougar,11.39,False
+Four-Poster,69.64,False
+Quilt,18.93,False
+Pillow,2.94,False
+Chow,54.18,True
+Pembroke,9.49,True
+Pomeranian,8.54,True
+Golden Retriever,77.27,True
+Labrador Retriever,7.17,True
+Golfcart,2.1,False
+Tibetan Mastiff,95.65,True
+Rottweiler,2.54,True
+Appenzeller,0.87,True
+Pembroke,69.82,True
+Chihuahua,10.58,True
+Bloodhound,6.2,True
+Border Terrier,58.71,True
+Bull Mastiff,16.41,True
+Staffordshire Bullterrier,10.5,True
+Papillon,74.37,True
+Pekinese,11.4,True
+Saint Bernard,4.77,True
+Samoyed,43.04,True
+Kuvasz,27.96,True
+Great Pyrenees,11.75,True
+Staffordshire Bullterrier,58.78,True
+American Staffordshire Terrier,28.14,True
+Bull Mastiff,9.48,True
+Golden Retriever,77.63,True
+Labrador Retriever,11.24,True
+Chow,3.7,True
+Collie,80.83,True
+Border Collie,5.94,True
+Groenendael,2.67,True
+Web Site,55.03,False
+Labrador Retriever,14.85,True
+Golden Retriever,14.85,True
+Basenji,87.72,True
+Italian Greyhound,4.79,True
+Miniature Pinscher,3.56,True
+Golden Retriever,90.88,True
+Labrador Retriever,3.04,True
+Tennis Ball,0.5,False
+Great Pyrenees,30.91,True
+Kuvasz,22.46,True
+Seat Belt,20.21,False
+Chihuahua,77.48,True
+Quilt,7.31,False
+Pembroke,2.24,True
+Chihuahua,15.79,True
+Toy Terrier,8.99,True
+Mexican Hairless,6.32,True
+Egyptian Cat,9.05,False
+Chesapeake Bay Retriever,7.74,True
+Mexican Hairless,4.95,True
+Collie,45.77,True
+Chow,27.91,True
+Pomeranian,7.69,True
+Airedale,86.87,True
+Irish Terrier,2.76,True
+Otterhound,2.53,True
+Norfolk Terrier,68.95,True
+Soft-Coated Wheaten Terrier,10.15,True
+Norwich Terrier,5.58,True
+Pug,28.44,True
+Teddy,15.63,False
+Mitten,13.89,False
+Golden Retriever,85.72,True
+Labrador Retriever,13.55,True
+Tibetan Mastiff,0.19,True
+Guinea Pig,99.48,False
+Hamster,0.41,False
+Wood Rabbit,0.02,False
+Siamese Cat,20.23,False
+Chihuahua,10.04,True
+Basenji,7.21,True
+Chihuahua,37.65,True
+Siamese Cat,9.81,False
+Labrador Retriever,8.52,True
+Samoyed,97.92,True
+Pomeranian,0.72,True
+Arctic Fox,0.64,False
+Pembroke,98.07,True
+Cardigan,1.85,True
+Chihuahua,0.02,True
+Teddy,23.34,False
+Feather Boa,8.85,False
+Brittany Spaniel,8.29,True
+Otter,94.55,False
+Mink,1.82,False
+Sea Lion,1.59,False
+Great Pyrenees,66.79,True
+Kuvasz,22.88,True
+Golden Retriever,4.39,True
+Labrador Retriever,99.01,True
+Chesapeake Bay Retriever,0.8,True
+Curly-Coated Retriever,0.12,True
+Boxer,83.9,True
+Greater Swiss Mountain Dog,8.88,True
+Bull Mastiff,3.17,True
+Window Shade,90.95,False
+Window Screen,1.14,False
+Brass,0.89,False
+Pembroke,75.64,True
+Basenji,12.66,True
+Cardigan,8.01,True
+Miniature Pinscher,29.29,True
+Sleeping Bag,14.21,False
+Italian Greyhound,7.08,True
+Doormat,20.11,False
+Turnstile,8.86,False
+Carton,8.29,False
+Golden Retriever,94.57,True
+Standard Poodle,1.44,True
+Tibetan Mastiff,1.2,True
+Border Collie,89.48,True
+Collie,9.74,True
+English Springer,0.3,True
+Wool,52.54,False
+Fur Coat,23.64,False
+Kuvasz,3.82,True
+Pembroke,77.85,True
+Shetland Sheepdog,9.38,True
+Cardigan,6.03,True
+Hippopotamus,58.14,False
+Doormat,15.24,False
+Sea Lion,2.64,False
+Wallaby,41.07,False
+Wombat,23.93,False
+Beaver,14.96,False
+Golden Retriever,51.41,True
+Chesapeake Bay Retriever,17.32,True
+Brittany Spaniel,11.84,True
+Bloodhound,38.12,True
+Sussex Spaniel,21.2,True
+Clumber,12.86,True
+Kelpie,21.92,True
+Badger,13.36,False
+Siamese Cat,7.44,False
+Pomeranian,71.44,True
+Shih-Tzu,4.06,True
+Silky Terrier,3.25,True
+West Highland White Terrier,76.92,True
+Scotch Terrier,6.44,True
+Old English Sheepdog,4.38,True
+Boston Bull,69.73,True
+French Bulldog,23.9,True
+American Staffordshire Terrier,1.98,True
+Golden Retriever,24.24,True
+Chow,22.68,True
+Cocker Spaniel,19.41,True
+Pomeranian,49.1,True
+Weasel,13.09,False
+Yorkshire Terrier,9.92,True
+Toy Poodle,33.17,True
+Miniature Poodle,27.25,True
+Standard Poodle,16.94,True
+French Bulldog,90.29,True
+Staffordshire Bullterrier,2.26,True
+Soap Dispenser,1.2,False
+Chihuahua,99.37,True
+Pembroke,0.15,True
+Toy Terrier,0.09,True
+Yorkshire Terrier,90.8,True
+Silky Terrier,7.69,True
+Australian Terrier,0.85,True
+Border Collie,28.09,True
+Cardigan,11.25,True
+Toy Terrier,5.33,True
+Chihuahua,61.52,True
+Pembroke,15.95,True
+Basenji,8.45,True
+White Wolf,16.66,False
+Schipperke,12.24,True
+West Highland White Terrier,11.92,True
+Kuvasz,80.59,True
+Great Pyrenees,18.73,True
+Samoyed,0.35,True
+Rhodesian Ridgeback,25.25,True
+Redbone,15.3,True
+Whippet,13.52,True
+Tailed Frog,65.27,False
+Tree Frog,28.02,False
+Bullfrog,4.02,False
+Great Pyrenees,48.13,True
+Samoyed,31.18,True
+Maltese Dog,7.5,True
+American Staffordshire Terrier,56.95,True
+Staffordshire Bullterrier,21.13,True
+Chihuahua,12.18,True
+Bath Towel,44.97,False
+Norwegian Elkhound,16.02,True
+Great Dane,4.87,True
+Hamster,67.87,False
+Pomeranian,11.03,True
+Angora,10.41,False
+Beagle,16.26,True
+Pembroke,12.05,True
+Siberian Husky,11.03,True
+Tennis Ball,32.82,False
+Italian Greyhound,17.68,True
+Staffordshire Bullterrier,13.41,True
+Golden Retriever,53.25,True
+Crossword Puzzle,10.38,False
+Binder,10.04,False
+Hummingbird,18.1,False
+Peacock,13.52,False
+Eel,7.54,False
+West Highland White Terrier,72.66,True
+Maltese Dog,17.68,True
+Dandie Dinmont,7.01,True
+Chihuahua,36.95,True
+Schipperke,24.34,True
+Pug,16.16,True
+Golden Retriever,80.9,True
+Irish Setter,4.24,True
+Labrador Retriever,2.35,True
+Border Terrier,35.51,True
+Toy Poodle,16.97,True
+Norwegian Elkhound,9.99,True
+Malinois,70.6,True
+German Shepherd,16.57,True
+Great Dane,5.9,True
+Dandie Dinmont,27.17,True
+Old English Sheepdog,16.49,True
+Otterhound,10.59,True
+Hippopotamus,98.23,False
+Sea Lion,0.63,False
+Dugong,0.58,False
+Pembroke,96.94,True
+Cardigan,2.61,True
+Chihuahua,0.35,True
+Golden Retriever,83.66,True
+Kuvasz,10.59,True
+Labrador Retriever,2.51,True
+Pug,99.79,True
+French Bulldog,0.18,True
+Bull Mastiff,0.03,True
+Samoyed,51.75,True
+Malamute,15.59,True
+Eskimo Dog,9.5,True
+Cairn,33.76,True
+Chihuahua,20.91,True
+Border Terrier,13.69,True
+Labrador Retriever,30.97,True
+Doormat,30.37,False
+Sliding Door,7.73,False
+Mousetrap,45.62,False
+Banded Gecko,25.87,False
+Common Iguana,6.18,False
+Schipperke,66.73,True
+Chesapeake Bay Retriever,11.96,True
+Kelpie,9.76,True
+Shih-Tzu,59.96,True
+Pekinese,21.31,True
+Maltese Dog,15.43,True
+Chihuahua,22.29,True
+Toyshop,17.99,False
+Weimaraner,16.3,True
+Norfolk Terrier,24.63,True
+Irish Terrier,24.33,True
+Golden Retriever,8.59,True
+Italian Greyhound,38.24,True
+Redbone,10.23,True
+Shower Cap,7.68,False
+German Short-Haired Pointer,98.31,True
+Bluetick,0.56,True
+Curly-Coated Retriever,0.33,True
+Samoyed,32.99,True
+Shoji,16.58,False
+Prison,10.36,False
+Brittany Spaniel,93.2,True
+Welsh Springer Spaniel,3.07,True
+Beagle,1.29,True
+Samoyed,15.85,True
+Kuvasz,8.94,True
+West Highland White Terrier,2.5,True
+French Bulldog,99.85,True
+Boston Bull,0.14,True
+Boxer,0.0,True
+Pug,99.02,True
+Pekinese,0.28,True
+Sunglasses,0.13,False
+Boxer,88.3,True
+Saint Bernard,3.06,True
+Staffordshire Bullterrier,1.3,True
+Italian Greyhound,10.79,True
+Basset,7.52,True
+Staffordshire Bullterrier,6.94,True
+Labrador Retriever,64.37,True
+American Staffordshire Terrier,10.27,True
+Dalmatian,5.0,True
+Chesapeake Bay Retriever,35.19,True
+Malinois,20.78,True
+Labrador Retriever,15.46,True
+Staffordshire Bullterrier,28.02,True
+Boston Bull,16.15,True
+American Staffordshire Terrier,12.69,True
+Pembroke,98.48,True
+Cardigan,1.5,True
+Shetland Sheepdog,0.01,True
+Great Dane,12.69,True
+Greater Swiss Mountain Dog,11.0,True
+German Short-Haired Pointer,9.08,True
+Washbasin,17.64,False
+Paper Towel,16.75,False
+Toilet Tissue,9.8,False
+Lhasa,52.19,True
+Shih-Tzu,40.35,True
+Tibetan Terrier,3.99,True
+Shetland Sheepdog,62.17,True
+Collie,36.66,True
+Pembroke,0.77,True
+Siamese Cat,25.67,False
+Whippet,11.98,True
+Bull Mastiff,10.26,True
+Bath Towel,11.06,False
+Christmas Stocking,10.86,False
+Weasel,10.54,False
+Labrador Retriever,99.99,True
+Golden Retriever,0.01,True
+Pug,0.0,True
+Toy Poodle,88.0,True
+Miniature Poodle,10.01,True
+Norfolk Terrier,0.7,True
+Great Dane,99.92,True
+Boxer,0.02,True
+Whippet,0.02,True
+Great Dane,17.4,True
+Malinois,16.59,True
+Doberman,11.99,True
+Grey Fox,23.6,False
+Siamese Cat,16.58,False
+Eskimo Dog,6.35,True
+Chihuahua,29.77,True
+Pembroke,26.7,True
+Basenji,13.68,True
+Appenzeller,66.56,True
+Beagle,10.48,True
+Greater Swiss Mountain Dog,6.79,True
+Kuvasz,38.39,True
+Golden Retriever,28.91,True
+Dingo,5.65,False
+Space Heater,20.69,False
+Spatula,12.35,False
+Vacuum,11.92,False
+Weasel,13.78,False
+Toy Poodle,9.84,True
+Scottish Deerhound,9.74,True
+Car Mirror,37.98,False
+Chesapeake Bay Retriever,32.16,True
+Vizsla,11.69,True
+Briard,36.91,True
+Scotch Terrier,16.82,True
+Giant Schnauzer,12.06,True
+Borzoi,13.28,True
+Walker Hound,8.6,True
+Great Pyrenees,6.56,True
+Pomeranian,38.22,True
+Chow,20.83,True
+Sunglasses,13.13,False
+Samoyed,96.21,True
+Arctic Fox,3.06,False
+White Wolf,0.15,False
+Soft-Coated Wheaten Terrier,80.51,True
+Lakeland Terrier,12.17,True
+Afghan Hound,2.33,True
+Old English Sheepdog,69.39,True
+Otterhound,23.21,True
+West Highland White Terrier,1.29,True
+Basenji,74.89,True
+Cardigan,12.11,True
+Pembroke,11.18,True
+Pug,99.74,True
+Bull Mastiff,0.17,True
+Pekinese,0.03,True
+Maltese Dog,67.85,True
+Lhasa,12.5,True
+Pekinese,4.9,True
+Papillon,22.78,True
+Chihuahua,21.81,True
+Border Collie,9.35,True
+Shih-Tzu,51.01,True
+Tibetan Terrier,7.2,True
+Lhasa,6.92,True
+Seat Belt,52.22,False
+Sunglasses,7.76,False
+Ice Lolly,5.18,False
+Boston Bull,76.15,True
+Pug,7.54,True
+Chihuahua,4.16,True
+Bow Tie,44.93,False
+Fur Coat,13.91,False
+Black-Footed Ferret,8.22,False
+Beaver,45.71,False
+Mongoose,22.83,False
+Marmot,14.83,False
+Hamster,42.99,False
+Pomeranian,14.43,True
+Pretzel,12.72,False
+Australian Terrier,40.79,True
+Yorkshire Terrier,32.82,True
+Silky Terrier,10.84,True
+Boxer,99.01,True
+Bull Mastiff,0.74,True
+Saint Bernard,0.16,True
+Shih-Tzu,35.25,True
+Toy Poodle,15.57,True
+Maltese Dog,11.67,True
+Teddy,44.15,False
+Pekinese,8.09,True
+Shih-Tzu,7.21,True
+Pembroke,77.0,True
+Cardigan,22.92,True
+Chihuahua,0.02,True
+Groenendael,55.08,True
+Norwegian Elkhound,15.48,True
+Schipperke,8.08,True
+Washbasin,27.25,False
+Doormat,16.59,False
+Bathtub,6.64,False
+Scottish Deerhound,11.19,True
+Bluetick,7.43,True
+German Short-Haired Pointer,6.7,True
+Pug,84.2,True
+French Bulldog,6.98,True
+Boston Bull,3.87,True
+Malamute,44.93,True
+Siberian Husky,38.51,True
+Eskimo Dog,16.35,True
+Dining Table,38.34,False
+Grey Fox,10.32,False
+Siamese Cat,9.83,False
+Sea Lion,51.98,False
+Siamese Cat,29.1,False
+Black-Footed Ferret,4.0,False
+Labrador Retriever,34.0,True
+Bull Mastiff,17.53,True
+Box Turtle,16.43,False
+Golden Retriever,98.93,True
+Labrador Retriever,0.79,True
+Kuvasz,0.07,True
+Vizsla,87.64,True
+Chesapeake Bay Retriever,7.84,True
+Rhodesian Ridgeback,3.22,True
+Shih-Tzu,69.75,True
+Lhasa,20.02,True
+Tibetan Terrier,9.1,True
+Cocker Spaniel,74.0,True
+Welsh Springer Spaniel,8.87,True
+Golden Retriever,4.75,True
+Ice Lolly,66.01,False
+Neck Brace,3.96,False
+Yorkshire Terrier,3.35,True
+Saint Bernard,61.26,True
+English Springer,26.97,True
+Boxer,4.87,True
+Mexican Hairless,16.26,True
+Doberman,15.63,True
+Rhodesian Ridgeback,8.15,True
+Soft-Coated Wheaten Terrier,40.35,True
+Cocker Spaniel,13.52,True
+Golden Retriever,8.87,True
+German Short-Haired Pointer,87.7,True
+Bluetick,3.66,True
+Basset,1.78,True
+Samoyed,98.59,True
+Arctic Fox,0.79,False
+White Wolf,0.33,False
+Samoyed,47.13,True
+Siberian Husky,15.88,True
+Eskimo Dog,13.87,True
+Golden Retriever,63.68,True
+Labrador Retriever,16.34,True
+Pekinese,4.56,True
+Pug,41.31,True
+French Bulldog,19.99,True
+Chihuahua,8.2,True
+Siberian Husky,48.64,True
+Eskimo Dog,44.85,True
+White Wolf,4.15,False
+Bison,20.89,False
+Mink,16.99,False
+Polecat,14.45,False
+Siberian Husky,81.06,True
+Malamute,11.97,True
+Eskimo Dog,2.93,True
+Pug,95.66,True
+Swing,1.89,False
+Toy Poodle,1.35,True
+Toy Poodle,67.01,True
+Teddy,19.09,False
+Miniature Poodle,3.22,True
+Tibetan Terrier,24.76,True
+Cocker Spaniel,12.14,True
+Bow Tie,9.94,False
+Minivan,33.28,False
+Sports Car,12.95,False
+Limousine,7.39,False
+Saint Bernard,34.26,True
+Boxer,28.91,True
+Pembroke,7.65,True
+Chihuahua,18.29,True
+Teddy,12.81,False
+West Highland White Terrier,9.79,True
+Bloodhound,88.62,True
+Black-And-Tan Coonhound,7.74,True
+Gordon Setter,0.98,True
+Shetland Sheepdog,55.12,True
+Collie,23.25,True
+Border Collie,9.52,True
+Bernese Mountain Dog,76.76,True
+Border Collie,8.58,True
+Entlebucher,4.38,True
+Lakeland Terrier,53.01,True
+Irish Terrier,19.73,True
+Airedale,8.25,True
+Rottweiler,50.9,True
+German Shepherd,20.79,True
+Kelpie,9.44,True
+Borzoi,44.13,True
+Llama,27.83,False
+Arabian Camel,6.35,False
+Barrow,24.16,False
+Tub,23.84,False
+Bathtub,16.73,False
+Golden Retriever,86.3,True
+Labrador Retriever,4.49,True
+Saluki,1.25,True
+Geyser,37.03,False
+Seashore,27.49,False
+Beacon,4.64,False
+Snorkel,52.65,False
+Muzzle,4.81,False
+Scuba Diver,3.42,False
+Golden Retriever,88.32,True
+Labrador Retriever,10.96,True
+Kuvasz,0.28,True
+Kuvasz,42.28,True
+Golden Retriever,29.16,True
+Great Pyrenees,7.62,True
+Bath Towel,19.45,False
+Radiator,12.78,False
+Maltese Dog,8.96,True
+Bighorn,21.54,False
+Hyena,13.79,False
+Mexican Hairless,9.82,True
+Lhasa,9.75,True
+Koala,9.19,False
+Sunglasses,9.15,False
+Pembroke,42.65,True
+Papillon,31.74,True
+Shetland Sheepdog,7.76,True
+Kuvasz,28.63,True
+Labrador Retriever,10.71,True
+Ice Bear,8.51,False
+Pug,68.69,True
+French Bulldog,7.64,True
+Brabancon Griffon,3.5,True
+Motor Scooter,38.27,False
+Moped,31.8,False
+Pickup,4.06,False
+Badger,28.95,False
+Weasel,9.91,False
+Malamute,4.07,True
+Malamute,94.96,True
+Siberian Husky,3.31,True
+Eskimo Dog,1.67,True
+Samoyed,27.03,True
+Great Pyrenees,11.4,True
+Teddy,7.25,False
+Standard Poodle,44.45,True
+English Springer,12.98,True
+Pug,7.38,True
+Cowboy Hat,29.11,False
+Labrador Retriever,17.96,True
+Sombrero,12.15,False
+Pomeranian,94.33,True
+Shetland Sheepdog,2.37,True
+Chow,0.72,True
+Old English Sheepdog,26.92,True
+Tibetan Terrier,11.15,True
+Lakeland Terrier,10.49,True
+Collie,60.02,True
+Shetland Sheepdog,29.89,True
+Borzoi,2.26,True
+Italian Greyhound,32.28,True
+Whippet,24.7,True
+Chihuahua,12.25,True
+Bustard,22.52,False
+Koala,5.76,False
+Goose,5.36,False
+Toy Poodle,27.96,True
+Mashed Potato,20.86,False
+Labrador Retriever,7.75,True
+Dogsled,42.65,False
+Cocker Spaniel,7.31,True
+Chihuahua,7.03,True
+Eskimo Dog,16.95,True
+Siberian Husky,16.17,True
+Dingo,15.44,False
+Pembroke,79.93,True
+Cardigan,18.95,True
+Papillon,0.34,True
+Snowmobile,25.46,False
+Assault Rifle,12.96,False
+Rifle,11.09,False
+Scotch Terrier,26.8,True
+Affenpinscher,19.96,True
+Cairn,12.75,True
+Chihuahua,63.75,True
+American Staffordshire Terrier,15.07,True
+Staffordshire Bullterrier,10.4,True
+American Staffordshire Terrier,21.52,True
+Chesapeake Bay Retriever,7.91,True
+Doberman,7.02,True
+Cocker Spaniel,81.6,True
+Golden Retriever,5.41,True
+Airedale,3.06,True
+English Springer,30.38,True
+Papillon,16.51,True
+Welsh Springer Spaniel,14.91,True
+Pembroke,43.05,True
+Red Fox,20.66,False
+Pomeranian,15.44,True
+Crane,15.89,False
+Pier,13.0,False
+Bell Cote,8.77,False
+Ibizan Hound,85.32,True
+Chihuahua,3.99,True
+Italian Greyhound,3.52,True
+Hog,67.0,False
+Guinea Pig,7.73,False
+Hamster,6.24,False
+Cardigan,61.42,True
+Skunk,13.94,False
+Toilet Tissue,3.12,False
+Malinois,19.95,True
+German Shepherd,9.68,True
+Saluki,8.28,True
+American Staffordshire Terrier,59.97,True
+Staffordshire Bullterrier,38.1,True
+Bull Mastiff,0.39,True
+Papillon,53.13,True
+Blenheim Spaniel,21.42,True
+Border Collie,5.38,True
+Pembroke,69.64,True
+Cardigan,12.11,True
+Shetland Sheepdog,5.06,True
+Golden Retriever,90.04,True
+Cocker Spaniel,2.23,True
+Sombrero,1.5,False
+Bannister,36.94,False
+Four-Poster,10.53,False
+Shoji,9.88,False
+Sorrel,81.15,False
+Horse Cart,2.48,False
+Arabian Camel,1.52,False
+Pug,97.38,True
+Chihuahua,1.09,True
+Staffordshire Bullterrier,0.69,True
+Eskimo Dog,24.06,True
+Norwegian Elkhound,18.04,True
+Siberian Husky,9.07,True
+Pomeranian,99.72,True
+Pekinese,0.08,True
+Keeshond,0.04,True
+Lakeland Terrier,87.3,True
+Soft-Coated Wheaten Terrier,6.09,True
+Toy Poodle,1.7,True
+Staffordshire Bullterrier,15.11,True
+Boxer,13.57,True
+American Staffordshire Terrier,8.66,True
+Miniature Pinscher,95.61,True
+Toy Terrier,1.22,True
+Chihuahua,0.54,True
+Pug,95.74,True
+French Bulldog,3.86,True
+Toy Poodle,0.07,True
+Rottweiler,39.15,True
+Miniature Pinscher,27.36,True
+Tibetan Mastiff,4.17,True
+English Springer,47.23,True
+English Setter,16.69,True
+Brittany Spaniel,16.34,True
+Wood Rabbit,70.27,False
+Angora,19.07,False
+Hare,10.51,False
+Boston Bull,22.34,True
+Boxer,18.36,True
+French Bulldog,17.69,True
+Shih-Tzu,74.72,True
+Maltese Dog,9.1,True
+Lhasa,3.58,True
+Seat Belt,70.36,False
+Great Dane,13.99,True
+Weimaraner,2.11,True
+Pug,17.82,True
+Chihuahua,14.92,True
+Shih-Tzu,12.05,True
+Car Mirror,99.71,False
+Seat Belt,0.04,False
+Beagle,0.02,True
+Borzoi,88.31,True
+Whippet,2.29,True
+Saluki,2.16,True
+Fiddler Crab,99.21,False
+Quail,0.25,False
+Rock Crab,0.15,False
+Labrador Retriever,41.71,True
+Chesapeake Bay Retriever,34.17,True
+German Short-Haired Pointer,17.77,True
+Refrigerator,79.98,False
+Medicine Chest,18.25,False
+Ice Bear,0.14,False
+Cheeseburger,64.38,False
+Hotdog,20.14,False
+Bagel,6.39,False
+Tibetan Mastiff,33.88,True
+Newfoundland,18.09,True
+Golden Retriever,18.0,True
+Norwich Terrier,10.05,True
+Cocker Spaniel,8.07,True
+Golden Retriever,7.94,True
+Rottweiler,44.13,True
+Miniature Pinscher,23.32,True
+Gordon Setter,9.36,True
+Labrador Retriever,32.0,True
+Ibizan Hound,20.82,True
+Saluki,7.9,True
+Yorkshire Terrier,47.77,True
+Silky Terrier,17.17,True
+Australian Terrier,8.83,True
+German Shepherd,83.08,True
+Leonberg,7.63,True
+Bloodhound,3.74,True
+Pug,98.52,True
+Bull Mastiff,0.88,True
+Boxer,0.23,True
+Pomeranian,98.58,True
+Keeshond,0.41,True
+Pekinese,0.33,True
+Great Dane,23.69,True
+Irish Wolfhound,11.76,True
+Greater Swiss Mountain Dog,10.39,True
+Rhodesian Ridgeback,88.53,True
+Redbone,4.23,True
+Seat Belt,1.05,False
+Damselfly,19.08,False
+Common Newt,9.81,False
+Whiptail,8.9,False
+Siberian Husky,45.07,True
+Eskimo Dog,43.03,True
+Malamute,11.86,True
+Papillon,20.08,True
+Toy Terrier,11.45,True
+Cardigan,9.45,True
+Yorkshire Terrier,41.5,True
+Briard,6.35,True
+Pekinese,5.37,True
+Sliding Door,34.45,False
+Doormat,19.0,False
+Washbasin,4.63,False
+Chesapeake Bay Retriever,17.12,True
+Tennis Ball,9.06,False
+Racket,4.85,False
+Lakeland Terrier,25.38,True
+Airedale,21.33,True
+Three-Toed Sloth,8.38,False
+Web Site,92.4,False
+Oscilloscope,0.97,False
+Hand-Held Computer,0.88,False
+White Wolf,31.85,False
+Dingo,21.54,False
+Collie,9.58,True
+Golden Retriever,58.69,True
+Labrador Retriever,39.83,True
+Kuvasz,0.54,True
+Boston Bull,97.25,True
+French Bulldog,2.55,True
+Boxer,0.05,True
+Chow,47.02,True
+Pomeranian,15.97,True
+Eskimo Dog,10.51,True
+Pomeranian,96.32,True
+Shetland Sheepdog,1.95,True
+Keeshond,0.86,True
+Pug,99.9,True
+Norwegian Elkhound,0.05,True
+Bull Mastiff,0.02,True
+Dishwasher,88.88,False
+Stove,1.34,False
+Old English Sheepdog,0.97,True
+Bernese Mountain Dog,97.51,True
+Appenzeller,1.46,True
+Entlebucher,0.59,True
+Llama,37.96,False
+Triceratops,16.28,False
+Hog,8.43,False
+Border Collie,66.56,True
+Collie,17.68,True
+Old English Sheepdog,6.52,True
+Labrador Retriever,76.94,True
+Golden Retriever,14.49,True
+Lion,2.14,False
+Shopping Cart,46.1,False
+Chow,26.13,True
+Labrador Retriever,7.42,True
+Pembroke,70.8,True
+Cardigan,29.14,True
+Dingo,0.02,False
+Clog,8.11,False
+Spindle,6.7,False
+Agama,6.09,False
+Miniature Schnauzer,29.45,True
+Norfolk Terrier,16.19,True
+West Highland White Terrier,12.1,True
+Weimaraner,94.87,True
+English Setter,3.54,True
+Brittany Spaniel,0.39,True
+Minibus,40.19,False
+Llama,22.91,False
+Seat Belt,20.94,False
+Chihuahua,70.26,True
+Siamese Cat,6.82,False
+Macaque,4.33,False
+Chihuahua,93.78,True
+Pomeranian,2.03,True
+Polecat,1.74,False
+Labrador Retriever,67.37,True
+Chesapeake Bay Retriever,19.49,True
+American Staffordshire Terrier,5.95,True
+Pembroke,50.85,True
+Black-Footed Ferret,11.55,False
+Weasel,5.13,False
+Golden Retriever,20.32,True
+Samoyed,6.8,True
+Great Pyrenees,6.53,True
+Soft-Coated Wheaten Terrier,79.12,True
+Cocker Spaniel,7.24,True
+Teddy,7.15,False
+Llama,68.13,False
+Ram,12.01,False
+Hog,4.37,False
+Chihuahua,37.94,True
+Toy Terrier,12.18,True
+Boston Bull,9.6,True
+Kelpie,53.78,True
+American Staffordshire Terrier,8.3,True
+Staffordshire Bullterrier,6.98,True
+Chow,33.48,True
+German Shepherd,16.26,True
+Golden Retriever,13.86,True
+Cheetah,82.22,False
+Arabian Camel,4.7,False
+Jaguar,2.58,False
+Labrador Retriever,62.79,True
+German Short-Haired Pointer,17.37,True
+Chesapeake Bay Retriever,4.13,True
+Bluetick,17.47,True
+Shetland Sheepdog,12.61,True
+Beagle,12.29,True
+Toy Poodle,55.14,True
+Teddy,18.07,False
+Miniature Poodle,16.41,True
+Hog,45.89,False
+Mexican Hairless,16.49,True
+Wild Boar,11.17,False
+Maltese Dog,73.84,True
+Toy Poodle,10.3,True
+Samoyed,2.32,True
+Malamute,57.74,True
+Siberian Husky,28.71,True
+Eskimo Dog,11.76,True
+Miniature Pinscher,7.29,True
+Labrador Retriever,5.79,True
+Schipperke,5.33,True
+Pembroke,89.53,True
+Cardigan,2.24,True
+Cocker Spaniel,1.7,True
+Airedale,94.54,True
+Irish Terrier,2.69,True
+Lakeland Terrier,1.68,True
+Keeshond,50.9,True
+Chow,44.2,True
+German Shepherd,1.32,True
+Italian Greyhound,39.96,True
+Whippet,26.72,True
+German Short-Haired Pointer,8.13,True
+Lakeland Terrier,30.35,True
+Soft-Coated Wheaten Terrier,21.14,True
+Golden Retriever,17.07,True
+French Bulldog,99.28,True
+Boston Bull,0.47,True
+Pug,0.14,True
+Pembroke,40.65,True
+Cardigan,15.49,True
+Siberian Husky,13.64,True
+Leonberg,60.59,True
+Chow,18.35,True
+German Shepherd,7.97,True
+Cocker Spaniel,90.14,True
+Soft-Coated Wheaten Terrier,2.86,True
+Miniature Schnauzer,1.78,True
+Golden Retriever,88.98,True
+Kuvasz,5.3,True
+Labrador Retriever,3.79,True
+Koala,14.14,False
+Eskimo Dog,9.4,True
+Wallaby,8.52,False
+Boxer,72.22,True
+Bull Mastiff,19.38,True
+French Bulldog,5.52,True
+Dingo,27.86,False
+Chihuahua,15.52,True
+Loupe,15.36,False
+Toyshop,37.56,False
+Orange,9.45,False
+Teddy,3.98,False
+English Setter,94.72,True
+English Springer,3.11,True
+Brittany Spaniel,0.55,True
+Bald Eagle,9.72,False
+Torch,9.66,False
+Cliff,9.04,False
+Beagle,41.38,True
+Cardigan,26.36,True
+Basset,16.76,True
+English Springer,44.08,True
+Cardigan,41.12,True
+Border Collie,2.24,True
+Whippet,59.47,True
+Italian Greyhound,31.41,True
+Mexican Hairless,3.78,True
+Wombat,70.93,False
+Koala,16.98,False
+Beaver,7.94,False
+Vizsla,65.73,True
+Paddle,9.03,False
+Rhodesian Ridgeback,4.82,True
+Curly-Coated Retriever,48.23,True
+Flat-Coated Retriever,31.53,True
+Great Dane,6.22,True
+Seat Belt,99.77,False
+Lakeland Terrier,0.17,True
+Airedale,0.02,True
+Siberian Husky,43.97,True
+Eskimo Dog,34.05,True
+Malamute,10.13,True
+Snorkel,50.5,False
+Loggerhead,34.53,False
+Scuba Diver,7.48,False
+Jigsaw Puzzle,99.59,False
+Siamese Cat,0.08,False
+Pizza,0.04,False
+Teddy,36.41,False
+Doormat,11.92,False
+Toyshop,3.51,False
+Schipperke,99.8,True
+Groenendael,0.07,True
+Miniature Pinscher,0.02,True
+Triceratops,24.99,False
+Chimpanzee,6.09,False
+Mask,5.02,False
+Labrador Retriever,45.26,True
+Golden Retriever,40.34,True
+Beagle,6.95,True
+Chihuahua,20.36,True
+Doormat,13.43,False
+Toy Terrier,8.45,True
+Toy Poodle,92.1,True
+Miniature Poodle,6.09,True
+Maltese Dog,0.61,True
+Birdhouse,47.24,False
+Teddy,14.21,False
+Pot,3.29,False
+Pomeranian,80.05,True
+Chow,14.69,True
+Pekinese,3.76,True
+Toy Poodle,82.17,True
+Miniature Poodle,11.6,True
+Yorkshire Terrier,1.48,True
+Rottweiler,76.07,True
+Labrador Retriever,9.66,True
+Staffordshire Bullterrier,4.03,True
+Norfolk Terrier,20.51,True
+German Shepherd,16.04,True
+Chow,15.62,True
+Seat Belt,53.24,False
+Labrador Retriever,9.46,True
+Kuvasz,8.99,True
+Samoyed,36.26,True
+Eskimo Dog,24.54,True
+Siberian Husky,10.82,True
+Frilled Lizard,32.63,False
+Tailed Frog,10.45,False
+Axolotl,7.25,False
+Lhasa,48.24,True
+Shih-Tzu,11.37,True
+Pomeranian,9.62,True
+Saint Bernard,99.88,True
+Pekinese,0.04,True
+Great Pyrenees,0.02,True
+Tibetan Terrier,38.21,True
+Miniature Poodle,9.54,True
+Maltese Dog,6.57,True
+Motor Scooter,25.59,False
+Rifle,14.52,False
+Assault Rifle,9.7,False
+Irish Setter,40.6,True
+Cocker Spaniel,34.56,True
+Airedale,14.79,True
+Pomeranian,99.26,True
+Keeshond,0.44,True
+Schipperke,0.08,True
+Pug,71.31,True
+Whippet,5.74,True
+Quilt,5.6,False
+Carousel,50.1,False
+Feather Boa,6.44,False
+Pug,4.44,True
+Soft-Coated Wheaten Terrier,28.96,True
+West Highland White Terrier,15.72,True
+Toy Poodle,7.44,True
+Labrador Retriever,78.44,True
+Siberian Husky,5.59,True
+Beagle,2.28,True
+Pomeranian,61.57,True
+Golden Retriever,12.65,True
+Chihuahua,8.72,True
+Shetland Sheepdog,87.63,True
+Collie,7.83,True
+Pomeranian,2.04,True
+Pembroke,42.78,True
+Shetland Sheepdog,16.07,True
+Pomeranian,11.12,True
+Pug,99.67,True
+Labrador Retriever,0.14,True
+Staffordshire Bullterrier,0.05,True
+Ram,49.98,False
+Hog,28.38,False
+Ox,6.75,False
+French Bulldog,70.08,True
+Chihuahua,7.24,True
+American Staffordshire Terrier,3.96,True
+Tub,88.98,False
+Bathtub,3.24,False
+Hippopotamus,1.42,False
+Chihuahua,53.84,True
+Muzzle,8.43,False
+Ski Mask,7.67,False
+Kuvasz,43.86,True
+Samoyed,11.16,True
+Great Pyrenees,6.41,True
+Lakeland Terrier,79.67,True
+West Highland White Terrier,13.87,True
+Norwich Terrier,1.63,True
+Space Heater,92.04,False
+Radiator,4.99,False
+Electric Fan,0.67,False
+Bubble,24.02,False
+Hen,14.62,False
+Abaya,13.93,False
+Christmas Stocking,14.98,False
+Cloak,12.88,False
+Teddy,10.91,False
+Brittany Spaniel,73.33,True
+Welsh Springer Spaniel,25.16,True
+English Springer,0.92,True
+Christmas Stocking,20.75,False
+Mask,19.39,False
+Feather Boa,15.27,False
+Bluetick,26.87,True
+Miniature Pinscher,12.57,True
+English Setter,8.94,True
+Miniature Poodle,45.71,True
+Toy Poodle,22.65,True
+Maltese Dog,6.77,True
+Maltese Dog,19.91,True
+West Highland White Terrier,19.79,True
+Shih-Tzu,15.71,True
+Pug,99.94,True
+French Bulldog,0.05,True
+Boston Bull,0.0,True
+Golden Retriever,69.9,True
+Chow,14.6,True
+Pomeranian,3.49,True
+Pillow,77.81,False
+Apron,9.5,False
+Wallet,4.93,False
+Earthstar,12.77,False
+Shih-Tzu,12.18,True
+Bubble,11.78,False
+Hog,80.95,False
+Hay,6.02,False
+Lumbermill,1.65,False
+Entlebucher,52.32,True
+Greater Swiss Mountain Dog,43.17,True
+Appenzeller,4.42,True
+Llama,88.8,False
+Ram,9.5,False
+Chow,0.23,True
+Airedale,90.38,True
+Border Terrier,3.47,True
+Toy Poodle,2.14,True
+Chihuahua,34.65,True
+Dalmatian,16.62,True
+Toy Terrier,11.75,True
+Bloodhound,52.88,True
+Bull Mastiff,42.01,True
+French Bulldog,0.95,True
+French Bulldog,31.91,True
+Chihuahua,15.41,True
+Cardigan,11.77,True
+Wallaby,16.42,False
+West Highland White Terrier,9.35,True
+Ashcan,6.73,False
+Boxer,45.96,True
+Boston Bull,19.79,True
+French Bulldog,8.7,True
+Dalmatian,75.03,True
+Jaguar,16.9,False
+Zebra,0.65,False
+Mailbox,33.64,False
+Cannon,15.89,False
+Cuirass,5.26,False
+Chihuahua,76.2,True
+Black-Footed Ferret,15.06,False
+Squirrel Monkey,2.81,False
+Porcupine,99.98,False
+Meerkat,0.01,False
+Echidna,0.0,False
+Maltese Dog,14.57,True
+Toy Poodle,13.94,True
+West Highland White Terrier,10.88,True
+Toy Poodle,62.18,True
+Miniature Poodle,19.78,True
+Soft-Coated Wheaten Terrier,4.67,True
+Pug,27.22,True
+Bull Mastiff,25.15,True
+Bath Towel,11.68,False
+Italian Greyhound,30.27,True
+Hair Slide,12.43,False
+Afghan Hound,5.98,True
+Scottish Deerhound,19.46,True
+Irish Wolfhound,16.29,True
+Giant Schnauzer,15.98,True
+Kelpie,18.94,True
+Beagle,12.2,True
+Basset,12.12,True
+Cash Machine,80.23,False
+Schipperke,4.55,True
+German Shepherd,2.34,True
+Panpipe,96.26,False
+Bannister,2.52,False
+Golden Retriever,0.29,True
+Eskimo Dog,33.02,True
+Siberian Husky,18.7,True
+Chihuahua,10.14,True
+Labrador Retriever,68.03,True
+Chesapeake Bay Retriever,20.17,True
+Golden Retriever,1.97,True
+Labrador Retriever,21.37,True
+Beagle,14.62,True
+Airedale,12.27,True
+Airedale,58.31,True
+Silky Terrier,12.96,True
+Lakeland Terrier,9.47,True
+Pembroke,19.47,True
+Toy Poodle,12.18,True
+Pomeranian,9.68,True
+Harp,82.11,False
+Window Screen,2.51,False
+Mosquito Net,1.67,False
+Irish Terrier,69.66,True
+Australian Terrier,7.5,True
+Irish Setter,6.39,True
+Malamute,60.67,True
+Border Collie,19.38,True
+Collie,4.84,True
+Seat Belt,78.72,False
+Sunglasses,4.57,False
+Beagle,2.25,True
+Maze,33.98,False
+Streetcar,9.97,False
+Sundial,8.48,False
+Labrador Retriever,33.88,True
+Flat-Coated Retriever,30.45,True
+Chest,9.34,False
+Staffordshire Bullterrier,28.45,True
+Rottweiler,18.94,True
+American Staffordshire Terrier,18.94,True
+Maltese Dog,75.99,True
+Toy Poodle,10.12,True
+Shih-Tzu,5.6,True
+Schipperke,14.59,True
+Labrador Retriever,9.84,True
+Kelpie,9.74,True
+Swing,92.92,False
+Bedlington Terrier,1.5,True
+Great Pyrenees,1.4,True
+Pembroke,95.62,True
+Cardigan,3.18,True
+Chihuahua,0.63,True
+Miniature Pinscher,51.63,True
+Kelpie,22.74,True
+Vizsla,10.32,True
+Dogsled,8.85,False
+Snowmobile,5.73,False
+Samoyed,4.76,True
+Golden Retriever,85.33,True
+Cocker Spaniel,2.62,True
+Labrador Retriever,2.41,True
+Norfolk Terrier,37.86,True
+Golden Retriever,9.56,True
+Kelpie,8.53,True
+Maltese Dog,89.78,True
+Lhasa,3.57,True
+Tibetan Terrier,1.71,True
+Chihuahua,61.38,True
+Yorkshire Terrier,12.79,True
+Pomeranian,6.21,True
+Miniature Pinscher,82.2,True
+Doberman,9.61,True
+Rottweiler,3.27,True
+Eskimo Dog,19.93,True
+Dalmatian,15.32,True
+American Staffordshire Terrier,10.78,True
+Dalmatian,55.07,True
+Kuvasz,6.02,True
+Great Pyrenees,5.86,True
+Teddy,66.29,False
+Crib,3.19,False
+Chow,2.54,True
+Siberian Husky,12.08,True
+Junco,7.92,False
+Malamute,6.31,True
+Shih-Tzu,91.66,True
+Lhasa,5.79,True
+Pekinese,2.01,True
+Pembroke,57.3,True
+Sunglasses,12.68,False
+Golden Retriever,10.8,True
+Maltese Dog,81.79,True
+Angora,7.78,False
+Pomeranian,2.22,True
+Cowboy Hat,25.61,False
+Trench Coat,12.71,False
+Cloak,7.14,False
+Chihuahua,62.62,True
+Italian Greyhound,12.85,True
+Swing,5.98,False
+Patio,53.51,False
+Folding Chair,8.04,False
+Parallel Bars,3.48,False
+Basset,39.73,True
+Welsh Springer Spaniel,19.96,True
+Purse,10.56,False
+Seat Belt,27.73,False
+Shih-Tzu,24.9,True
+Pekinese,20.92,True
+American Staffordshire Terrier,91.5,True
+Staffordshire Bullterrier,8.44,True
+Boxer,0.05,True
+Staffordshire Bullterrier,68.93,True
+Norwegian Elkhound,2.61,True
+American Staffordshire Terrier,2.31,True
+Lakeland Terrier,85.94,True
+Airedale,6.73,True
+Irish Water Spaniel,4.95,True
+Beagle,31.35,True
+Boxer,21.85,True
+French Bulldog,10.65,True
+Water Buffalo,42.43,False
+Kelpie,2.91,True
+Staffordshire Bullterrier,2.85,True
+Blenheim Spaniel,92.41,True
+Japanese Spaniel,5.48,True
+Chihuahua,0.82,True
+Japanese Spaniel,66.12,True
+Pekinese,15.01,True
+Chihuahua,11.97,True
+Shetland Sheepdog,65.66,True
+Collie,19.54,True
+German Shepherd,1.31,True
+Common Iguana,56.63,False
+Tennis Ball,15.46,False
+Green Lizard,4.5,False
+English Setter,28.24,True
+Shih-Tzu,8.41,True
+Old English Sheepdog,5.95,True
+Malamute,36.33,True
+Siberian Husky,24.59,True
+Eskimo Dog,12.55,True
+Labrador Retriever,77.24,True
+Beagle,5.59,True
+Golden Retriever,3.12,True
+Welsh Springer Spaniel,20.65,True
+Saint Bernard,13.93,True
+Boxer,11.46,True
+Guenon,61.16,False
+Macaque,13.52,False
+Squirrel Monkey,8.32,False
+Pekinese,75.27,True
+Golden Retriever,5.57,True
+Great Pyrenees,4.1,True
+Black-Footed Ferret,70.72,False
+Polecat,15.46,False
+Weasel,9.76,False
+Chesapeake Bay Retriever,54.53,True
+Norwegian Elkhound,8.15,True
+Space Heater,4.74,False
+Hamster,62.83,False
+Guinea Pig,31.86,False
+Macaque,1.31,False
+Chesapeake Bay Retriever,37.11,True
+Water Buffalo,9.96,False
+Weimaraner,4.9,True
+Great Pyrenees,86.98,True
+Kuvasz,7.98,True
+Standard Poodle,1.33,True
+Rain Barrel,62.56,False
+Barrel,13.84,False
+Labrador Retriever,3.95,True
+Chihuahua,44.09,True
+Pomeranian,34.58,True
+Cocker Spaniel,6.03,True
+Doormat,20.13,False
+Dishwasher,19.17,False
+Microwave,3.81,False
+Chihuahua,84.11,True
+Pomeranian,12.05,True
+Pekinese,0.66,True
+Book Jacket,49.38,False
+Doberman,9.64,True
+Miniature Pinscher,7.06,True
+Loafer,20.3,False
+Doormat,20.04,False
+Malinois,14.23,True
+Whippet,87.7,True
+Great Dane,3.42,True
+Boxer,2.84,True
+Boston Bull,97.66,True
+French Bulldog,1.43,True
+Chihuahua,0.23,True
+Seat Belt,79.0,False
+Boston Bull,19.63,True
+French Bulldog,1.24,True
+Feather Boa,42.41,False
+Yorkshire Terrier,7.31,True
+Shetland Sheepdog,5.76,True
+Chow,26.53,True
+Ice Bear,16.76,False
+Fur Coat,11.75,False
+Pug,98.54,True
+Norwegian Elkhound,0.44,True
+French Bulldog,0.39,True
+Golden Retriever,79.04,True
+Borzoi,2.29,True
+Dingo,1.53,False
+Maltese Dog,57.95,True
+Toy Poodle,13.34,True
+Shih-Tzu,9.44,True
+Golden Retriever,58.39,True
+Cocker Spaniel,20.37,True
+Labrador Retriever,3.61,True
+Teddy,9.83,False
+Toy Poodle,9.8,True
+Shopping Basket,7.79,False
+French Bulldog,96.2,True
+Chihuahua,2.18,True
+Boston Bull,0.69,True
+Bubble,99.76,False
+Leafhopper,0.02,False
+Whippet,0.01,True
+Hamster,99.95,False
+Guinea Pig,0.02,False
+Broccoli,0.01,False
+Chihuahua,37.67,True
+Italian Greyhound,17.31,True
+Muzzle,7.15,False
+Irish Water Spaniel,38.83,True
+Standard Poodle,28.41,True
+Greenhouse,3.49,False
+Shih-Tzu,22.58,True
+Norfolk Terrier,18.69,True
+Irish Terrier,10.7,True
+Walking Stick,16.22,False
+Sandal,12.91,False
+Purse,8.14,False
+Bull Mastiff,74.38,True
+Boxer,10.67,True
+American Staffordshire Terrier,4.23,True
+Labrador Retriever,40.74,True
+Malinois,7.7,True
+Pug,7.46,True
+Italian Greyhound,30.56,True
+Whippet,23.21,True
+Great Dane,11.78,True
+West Highland White Terrier,67.21,True
+Old English Sheepdog,14.61,True
+Komondor,2.31,True
+Wood Rabbit,78.58,False
+Hare,11.82,False
+Cardigan,4.36,True
+Golden Retriever,26.39,True
+Welsh Springer Spaniel,18.42,True
+Beagle,18.22,True
+Labrador Retriever,86.84,True
+Golden Retriever,4.33,True
+Vizsla,2.82,True
+Pug,88.4,True
+Boston Bull,1.11,True
+French Bulldog,0.98,True
+Pomeranian,46.07,True
+Chow,20.28,True
+Pekinese,13.33,True
+Basset,55.64,True
+Beagle,20.17,True
+Bloodhound,11.08,True
+Beagle,68.12,True
+Basset,12.51,True
+Boxer,8.04,True
+Maltese Dog,92.2,True
+West Highland White Terrier,1.78,True
+Toy Poodle,1.36,True
+Golden Retriever,80.05,True
+Kuvasz,9.78,True
+Saluki,6.84,True
+Standard Schnauzer,44.14,True
+Miniature Schnauzer,24.89,True
+Sealyham Terrier,16.5,True
+Bath Towel,72.19,False
+Staffordshire Bullterrier,5.93,True
+Bagel,3.57,False
+English Springer,99.03,True
+Welsh Springer Spaniel,0.21,True
+Cocker Spaniel,0.2,True
+Chow,74.94,True
+Schipperke,13.37,True
+Newfoundland,4.99,True
+Pembroke,91.84,True
+Cardigan,2.73,True
+Siberian Husky,2.02,True
+Cocker Spaniel,29.97,True
+Golden Retriever,26.37,True
+Irish Setter,8.03,True
+Scottish Deerhound,24.06,True
+Groenendael,15.69,True
+Flat-Coated Retriever,9.09,True
+Dough,80.68,False
+Bakery,2.79,False
+French Loaf,1.82,False
+Vizsla,51.96,True
+Miniature Pinscher,6.48,True
+Rhodesian Ridgeback,6.15,True
+Box Turtle,54.37,False
+Terrapin,20.26,False
+Loggerhead,7.11,False
+Labrador Retriever,98.65,True
+Golden Retriever,0.89,True
+Chihuahua,0.07,True
+Chihuahua,41.64,True
+West Highland White Terrier,10.29,True
+Samoyed,8.73,True
+Labrador Retriever,47.9,True
+Ice Bear,21.83,False
+Kuvasz,13.99,True
+Upright,30.34,False
+Golden Retriever,18.14,True
+Brittany Spaniel,16.21,True
+Borzoi,86.64,True
+Saluki,12.21,True
+Irish Wolfhound,0.4,True
+Pembroke,77.31,True
+Cardigan,11.68,True
+Chow,3.9,True
+Llama,28.44,False
+Standard Poodle,13.26,True
+Teddy,12.8,False
+Paper Towel,32.8,False
+Mailbox,9.6,False
+Seat Belt,3.5,False
+Chow,99.99,True
+Tibetan Mastiff,0.01,True
+Tibetan Terrier,0.0,True
+Golden Retriever,94.92,True
+Labrador Retriever,1.68,True
+Flat-Coated Retriever,1.06,True
+Dingo,28.84,False
+Cardigan,22.99,True
+Pembroke,19.04,True
+Labrador Retriever,45.87,True
+Great Dane,23.55,True
+Staffordshire Bullterrier,11.69,True
+Stove,58.75,False
+Rotisserie,5.17,False
+Microwave,2.07,False
+Bow,16.8,False
+Quill,10.88,False
+Joystick,4.33,False
+Labrador Retriever,63.15,True
+Brittany Spaniel,10.19,True
+Chesapeake Bay Retriever,6.26,True
+Dalmatian,98.95,True
+English Setter,0.53,True
+German Short-Haired Pointer,0.14,True
+Samoyed,97.8,True
+Chow,0.71,True
+Pomeranian,0.64,True
+Street Sign,29.01,False
+Golden Retriever,25.84,True
+Sandbar,13.22,False
+Boxer,65.47,True
+Space Heater,4.34,False
+Beagle,4.28,True
+Pembroke,65.53,True
+Pomeranian,10.42,True
+Cardigan,5.28,True
+Rottweiler,59.18,True
+Doberman,20.45,True
+Black-And-Tan Coonhound,7.86,True
+English Springer,59.45,True
+Cocker Spaniel,39.0,True
+Welsh Springer Spaniel,0.71,True
+Pembroke,87.65,True
+Cardigan,9.69,True
+Dingo,0.92,False
+Giant Schnauzer,11.97,True
+Afghan Hound,7.28,True
+Miniature Schnauzer,6.38,True
+Labrador Retriever,80.19,True
+Chesapeake Bay Retriever,19.36,True
+Rottweiler,0.12,True
+Miniature Poodle,34.96,True
+Toy Poodle,15.47,True
+Maltese Dog,13.42,True
+Ocarina,14.9,False
+Hamster,6.9,False
+Wool,3.17,False
+Chihuahua,40.7,True
+French Bulldog,31.0,True
+Siamese Cat,22.77,False
+Shower Curtain,23.89,False
+Sarong,9.24,False
+Kimono,5.64,False
+Samoyed,63.47,True
+Arctic Fox,30.99,False
+Kuvasz,1.96,True
+Seashore,35.23,False
+Promontory,13.18,False
+Wreck,9.56,False
+Vizsla,66.55,True
+Redbone,17.34,True
+Basset,13.48,True
+Bernese Mountain Dog,58.31,True
+Shetland Sheepdog,6.6,True
+Greater Swiss Mountain Dog,6.52,True
+Dandie Dinmont,17.59,True
+Black-Footed Ferret,9.65,False
+Toy Poodle,6.41,True
+Pomeranian,94.85,True
+Schipperke,1.43,True
+Chihuahua,0.81,True
+Tick,24.25,False
+Nail,21.26,False
+Screw,17.28,False
+Malamute,18.01,True
+Eskimo Dog,17.8,True
+Siberian Husky,7.8,True
+African Crocodile,33.06,False
+American Alligator,7.54,False
+Mink,5.75,False
+Flat-Coated Retriever,83.74,True
+Groenendael,8.62,True
+Labrador Retriever,1.61,True
+Soccer Ball,39.81,False
+Basset,33.57,True
+Cocker Spaniel,7.29,True
+Pomeranian,84.7,True
+Chow,14.2,True
+Keeshond,0.26,True
+Jellyfish,43.27,False
+Goldfish,11.31,False
+Coral Reef,8.7,False
+Chow,52.62,True
+Pomeranian,28.36,True
+Toy Poodle,6.77,True
+Brabancon Griffon,40.99,True
+Malinois,24.46,True
+Bull Mastiff,7.48,True
+Acorn Squash,37.54,False
+Shih-Tzu,10.54,True
+Lhasa,7.28,True
+Golden Retriever,96.45,True
+Labrador Retriever,0.9,True
+Tennis Ball,0.71,False
+Chihuahua,28.72,True
+Boston Bull,25.09,True
+Whippet,14.1,True
+Brown Bear,69.82,False
+Sea Lion,4.65,False
+Beagle,1.94,True
+Toilet Tissue,13.5,False
+Mosquito Net,13.32,False
+Lakeland Terrier,10.91,True
+Seashore,34.61,False
+American Alligator,10.64,False
+Sandbar,4.93,False
+Porcupine,84.66,False
+Hamster,3.81,False
+Echidna,1.47,False
+Cardigan,61.15,True
+Pembroke,36.86,True
+Chihuahua,0.33,True
+German Shepherd,99.15,True
+Malinois,0.42,True
+Bloodhound,0.3,True
+Pug,62.29,True
+Norwegian Elkhound,4.87,True
+Cardigan,1.7,True
+Slug,99.81,False
+Ice Lolly,0.1,False
+Leafhopper,0.01,False
+Greater Swiss Mountain Dog,51.94,True
+Boxer,12.15,True
+Staffordshire Bullterrier,11.45,True
+Eskimo Dog,61.57,True
+Siberian Husky,19.95,True
+Malamute,17.91,True
+Pomeranian,66.7,True
+Shetland Sheepdog,2.8,True
+Ski Mask,2.07,False
+Airedale,30.54,True
+Kerry Blue Terrier,25.0,True
+Lakeland Terrier,18.87,True
+Ostrich,66.12,False
+Bearskin,21.49,False
+Swab,6.45,False
+Cardigan,98.47,True
+Pembroke,0.87,True
+Kelpie,0.22,True
+Shih-Tzu,17.98,True
+Badger,16.06,False
+Three-Toed Sloth,13.22,False
+Robin,36.97,False
+Rhinoceros Beetle,11.06,False
+European Fire Salamander,4.32,False
+Toy Poodle,92.8,True
+Miniature Poodle,6.89,True
+Standard Poodle,0.13,True
+Eskimo Dog,35.85,True
+Norwegian Elkhound,20.7,True
+Malamute,14.82,True
+Toy Poodle,68.56,True
+Miniature Poodle,15.19,True
+Maltese Dog,4.55,True
+Pomeranian,64.85,True
+Pekinese,33.98,True
+Persian Cat,0.64,False
+Collie,99.27,True
+Borzoi,0.5,True
+Shetland Sheepdog,0.17,True
+Pembroke,74.23,True
+Cardigan,8.49,True
+Eskimo Dog,6.83,True
+Jigsaw Puzzle,97.08,False
+Prayer Rug,1.1,False
+Quill,0.84,False
+Pug,58.62,True
+Brabancon Griffon,8.27,True
+Chihuahua,4.59,True
+Jack-O'-Lantern,17.21,False
+Schipperke,11.6,True
+Miniature Pinscher,5.22,True
+Toilet Seat,68.33,False
+Soft-Coated Wheaten Terrier,4.89,True
+Siberian Husky,3.04,True
+Brabancon Griffon,21.68,True
+Chihuahua,19.1,True
+Golden Retriever,16.33,True
+Suit,40.41,False
+Bow Tie,29.47,False
+Windsor Tie,13.27,False
+Maltese Dog,60.74,True
+Toy Poodle,14.38,True
+Sealyham Terrier,6.39,True
+Chihuahua,33.02,True
+Siamese Cat,18.16,False
+Kelpie,17.82,True
+Golden Retriever,93.63,True
+Cocker Spaniel,2.42,True
+Labrador Retriever,0.94,True
+German Short-Haired Pointer,93.58,True
+Kelpie,2.26,True
+Labrador Retriever,0.88,True
+Shih-Tzu,16.54,True
+Lhasa,11.7,True
+Yorkshire Terrier,6.39,True
+Water Bottle,61.45,False
+Ashcan,5.09,False
+Bucket,3.74,False
+Porcupine,15.19,False
+Hen,11.14,False
+Doormat,5.89,False
+Chesapeake Bay Retriever,38.22,True
+American Staffordshire Terrier,35.01,True
+Seat Belt,9.89,False
+Soft-Coated Wheaten Terrier,34.08,True
+Sealyham Terrier,23.49,True
+Kuvasz,20.35,True
+Pekinese,18.59,True
+Guinea Pig,17.3,False
+Pug,16.62,True
+Samoyed,98.99,True
+Arctic Fox,0.33,False
+Chow,0.28,True
+Labrador Retriever,95.77,True
+Beagle,1.24,True
+Golden Retriever,0.57,True
+Bull Mastiff,70.06,True
+Rhodesian Ridgeback,9.47,True
+Brabancon Griffon,5.76,True
+Wombat,88.03,False
+Corn,1.94,False
+Pug,1.9,True
+Newfoundland,22.31,True
+Leonberg,11.11,True
+Shovel,8.56,False
+Arctic Fox,15.33,False
+Golden Retriever,11.39,True
+Borzoi,11.07,True
+Beagle,98.51,True
+Basset,0.64,True
+Walker Hound,0.35,True
+Teddy,25.52,False
+Christmas Stocking,9.83,False
+Pajama,7.27,False
+Ox,19.34,False
+Warthog,12.38,False
+Bison,11.12,False
+English Setter,69.66,True
+Brittany Spaniel,10.4,True
+Ibizan Hound,3.48,True
+Rottweiler,52.92,True
+Miniature Pinscher,16.83,True
+Appenzeller,10.05,True
+Golden Retriever,67.28,True
+Labrador Retriever,27.59,True
+Kuvasz,2.23,True
+West Highland White Terrier,11.92,True
+Quill,10.4,False
+Maltese Dog,9.39,True
+Hamster,76.1,False
+Weasel,6.94,False
+Pomeranian,6.46,True
+Chihuahua,54.14,True
+Italian Greyhound,15.69,True
+Miniature Pinscher,6.96,True
+Ski Mask,98.1,False
+Chihuahua,1.36,True
+Kelpie,0.07,True
+Samoyed,97.88,True
+Pomeranian,1.28,True
+Eskimo Dog,0.19,True
+Miniature Pinscher,38.41,True
+Bloodhound,7.99,True
+Rottweiler,6.86,True
+Golden Retriever,88.92,True
+Labrador Retriever,6.47,True
+Great Pyrenees,1.26,True
+Shih-Tzu,61.05,True
+Maltese Dog,16.68,True
+Old English Sheepdog,13.2,True
+Airedale,44.3,True
+Brown Bear,11.42,False
+Chesapeake Bay Retriever,9.46,True
+Schipperke,88.81,True
+Groenendael,4.77,True
+Kelpie,4.14,True
+Tub,87.3,False
+Bathtub,9.14,False
+Toilet Seat,2.55,False
+Chow,51.73,True
+Pomeranian,20.61,True
+Koala,12.7,False
+French Bulldog,71.96,True
+Boxer,16.69,True
+Boston Bull,10.14,True
+Lakeland Terrier,83.66,True
+West Highland White Terrier,7.39,True
+Wire-Haired Fox Terrier,3.82,True
+Wombat,73.88,False
+Beaver,13.34,False
+Wallaby,3.24,False
+Car Mirror,23.28,False
+Basset,21.95,True
+Beagle,11.24,True
+Pug,83.64,True
+Brabancon Griffon,4.47,True
+French Bulldog,3.66,True
+Leaf Beetle,34.02,False
+Rhinoceros Beetle,13.97,False
+Crayfish,5.8,False
+Toy Poodle,67.8,True
+Miniature Poodle,16.03,True
+Airedale,6.56,True
+Chihuahua,29.23,True
+Pug,17.34,True
+French Bulldog,4.55,True
+Ram,37.45,False
+Bighorn,15.96,False
+Arabian Camel,11.19,False
+Motor Scooter,83.58,False
+Bobsled,3.59,False
+Moped,3.31,False
+Tusker,12.24,False
+Warthog,11.99,False
+Water Buffalo,10.59,False
+Chihuahua,41.24,True
+Beagle,6.81,True
+Borzoi,4.51,True
+Pembroke,58.26,True
+Cardigan,25.89,True
+Nipple,3.38,False
+Sandbar,11.82,False
+Stingray,7.59,False
+Seashore,7.51,False
+Chesapeake Bay Retriever,42.02,True
+Cardigan,26.6,True
+Labrador Retriever,4.25,True
+Golden Retriever,95.28,True
+Labrador Retriever,1.08,True
+Clumber,0.88,True
+Starfish,71.27,False
+Goldfish,25.89,False
+Sea Cucumber,0.2,False
+Microwave,98.19,False
+Rotisserie,0.75,False
+Television,0.59,False
+Toy Poodle,82.02,True
+Miniature Poodle,17.84,True
+Toilet Tissue,0.03,False
+Great Pyrenees,75.59,True
+Old English Sheepdog,8.23,True
+Afghan Hound,2.7,True
+Kuvasz,77.77,True
+Great Pyrenees,11.25,True
+Golden Retriever,3.84,True
+Gondola,13.43,False
+Lifeboat,10.84,False
+Bassinet,9.37,False
+Siamese Cat,38.39,False
+Chihuahua,16.03,True
+Giant Panda,14.77,False
+Golden Retriever,56.6,True
+Chow,8.12,True
+Irish Terrier,6.16,True
+Doberman,60.54,True
+Rottweiler,10.84,True
+Appenzeller,7.78,True
+West Highland White Terrier,58.62,True
+Borzoi,20.66,True
+Great Pyrenees,6.07,True
+Border Collie,59.95,True
+Collie,10.62,True
+Shetland Sheepdog,9.45,True
+Terrapin,87.93,False
+Cockroach,4.53,False
+Box Turtle,1.64,False
+Cocker Spaniel,15.04,True
+Toy Poodle,8.86,True
+Welsh Springer Spaniel,7.2,True
+Pug,91.47,True
+Norwegian Elkhound,1.5,True
+Siamese Cat,0.92,False
+Irish Terrier,71.69,True
+Miniature Pinscher,5.12,True
+Airedale,4.44,True
+Chihuahua,60.99,True
+Teddy,6.81,False
+Norwich Terrier,5.92,True
+Ostrich,99.9,False
+Arabian Camel,0.05,False
+Llama,0.01,False
+Pug,97.95,True
+French Bulldog,1.69,True
+Norwegian Elkhound,0.16,True
+Irish Terrier,41.32,True
+Airedale,33.56,True
+Toy Poodle,2.8,True
+Chihuahua,71.89,True
+Badger,17.85,False
+Toy Terrier,3.71,True
+Pug,33.25,True
+French Bulldog,25.81,True
+Bull Mastiff,12.09,True
+Killer Whale,82.39,False
+Grey Whale,3.66,False
+Hammerhead,2.95,False
+Beagle,95.82,True
+Basset,0.91,True
+Italian Greyhound,0.77,True
+Carton,95.26,False
+Crate,3.54,False
+Pug,0.33,True
+Cocker Spaniel,99.1,True
+Sussex Spaniel,0.4,True
+Miniature Poodle,0.13,True
+Pug,56.1,True
+French Bulldog,22.21,True
+Labrador Retriever,6.55,True
+Rottweiler,29.1,True
+American Black Bear,23.81,False
+Chimpanzee,11.55,False
+Tennis Ball,99.98,False
+Golden Retriever,0.01,True
+Racket,0.01,False
+Pug,79.41,True
+French Bulldog,14.08,True
+Bull Mastiff,4.47,True
+Hamster,13.24,False
+Toy Poodle,12.4,True
+Bubble,5.62,False
+Pug,86.34,True
+Shopping Cart,12.57,False
+Border Terrier,0.3,True
+Chow,24.35,True
+Hamster,22.71,False
+Pomeranian,5.61,True
+Labrador Retriever,56.79,True
+Golden Retriever,34.94,True
+Seat Belt,6.94,False
+Ski Mask,96.83,False
+Mask,2.19,False
+Abaya,0.55,False
+Bee Eater,30.26,False
+Toucan,21.96,False
+Chickadee,15.67,False
+China Cabinet,99.6,False
+Entertainment Center,0.2,False
+Bookcase,0.17,False
+Labrador Retriever,87.56,True
+Chihuahua,3.22,True
+Golden Retriever,1.72,True
+Chimpanzee,63.6,False
+Gorilla,9.88,False
+Fountain,3.18,False
+Dalmatian,11.43,True
+Teddy,6.23,False
+Steam Locomotive,4.97,False
+Chihuahua,50.04,True
+French Bulldog,11.28,True
+Italian Greyhound,6.29,True
+Prayer Rug,44.53,False
+Doormat,27.53,False
+Bib,4.88,False
+Ice Bear,25.12,False
+Ram,21.38,False
+Arctic Fox,8.16,False
+Toy Poodle,41.94,True
+Miniature Poodle,23.71,True
+Swing,10.42,False
+Stone Wall,27.11,False
+Irish Wolfhound,6.31,True
+Poncho,4.82,False
+Kuvasz,43.15,True
+Samoyed,11.71,True
+White Wolf,9.01,False
+Gordon Setter,46.94,True
+Black-And-Tan Coonhound,27.09,True
+Rottweiler,15.32,True
+Loafer,25.51,False
+Platypus,9.0,False
+Cowboy Boot,6.65,False
+Feather Boa,24.09,False
+Wig,8.59,False
+Wool,4.07,False
+Shetland Sheepdog,98.03,True
+Collie,0.67,True
+Papillon,0.62,True
+Park Bench,19.42,False
+Water Bottle,7.19,False
+Beacon,5.34,False
+Pug,53.77,True
+Bull Mastiff,22.06,True
+French Bulldog,6.83,True
+Hen,55.65,False
+Cock,44.2,False
+Black Swan,0.12,False
+Doberman,78.26,True
+Black-And-Tan Coonhound,10.97,True
+Gordon Setter,5.21,True
+Pomeranian,55.1,True
+Pekinese,13.53,True
+Gibbon,6.16,False
+Lakeland Terrier,42.83,True
+Wire-Haired Fox Terrier,11.15,True
+Toy Poodle,10.5,True
+Hermit Crab,62.54,False
+Tick,12.73,False
+Snail,9.79,False
+Toy Poodle,25.91,True
+Bath Towel,17.77,False
+Maltese Dog,7.17,True
+Swing,8.92,False
+Paddle,8.07,False
+Bathing Cap,6.57,False
+Hermit Crab,52.88,False
+Snail,18.56,False
+Shower Curtain,6.64,False
+German Shepherd,82.7,True
+Kelpie,8.76,True
+Red Wolf,3.12,False
+Samoyed,62.79,True
+Great Pyrenees,27.64,True
+Kuvasz,5.79,True
+Zebra,99.77,False
+Tiger,0.08,False
+Prairie Chicken,0.06,False
+Tub,39.36,False
+Bathtub,38.35,False
+Swimming Trunks,7.73,False
+Italian Greyhound,83.18,True
+Toy Terrier,4.33,True
+Chihuahua,3.68,True
+Miniature Poodle,31.38,True
+Toy Poodle,16.56,True
+Irish Terrier,5.61,True
+Picket Fence,38.29,False
+Rain Barrel,10.88,False
+Plastic Bag,3.89,False
+Chihuahua,31.91,True
+Whippet,16.91,True
+Toy Terrier,12.58,True
+Rottweiler,33.12,True
+Kelpie,21.86,True
+Appenzeller,18.25,True
+Refrigerator,82.98,False
+Toilet Seat,3.01,False
+Shower Curtain,1.55,False
+African Hunting Dog,73.3,False
+Plow,11.94,False
+Scottish Deerhound,2.7,True
+Pitcher,11.74,False
+Sunglasses,6.25,False
+Mask,5.95,False
+Labrador Retriever,49.5,True
+Chesapeake Bay Retriever,35.02,True
+Golden Retriever,14.24,True
+Rottweiler,78.12,True
+Black-And-Tan Coonhound,6.12,True
+Kelpie,4.89,True
+Yorkshire Terrier,46.72,True
+Cairn,44.01,True
+Silky Terrier,5.87,True
+Guinea Pig,38.77,False
+Wood Rabbit,17.17,False
+Borzoi,7.54,True
+Samoyed,58.73,True
+Great Pyrenees,26.9,True
+Pekinese,9.05,True
+Shih-Tzu,18.04,True
+Golden Retriever,18.02,True
+Labrador Retriever,17.37,True
+Goose,35.2,False
+Chihuahua,10.12,True
+Hen,6.58,False
+Malinois,40.63,True
+Kelpie,14.34,True
+Dingo,12.98,False
+Basenji,85.6,True
+Beagle,3.67,True
+Toy Terrier,2.93,True
+Redbone,86.62,True
+Beagle,6.12,True
+Rhodesian Ridgeback,2.43,True
+Microphone,9.61,False
+Accordion,9.41,False
+Drumstick,6.11,False
+Shih-Tzu,96.36,True
+Lhasa,1.6,True
+Guinea Pig,0.79,False
+Flamingo,99.27,False
+Coral Fungus,0.35,False
+Stinkhorn,0.19,False
+Pekinese,60.99,True
+Persian Cat,26.54,False
+Japanese Spaniel,2.75,True
+Malinois,31.76,True
+Norwegian Elkhound,27.49,True
+Bathing Cap,11.46,False
+Scorpion,92.8,False
+Tarantula,2.16,False
+Wolf Spider,1.48,False
+Labrador Retriever,94.75,True
+German Short-Haired Pointer,1.7,True
+Weimaraner,1.54,True
+Web Site,99.39,False
+Chihuahua,0.13,True
+Menu,0.06,False
+American Staffordshire Terrier,91.97,True
+Staffordshire Bullterrier,7.34,True
+Bull Mastiff,0.09,True
+Basset,99.41,True
+Walker Hound,0.4,True
+Beagle,0.14,True
+Old English Sheepdog,95.8,True
+Sealyham Terrier,1.39,True
+Border Collie,0.46,True
+Pomeranian,86.86,True
+Pekinese,9.01,True
+Chow,2.17,True
+Basenji,34.41,True
+Ibizan Hound,21.03,True
+Toy Terrier,19.63,True
+Pembroke,47.22,True
+Beagle,9.09,True
+German Shepherd,6.44,True
+Brown Bear,88.24,False
+Toy Poodle,3.14,True
+Miniature Poodle,2.57,True
+Beagle,29.6,True
+Basset,14.35,True
+Bluetick,13.9,True
+Dingo,77.71,False
+Pembroke,12.74,True
+Cardigan,2.4,True
+Lacewing,38.2,False
+Sulphur Butterfly,10.68,False
+Leafhopper,6.83,False
+Chihuahua,95.3,True
+French Bulldog,3.66,True
+Boston Bull,0.2,True
+Labrador Retriever,24.49,True
+American Black Bear,5.7,False
+Brown Bear,5.4,False
+Pug,77.66,True
+Brabancon Griffon,11.2,True
+Boxer,3.91,True
+Norfolk Terrier,17.29,True
+Golden Retriever,7.27,True
+Television,3.75,False
+Keeshond,99.41,True
+Norwegian Elkhound,0.18,True
+Cairn,0.18,True
+Dhole,35.04,False
+Hare,23.67,False
+Wood Rabbit,9.11,False
+Wood Rabbit,36.86,False
+Tabby,30.97,False
+Egyptian Cat,15.49,False
+Pomeranian,36.82,True
+Pekinese,35.1,True
+Golden Retriever,11.49,True
+Norwich Terrier,41.98,True
+Cairn,35.19,True
+Norfolk Terrier,5.11,True
+Shetland Sheepdog,7.11,True
+Home Theater,6.84,False
+American Staffordshire Terrier,6.7,True
+Ibizan Hound,34.27,True
+Brittany Spaniel,22.91,True
+Chihuahua,10.4,True
+Dandie Dinmont,67.61,True
+West Highland White Terrier,4.08,True
+Clumber,3.95,True
+Banana,10.73,False
+Orange,9.97,False
+Bagel,8.9,False
+Wool,7.01,False
+Siamang,6.25,False
+Gorilla,5.89,False
+Minivan,73.02,False
+Beach Wagon,7.87,False
+Car Wheel,6.43,False
+Axolotl,61.16,False
+Tailed Frog,18.65,False
+Common Newt,7.87,False
+Arctic Fox,18.82,False
+Indri,12.36,False
+Malamute,8.04,True
+Peacock,99.99,False
+European Gallinule,0.0,False
+Agama,0.0,False
+English Springer,40.37,True
+Brittany Spaniel,34.76,True
+Welsh Springer Spaniel,13.72,True
+Sussex Spaniel,40.36,True
+Otterhound,25.63,True
+Irish Terrier,18.73,True
+Sorrel,46.04,False
+Basenji,13.58,True
+Cardigan,9.92,True
+Jack-O'-Lantern,91.91,False
+Chesapeake Bay Retriever,2.74,True
+Labrador Retriever,2.01,True
+Window Shade,58.34,False
+Giant Schnauzer,6.22,True
+Window Screen,3.99,False
+Chow,33.53,True
+Golden Retriever,30.59,True
+Tibetan Mastiff,6.33,True
+Seat Belt,95.23,False
+Toy Terrier,3.89,True
+Beagle,0.32,True
+Chihuahua,27.58,True
+Corn,7.36,False
+Bolete,5.49,False
+Bow Tie,26.88,False
+Cardigan,15.4,False
+Wig,7.23,False
+Sea Urchin,49.33,False
+Porcupine,46.06,False
+Cardoon,0.81,False
+Maltese Dog,58.44,True
+Miniature Schnauzer,6.42,True
+Toy Poodle,6.09,True
+Ping-Pong Ball,99.99,False
+Tennis Ball,0.0,False
+Racket,0.0,False
+Pug,80.22,True
+French Bulldog,17.26,True
+Bull Mastiff,0.72,True
+Whippet,17.8,True
+Chesapeake Bay Retriever,10.6,True
+Beagle,7.87,True
+English Springer,97.49,True
+English Setter,1.17,True
+Cocker Spaniel,0.27,True
+Platypus,97.41,False
+Spotted Salamander,1.11,False
+Bison,0.39,False
+Cairn,24.5,True
+West Highland White Terrier,13.77,True
+Miniature Schnauzer,8.92,True
+Irish Terrier,25.49,True
+Briard,22.77,True
+Soft-Coated Wheaten Terrier,22.33,True
+Shetland Sheepdog,38.03,True
+Cardigan,34.28,True
+Guinea Pig,15.62,False
+Chihuahua,36.89,True
+Pomeranian,28.21,True
+Papillon,17.88,True
+Toy Poodle,38.33,True
+Miniature Poodle,15.37,True
+Chow,13.85,True
+German Short-Haired Pointer,27.35,True
+Staffordshire Bullterrier,13.29,True
+Bluetick,12.46,True
+Mud Turtle,15.75,False
+Terrapin,13.18,False
+Box Turtle,6.07,False
+Malamute,60.19,True
+Siberian Husky,34.01,True
+Eskimo Dog,5.0,True
+Boathouse,31.38,False
+Birdhouse,13.83,False
+Ashcan,4.57,False
+Italian Greyhound,32.93,True
+American Staffordshire Terrier,30.53,True
+Whippet,11.17,True
+Snail,56.36,False
+Slug,29.66,False
+Bolete,3.18,False
+Blenheim Spaniel,99.83,True
+Beagle,0.06,True
+Brittany Spaniel,0.04,True
+Web Site,90.16,False
+Borzoi,2.67,True
+Chihuahua,1.24,True
+Pot,27.38,False
+Tray,9.29,False
+Doormat,5.07,False
+Beagle,37.53,True
+Saint Bernard,17.49,True
+English Foxhound,11.59,True
+Piggy Bank,17.63,False
+Hair Spray,9.75,False
+Toy Poodle,8.65,True
+Teddy,95.31,False
+Koala,0.7,False
+Fur Coat,0.54,False
+Miniature Pinscher,73.47,True
+Rottweiler,13.11,True
+Doberman,8.15,True
+Vizsla,74.32,True
+Redbone,21.73,True
+Rhodesian Ridgeback,2.85,True
+Pomeranian,98.42,True
+Keeshond,1.02,True
+Papillon,0.22,True
+Car Mirror,34.31,False
+Seat Belt,11.03,False
+Wing,8.01,False
+Pembroke,85.85,True
+Hamster,2.63,False
+Shetland Sheepdog,2.24,True
+Washbasin,24.58,False
+Toilet Seat,10.94,False
+Paper Towel,10.57,False
+Pomeranian,99.83,True
+Chihuahua,0.06,True
+Pekinese,0.05,True
+Christmas Stocking,18.84,False
+Studio Couch,8.69,False
+Bookcase,8.26,False
+Dalmatian,14.13,True
+Borzoi,13.77,True
+Labrador Retriever,10.38,True
+Weasel,26.28,False
+Siamese Cat,14.83,False
+Hamster,11.64,False
+Seat Belt,87.45,False
+Golden Retriever,5.54,True
+Labrador Retriever,2.69,True
+Maltese Dog,65.96,True
+Tibetan Terrier,19.35,True
+Shih-Tzu,3.93,True
+Eskimo Dog,59.57,True
+Siberian Husky,21.45,True
+White Wolf,14.72,False
+Candle,17.43,False
+Lampshade,12.04,False
+Plunger,7.21,False
+West Highland White Terrier,94.68,True
+Miniature Schnauzer,2.23,True
+Cairn,0.95,True
+Minivan,87.35,False
+Pickup,4.13,False
+Beach Wagon,1.54,False
+Chihuahua,98.05,True
+Toy Terrier,0.92,True
+Miniature Pinscher,0.27,True
+Toy Poodle,62.37,True
+Miniature Poodle,25.99,True
+Standard Poodle,8.25,True
+Cocker Spaniel,35.98,True
+Blenheim Spaniel,13.95,True
+Toy Poodle,13.27,True
+Airedale,16.88,True
+Norfolk Terrier,10.75,True
+Lakeland Terrier,9.78,True
+Brabancon Griffon,48.33,True
+Miniature Pinscher,30.75,True
+Redbone,7.05,True
+Basset,74.94,True
+Beagle,13.36,True
+Welsh Springer Spaniel,3.02,True
+Golden Retriever,53.9,True
+Irish Setter,40.66,True
+Cocker Spaniel,4.15,True
+Labrador Retriever,36.78,True
+German Short-Haired Pointer,28.06,True
+Chesapeake Bay Retriever,18.42,True
+Chihuahua,97.4,True
+French Bulldog,1.08,True
+Pekinese,0.21,True
+Teddy,37.97,False
+Pembroke,21.23,True
+Chow,9.7,True
+Cuirass,75.68,False
+Breastplate,23.35,False
+Bulletproof Vest,0.38,False
+Siberian Husky,42.42,True
+Eskimo Dog,23.77,True
+Malamute,5.26,True
+Golden Retriever,91.96,True
+Labrador Retriever,4.97,True
+Kuvasz,1.02,True
+Seashore,20.17,False
+Cardigan,13.15,True
+Sandbar,10.14,False
+Golden Retriever,99.28,True
+Irish Setter,0.34,True
+Saluki,0.12,True
+Minivan,43.54,False
+Police Van,31.01,False
+Minibus,6.82,False
+Pug,91.05,True
+French Bulldog,5.51,True
+Chihuahua,1.49,True
+Chihuahua,80.35,True
+Pomeranian,5.39,True
+Chow,3.23,True
+Comic Book,27.59,False
+Bib,17.35,False
+Jersey,7.39,False
+Chihuahua,12.72,True
+Italian Greyhound,5.42,True
+Pillow,4.86,False
+Pembroke,82.29,True
+Cardigan,17.7,True
+Basenji,0.0,True
+Hog,11.38,False
+English Springer,8.98,True
+French Bulldog,8.22,True
+Lynx,28.75,False
+Tabby,20.6,False
+Koala,8.14,False
+Pug,91.73,True
+Waffle Iron,1.49,False
+Chihuahua,1.35,True
+Arabian Camel,99.96,False
+Bison,0.02,False
+Llama,0.01,False
+Doormat,97.61,False
+Chihuahua,0.56,True
+Norfolk Terrier,0.39,True
+Jellyfish,44.72,False
+Coral Reef,23.86,False
+Goldfish,4.02,False
+Golden Retriever,60.85,True
+Irish Setter,9.71,True
+Redbone,7.6,True
+Basset,60.54,True
+Welsh Springer Spaniel,18.48,True
+Saint Bernard,11.63,True
+Shower Curtain,22.63,False
+Chesapeake Bay Retriever,16.59,True
+Bathtub,5.67,False
+Cocker Spaniel,36.75,True
+Lakeland Terrier,27.26,True
+Soft-Coated Wheaten Terrier,6.7,True
+Standard Poodle,23.76,True
+Old English Sheepdog,19.56,True
+Toy Poodle,14.47,True
+Brittany Spaniel,82.84,True
+Ibizan Hound,4.31,True
+Blenheim Spaniel,2.8,True
+Kelpie,42.2,True
+Collie,22.71,True
+Cardigan,16.82,True
+Teddy,41.34,False
+Pillow,32.56,False
+Miniature Schnauzer,3.55,True
+Golden Retriever,90.35,True
+Tibetan Mastiff,4.15,True
+Kuvasz,2.25,True
+Malinois,64.02,True
+Irish Terrier,15.37,True
+Rhodesian Ridgeback,6.85,True
+Redbone,46.12,True
+Italian Greyhound,27.07,True
+Miniature Pinscher,10.98,True
+Chesapeake Bay Retriever,28.55,True
+Weimaraner,14.68,True
+Black-Footed Ferret,6.09,False
+Beagle,31.91,True
+Italian Greyhound,10.33,True
+Basenji,9.19,True
+Ski Mask,30.29,False
+Knee Pad,9.69,False
+Balance Beam,8.41,False
+Common Iguana,48.4,False
+Frilled Lizard,11.14,False
+Sandbar,7.9,False
+Vacuum,43.26,False
+Pug,14.63,True
+Toilet Tissue,2.45,False
+Komondor,100.0,True
+Llama,0.0,False
+Ram,0.0,False
+Pekinese,58.9,True
+Shih-Tzu,39.1,True
+Japanese Spaniel,0.33,True
+Miniature Schnauzer,90.45,True
+Australian Terrier,2.25,True
+Silky Terrier,1.52,True
+French Bulldog,96.54,True
+Pug,0.86,True
+Boston Bull,0.8,True
+Ox,7.15,False
+Groenendael,5.45,True
+Angora,4.5,False
+Chihuahua,70.82,True
+Pomeranian,9.14,True
+Titi,6.73,False
+Crash Helmet,75.79,False
+Toaster,3.75,False
+Mouse,2.73,False
+Bustard,38.08,False
+Pelican,10.06,False
+Crane,8.47,False
+Shih-Tzu,98.56,True
+Lhasa,0.71,True
+Pekinese,0.31,True
+Bearskin,42.79,False
+Bow,25.89,False
+Panpipe,2.16,False
+American Staffordshire Terrier,26.77,True
+French Bulldog,25.41,True
+Staffordshire Bullterrier,21.24,True
+Lakeland Terrier,37.3,True
+Toy Poodle,25.04,True
+Chihuahua,18.97,True
+Labrador Retriever,19.58,True
+Kuvasz,12.16,True
+English Setter,8.15,True
+Basenji,5.54,True
+Shetland Sheepdog,5.43,True
+Whippet,5.19,True
+Staffordshire Bullterrier,41.29,True
+Miniature Pinscher,16.15,True
+American Staffordshire Terrier,11.25,True
+Standard Poodle,58.74,True
+Bedlington Terrier,18.24,True
+Afghan Hound,4.1,True
+Arctic Fox,11.92,False
+Labrador Retriever,10.0,True
+Pug,8.67,True
+Shopping Basket,39.84,False
+Hamper,36.32,False
+Bassinet,8.42,False
+King Penguin,60.67,False
+Ice Bear,26.42,False
+Eskimo Dog,3.28,True
+Web Site,99.55,False
+Skunk,0.14,False
+Badger,0.07,False
+Golden Retriever,21.59,True
+Basset,18.92,True
+Cardigan,11.3,True
+Soft-Coated Wheaten Terrier,40.64,True
+Lakeland Terrier,26.39,True
+Toy Poodle,15.08,True
+Pembroke,48.48,True
+Cardigan,42.53,True
+Basenji,1.48,True
+Canoe,40.77,False
+Paddle,11.55,False
+Pembroke,9.44,True
+Chihuahua,73.45,True
+Miniature Pinscher,6.83,True
+Toy Terrier,4.64,True
+Chow,80.93,True
+Minivan,7.13,False
+Pekinese,3.79,True
+Trombone,39.03,False
+Cornet,31.41,False
+French Horn,25.52,False
+Chow,39.51,True
+Golden Retriever,37.21,True
+Labrador Retriever,14.88,True
+Labrador Retriever,65.52,True
+Golden Retriever,10.79,True
+Chesapeake Bay Retriever,6.58,True
+Blenheim Spaniel,95.84,True
+Cocker Spaniel,2.68,True
+Welsh Springer Spaniel,0.78,True
+Chihuahua,66.48,True
+Cowboy Boot,6.03,False
+Giant Panda,5.98,False
+Arctic Fox,47.36,False
+Wallaby,26.14,False
+White Wolf,8.09,False
+Angora,91.88,False
+Hen,3.78,False
+Wood Rabbit,1.1,False
+Pembroke,54.89,True
+Cardigan,19.11,True
+Collie,5.98,True
+Hamster,17.21,False
+Guinea Pig,9.49,False
+Band Aid,6.0,False
+Labrador Retriever,20.91,True
+Hog,20.4,False
+Newfoundland,16.59,True
+Leatherback Turtle,45.25,False
+Boxer,19.67,True
+Terrapin,16.1,False
+Frilled Lizard,25.77,False
+Ox,23.52,False
+Triceratops,8.53,False
+Norwegian Elkhound,29.89,True
+Malamute,27.95,True
+Eskimo Dog,19.84,True
+Pomeranian,80.04,True
+Pekinese,16.84,True
+Chihuahua,0.89,True
+Malamute,8.85,True
+Golden Retriever,8.75,True
+Muzzle,7.5,False
+Seat Belt,20.04,False
+Miniature Pinscher,10.6,True
+Schipperke,10.47,True
+Common Iguana,99.96,False
+Frilled Lizard,0.02,False
+African Chameleon,0.01,False
+Jigsaw Puzzle,100.0,False
+Prayer Rug,0.0,False
+Doormat,0.0,False
+Malamute,96.73,True
+Siberian Husky,1.62,True
+Eskimo Dog,1.13,True
+Miniature Pinscher,21.42,True
+Bath Towel,14.68,False
+Chihuahua,10.42,True
+Toyshop,25.31,False
+Chihuahua,18.72,True
+Brabancon Griffon,11.28,True
+Flat-Coated Retriever,50.84,True
+Chesapeake Bay Retriever,26.22,True
+Curly-Coated Retriever,4.89,True
+Dalmatian,53.51,True
+English Setter,45.12,True
+Great Dane,0.82,True
+Lorikeet,46.61,False
+Hummingbird,8.3,False
+African Grey,5.42,False
+West Highland White Terrier,36.05,True
+Pug,9.35,True
+Ice Bear,6.9,False
+Fire Engine,88.35,False
+Tow Truck,7.47,False
+Jeep,1.28,False
+Kuvasz,36.02,True
+Golden Retriever,29.37,True
+Labrador Retriever,27.07,True
+Ibex,61.91,False
+Bighorn,12.51,False
+Ram,7.47,False
+Electric Fan,98.44,False
+Spotlight,0.77,False
+Lampshade,0.19,False
+Toy Poodle,78.74,True
+Miniature Poodle,20.22,True
+Teddy,0.4,False
+Pomeranian,41.29,True
+Pembroke,31.3,True
+Chihuahua,7.2,True
+Yorkshire Terrier,61.9,True
+Silky Terrier,30.03,True
+Australian Terrier,5.34,True
+Pembroke,43.53,True
+Cardigan,30.74,True
+Cocker Spaniel,3.32,True
+Golden Retriever,63.3,True
+Kuvasz,14.64,True
+Labrador Retriever,4.62,True
+Hare,44.79,False
+Dhole,9.24,False
+Chesapeake Bay Retriever,8.81,True
+Italian Greyhound,12.52,True
+Standard Poodle,8.46,True
+Cocker Spaniel,8.13,True
+Beagle,63.62,True
+Labrador Retriever,11.93,True
+Golden Retriever,8.25,True
+Labrador Retriever,99.67,True
+Golden Retriever,0.17,True
+Beagle,0.07,True
+Chihuahua,14.4,True
+Christmas Stocking,11.87,False
+Ski Mask,9.25,False
+Borzoi,85.21,True
+Ice Bear,13.23,False
+Weasel,0.57,False
+Toy Poodle,30.42,True
+Pug,22.34,True
+Lakeland Terrier,7.33,True
+Tibetan Terrier,67.64,True
+Irish Terrier,5.49,True
+Yorkshire Terrier,4.06,True
+Labrador Retriever,82.57,True
+French Bulldog,5.66,True
+Staffordshire Bullterrier,5.4,True
+Goose,98.08,False
+Drake,0.69,False
+Hen,0.53,False
+Porcupine,98.92,False
+Bath Towel,0.63,False
+Badger,0.1,False
+Rottweiler,99.91,True
+Miniature Pinscher,0.05,True
+Black-And-Tan Coonhound,0.02,True
+Saint Bernard,38.14,True
+Leonberg,12.8,True
+Golden Retriever,6.94,True
+Papillon,55.7,True
+Border Collie,27.2,True
+Collie,7.35,True
+Teddy,70.95,False
+Bath Towel,12.73,False
+Christmas Stocking,2.86,False
+Golden Retriever,46.26,True
+Labrador Retriever,45.49,True
+Kuvasz,2.42,True
+Siberian Husky,69.49,True
+Malamute,23.2,True
+Eskimo Dog,5.06,True
+Rottweiler,28.36,True
+Miniature Pinscher,14.81,True
+Black-And-Tan Coonhound,9.56,True
+Vacuum,33.58,False
+Swab,26.53,False
+Toilet Tissue,14.07,False
+Golden Retriever,94.99,True
+Irish Setter,1.06,True
+Chesapeake Bay Retriever,0.58,True
+Vizsla,25.92,True
+Chesapeake Bay Retriever,17.63,True
+Weimaraner,11.24,True
+Soft-Coated Wheaten Terrier,31.9,True
+Lakeland Terrier,21.52,True
+Toy Poodle,10.6,True
+Toy Poodle,26.64,True
+Chihuahua,24.32,True
+Bluetick,7.28,True
+Giant Schnauzer,84.13,True
+Lakeland Terrier,5.27,True
+Irish Water Spaniel,3.44,True
+Miniature Pinscher,14.02,True
+Rottweiler,13.41,True
+Beagle,8.19,True
+Golden Retriever,47.14,True
+Miniature Poodle,9.2,True
+Standard Poodle,8.74,True
+Toy Poodle,53.54,True
+Pomeranian,8.75,True
+Miniature Poodle,6.21,True
+West Highland White Terrier,74.77,True
+Samoyed,24.36,True
+Toy Poodle,0.18,True
+Pembroke,74.16,True
+Chihuahua,5.79,True
+Toy Poodle,3.91,True
+Chihuahua,95.95,True
+Italian Greyhound,0.54,True
+Pomeranian,0.26,True
+Chihuahua,48.37,True
+Pug,9.25,True
+Brabancon Griffon,5.75,True
+Jigsaw Puzzle,56.0,False
+Doormat,10.33,False
+Space Heater,4.26,False
+Chesapeake Bay Retriever,82.57,True
+Vizsla,9.1,True
+Kelpie,2.3,True
+Golden Retriever,76.53,True
+Labrador Retriever,20.67,True
+Seat Belt,1.07,False
+Hyena,98.72,False
+African Hunting Dog,1.26,False
+Coyote,0.01,False
+Hay,50.76,False
+Rottweiler,6.25,True
+Water Buffalo,4.84,False
+Swab,58.94,False
+Chain Saw,19.01,False
+Wig,3.45,False
+Triceratops,44.21,False
+Armadillo,11.41,False
+Common Iguana,4.33,False
+Airedale,44.85,True
+Toy Poodle,12.4,True
+Teddy,11.02,False
+Maltese Dog,35.94,True
+Teddy,14.88,False
+West Highland White Terrier,10.6,True
+Miniature Schnauzer,49.7,True
+Standard Schnauzer,28.53,True
+Giant Schnauzer,7.38,True
+English Setter,32.88,True
+Brittany Spaniel,28.35,True
+Ibizan Hound,5.75,True
+Snail,99.99,False
+Slug,0.01,False
+Acorn,0.0,False
+Italian Greyhound,61.83,True
+Weimaraner,15.14,True
+Vizsla,8.6,True
+Seat Belt,37.51,False
+Miniature Pinscher,16.72,True
+Chihuahua,8.7,True
+Miniature Poodle,54.69,True
+Cocker Spaniel,16.53,True
+Toy Poodle,9.6,True
+Labrador Retriever,88.77,True
+Chihuahua,2.93,True
+French Bulldog,2.08,True
+German Shepherd,97.54,True
+Beagle,0.87,True
+Bloodhound,0.54,True
+Border Collie,44.78,True
+English Springer,17.05,True
+Collie,13.92,True
+Ibizan Hound,4.43,True
+Pembroke,4.32,True
+West Highland White Terrier,3.89,True
+Dalmatian,27.9,True
+Labrador Retriever,23.76,True
+Great Pyrenees,17.11,True
+Curly-Coated Retriever,32.21,True
+Giant Schnauzer,28.8,True
+Labrador Retriever,16.63,True
+Chihuahua,67.19,True
+Beagle,12.47,True
+Saluki,4.41,True
+Chesapeake Bay Retriever,18.41,True
+Chain Saw,5.68,False
+Power Drill,3.68,False
+Llama,50.52,False
+Irish Terrier,10.41,True
+Dingo,6.21,False
+Pembroke,37.14,True
+Chow,24.94,True
+Pomeranian,24.19,True
+Blenheim Spaniel,90.68,True
+Cocker Spaniel,9.03,True
+Shih-Tzu,0.11,True
+Toy Terrier,14.97,True
+Papillon,14.83,True
+Chihuahua,14.29,True
+Coho,40.46,False
+Barracouta,27.15,False
+Gar,18.99,False
+Black-And-Tan Coonhound,52.91,True
+Bloodhound,24.42,True
+Flat-Coated Retriever,17.38,True
+Chihuahua,97.81,True
+Toy Terrier,0.94,True
+Papillon,0.46,True
+Soft-Coated Wheaten Terrier,32.65,True
+Afghan Hound,25.96,True
+Briard,20.68,True
+Guinea Pig,99.65,False
+Skunk,0.24,False
+Hamster,0.05,False
+Malamute,33.69,True
+Siberian Husky,14.77,True
+Eskimo Dog,9.34,True
+Golden Retriever,85.87,True
+Chesapeake Bay Retriever,5.48,True
+Labrador Retriever,1.42,True
+Ox,41.67,False
+Newfoundland,27.84,True
+Groenendael,10.26,True
+Three-Toed Sloth,91.47,False
+Otter,1.52,False
+Great Grey Owl,1.32,False
+Maltese Dog,85.75,True
+Toy Poodle,6.31,True
+Miniature Poodle,2.56,True
+Italian Greyhound,17.61,True
+Toy Terrier,11.19,True
+Basenji,11.12,True
+Desktop Computer,8.65,False
+Desk,8.55,False
+Bookcase,7.95,False
+Hen,96.59,False
+Cock,3.39,False
+Partridge,0.01,False
+English Setter,29.86,True
+Newfoundland,14.98,True
+Borzoi,13.36,True
+Lhasa,58.23,True
+Shih-Tzu,16.62,True
+Dandie Dinmont,8.97,True
+Bloodhound,19.52,True
+German Shepherd,7.83,True
+Malinois,7.56,True
+Pug,48.98,True
+Bull Mastiff,40.47,True
+French Bulldog,4.9,True
+Walker Hound,26.09,True
+English Foxhound,17.54,True
+Ibizan Hound,9.75,True
+Gordon Setter,50.37,True
+Yorkshire Terrier,17.42,True
+Pekinese,10.95,True
+Golden Retriever,77.59,True
+Tibetan Mastiff,9.37,True
+Labrador Retriever,7.24,True
+Miniature Poodle,20.15,True
+Komondor,19.23,True
+Soft-Coated Wheaten Terrier,8.21,True
+Shopping Cart,96.25,False
+Shopping Basket,1.46,False
+Golden Retriever,0.8,True
+Chow,69.25,True
+Tibetan Mastiff,5.83,True
+Fur Coat,5.44,False
+Box Turtle,93.3,False
+Mud Turtle,4.59,False
+Terrapin,1.79,False
+Bernese Mountain Dog,65.11,True
+English Springer,26.38,True
+Greater Swiss Mountain Dog,1.62,True
+Miniature Pinscher,56.03,True
+Rottweiler,24.37,True
+Doberman,15.46,True
+Rhodesian Ridgeback,40.81,True
+Redbone,36.07,True
+Miniature Pinscher,22.28,True
+German Shepherd,59.65,True
+Malinois,13.86,True
+Bloodhound,11.62,True
+Redbone,50.68,True
+Miniature Pinscher,7.42,True
+Rhodesian Ridgeback,7.2,True
+Welsh Springer Spaniel,46.51,True
+Collie,15.67,True
+Shetland Sheepdog,6.14,True
